@@ -1,0 +1,1500 @@
+Available Extra Rooms in Hospital,Department,Ward_Facility_Code,doctor_name,staff_available,patientid,Age,gender,Type of Admission,Severity of Illness,health_conditions,Visitors with Patient,Insurance,Admission_Deposit,Stay (in days)
+4,gynecology,D,Dr Sophia,0,33070,41-50,Female,Trauma,Extreme,Diabetes,4,Yes,2966.408696,8
+4,gynecology,B,Dr Sophia,2,34808,31-40,Female,Trauma,Minor,Heart disease,2,No,3554.835677,9
+2,gynecology,B,Dr Sophia,8,44577,21-30,Female,Trauma,Extreme,Diabetes,2,Yes,5624.733654,7
+4,gynecology,D,Dr Olivia,7,3695,31-40,Female,Urgent,Moderate,None,4,No,4814.149231,8
+2,anesthesia,E,Dr Mark,10,108956,71-80,Male,Trauma,Moderate,Diabetes,2,No,5169.269637,34
+2,gynecology,F,Dr Olivia,2,130189,21-30,Female,Trauma,Moderate,Other,2,Yes,4539.268397,11
+7,gynecology,D,Dr Olivia,5,11175,31-40,Female,Emergency,Moderate,Other,3,Yes,4669.961786,8
+3,gynecology,B,Dr Sophia,8,82988,21-30,Female,Emergency,Moderate,Heart disease,3,Yes,5101.67548,7
+2,TB & Chest disease,A,Dr John,7,80339,31-40,Other,Trauma,Moderate,Other,2,No,4899.767616,12
+4,gynecology,D,Dr Sarah,7,89055,41-50,Female,Trauma,Extreme,Asthama,4,No,3350.366777,8
+4,anesthesia,A,Dr John,9,43685,31-40,Other,Trauma,Minor,Heart disease,2,Yes,4948.361736,16
+3,gynecology,F,Dr Sarah,9,128845,20-Nov,Female,Trauma,Moderate,Asthama,2,No,4013.745709,8
+5,gynecology,F,Dr Sarah,3,75122,41-50,Female,Trauma,Moderate,High Blood Pressure,11,Yes,3780.044174,8
+3,gynecology,F,Dr Sarah,2,47617,41-50,Female,Emergency,Minor,High Blood Pressure,9,Yes,7490.500433,11
+4,gynecology,F,Dr Sarah,7,74327,20-Nov,Female,Emergency,Minor,High Blood Pressure,4,Yes,7006.50635,9
+3,radiotherapy,E,Dr Sam,8,29701,31-40,Male,Trauma,Moderate,Heart disease,2,No,3986.82143,5
+3,radiotherapy,E,Dr John,6,59508,31-40,Other,Urgent,Moderate,None,6,Yes,4067.512043,5
+2,gynecology,B,Dr Olivia,6,28214,21-30,Female,Trauma,Moderate,Other,2,No,4283.167951,9
+4,radiotherapy,E,Dr John,5,116434,51-60,Other,Emergency,Moderate,Other,4,No,3747.83007,26
+4,gynecology,F,Dr Sophia,10,29197,21-30,Female,Trauma,Moderate,Diabetes,4,Yes,4090.595978,9
+2,radiotherapy,E,Dr John,5,46808,21-30,Other,Urgent,Extreme,None,4,No,4938.861702,21
+3,gynecology,F,Dr Sophia,6,31578,21-30,Female,Emergency,Extreme,Diabetes,2,No,7210.860025,10
+2,gynecology,F,Dr Nathan,0,24680,21-30,Female,Trauma,Minor,None,2,Yes,4496.93205,10
+2,gynecology,D,Dr Olivia,10,23721,41-50,Female,Emergency,Moderate,Other,2,Yes,5412.00905,10
+2,gynecology,D,Dr Olivia,2,107345,41-50,Female,Trauma,Moderate,Other,4,Yes,3511.08133,8
+2,gynecology,B,Dr Sarah,4,117749,31-40,Female,Trauma,Moderate,High Blood Pressure,6,Yes,6148.124858,9
+5,gynecology,B,Dr Sarah,10,3380,20-Nov,Female,Trauma,Extreme,Asthama,2,No,4403.050171,9
+4,radiotherapy,E,Dr John,0,12266,31-40,Female,Trauma,Moderate,Diabetes,4,No,4896.301777,5
+2,radiotherapy,A,Dr John,7,81577,41-50,Female,Trauma,Extreme,Diabetes,2,Yes,3917.356476,6
+3,radiotherapy,E,Dr Sam,8,126893,21-30,Male,Trauma,Minor,Heart disease,8,Yes,3990.442735,20
+5,radiotherapy,E,Dr John,6,5170,21-30,Female,Emergency,Minor,None,4,Yes,3678.545078,22
+2,radiotherapy,A,Dr John,4,33438,41-50,Female,Emergency,Extreme,Asthama,4,No,4941.894275,6
+4,anesthesia,E,Dr Mark,4,25729,21-30,Male,Trauma,Minor,Diabetes,4,No,4808.587819,34
+10,TB & Chest disease,E,Dr John,0,24354,31-40,Female,Urgent,Extreme,Asthama,6,Yes,5029.649724,10
+3,anesthesia,A,Dr John,2,124374,21-30,Female,Urgent,Moderate,High Blood Pressure,12,Yes,5063.558274,39
+2,TB & Chest disease,E,Dr John,9,50693,61-70,Female,Trauma,Moderate,Diabetes,2,No,3944.622601,26
+2,radiotherapy,E,Dr Sam,4,17417,21-30,Male,Trauma,Moderate,Diabetes,4,No,2698.507578,20
+4,gynecology,F,Dr Nathan,4,85436,31-40,Female,Emergency,Minor,None,3,No,4448.043015,8
+4,anesthesia,E,Dr John,10,65702,41-50,Female,Trauma,Extreme,Asthama,4,Yes,3348.847211,14
+3,anesthesia,E,Dr John,6,128123,41-50,Female,Urgent,Moderate,High Blood Pressure,2,Yes,5697.153126,17
+6,surgery,A,Dr Simon,8,24853,31-40,Female,Urgent,Moderate,None,6,No,7110.157482,10
+3,gynecology,F,Dr Sarah,10,15048,31-40,Female,Emergency,Minor,High Blood Pressure,2,Yes,4473.264962,8
+2,radiotherapy,E,Dr Sam,7,94749,31-40,Male,Emergency,Minor,High Blood Pressure,2,No,3943.378468,7
+5,gynecology,D,Dr Sophia,0,123244,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,3891.486702,7
+6,gynecology,B,Dr Sarah,10,125725,31-40,Female,Trauma,Moderate,High Blood Pressure,6,Yes,7061.540308,9
+3,gynecology,D,Dr Sarah,9,106670,20-Nov,Female,Trauma,Minor,Asthama,3,Yes,5127.172763,10
+4,radiotherapy,E,Dr Sam,10,1289,31-40,Male,Trauma,Minor,Other,4,Yes,3772.561924,8
+2,radiotherapy,A,Dr Sam,2,47222,31-40,Male,Trauma,Extreme,Asthama,3,Yes,4785.413778,6
+3,anesthesia,A,Dr John,7,35071,31-40,Female,Trauma,Moderate,Diabetes,2,No,5281.23263,17
+5,gynecology,D,Dr Sophia,5,85900,31-40,Female,Emergency,Moderate,Heart disease,4,No,5556.462309,7
+3,gynecology,F,Dr Sophia,4,105925,21-30,Female,Trauma,Minor,Diabetes,2,No,4635.366405,8
+2,gynecology,B,Dr Sarah,4,127887,21-30,Female,Trauma,Minor,High Blood Pressure,4,Yes,4261.713894,8
+3,gynecology,F,Dr Sophia,7,75198,21-30,Female,Trauma,Moderate,Diabetes,11,Yes,4600.873904,9
+4,gynecology,D,Dr Olivia,9,3749,21-30,Female,Trauma,Moderate,Other,4,Yes,4930.132302,7
+4,anesthesia,C,Dr John,3,32610,61-70,Other,Trauma,Extreme,Other,4,No,3922.684871,39
+2,gynecology,B,Dr Olivia,9,112080,41-50,Female,Trauma,Moderate,None,3,No,4713.805431,9
+5,gynecology,F,Dr Sarah,7,15520,20-Nov,Female,Trauma,Moderate,Asthama,4,Yes,3809.19033,8
+4,gynecology,F,Dr Sophia,9,50641,21-30,Female,Trauma,Moderate,Diabetes,6,Yes,4709.999771,8
+2,gynecology,D,Dr Sarah,7,31295,20-Nov,Female,Trauma,Moderate,Asthama,3,Yes,6678.051153,8
+3,radiotherapy,A,Dr John,4,116251,61-70,Female,Trauma,Extreme,Heart disease,4,Yes,3429.89739,26
+2,gynecology,F,Dr Sarah,9,83242,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4612.64597,10
+3,gynecology,D,Dr Olivia,1,120754,41-50,Female,Emergency,Moderate,Other,6,No,4663.125422,10
+4,gynecology,B,Dr Sophia,1,40476,41-50,Female,Trauma,Moderate,Diabetes,3,Yes,5167.654743,10
+4,gynecology,F,Dr Olivia,4,121454,31-40,Female,Emergency,Moderate,None,3,Yes,7005.024039,8
+3,anesthesia,A,Dr Mark,7,114135,51-60,Male,Emergency,Moderate,None,2,No,4831.783761,34
+3,gynecology,D,Dr Olivia,7,15250,21-30,Female,Emergency,Moderate,None,4,No,5135.139129,8
+3,anesthesia,A,Dr Mark,5,15974,51-60,Male,Trauma,Extreme,Diabetes,6,No,5297.601956,32
+4,gynecology,F,Dr Olivia,3,56312,31-40,Female,Trauma,Moderate,None,3,No,4439.064651,8
+4,gynecology,D,Dr Nathan,5,106428,41-50,Female,Emergency,Extreme,None,5,Yes,4268.185548,8
+5,gynecology,F,Dr Olivia,3,48355,41-50,Female,Trauma,Moderate,Other,4,No,2258.038752,10
+6,surgery,A,Dr Simon,5,38914,31-40,Female,Trauma,Minor,None,2,No,4748.367924,14
+2,radiotherapy,E,Dr John,3,86229,31-40,Female,Trauma,Moderate,High Blood Pressure,1,No,3711.560886,5
+3,radiotherapy,E,Dr John,2,101072,21-30,Other,Trauma,Minor,Diabetes,2,Yes,3740.708921,21
+3,radiotherapy,E,Dr John,0,128138,71-80,Other,Trauma,Moderate,Other,2,Yes,4717.733468,26
+3,gynecology,D,Dr Olivia,5,88018,21-30,Female,Emergency,Moderate,None,4,No,3940.951326,10
+2,radiotherapy,A,Dr John,8,45364,61-70,Other,Trauma,Moderate,None,2,Yes,5124.076045,22
+2,gynecology,F,Dr Olivia,9,91104,21-30,Female,Emergency,Moderate,Other,1,Yes,4365.784555,9
+5,gynecology,D,Dr Olivia,0,40003,21-30,Female,Emergency,Moderate,None,4,No,5111.623283,8
+5,radiotherapy,A,Dr John,10,5015,71-80,Other,Emergency,Moderate,Other,3,Yes,7035.792895,22
+2,anesthesia,E,Dr Mark,10,28803,51-60,Male,Urgent,Minor,None,2,Yes,4765.634076,34
+4,gynecology,D,Dr Sarah,3,54516,20-Nov,Female,Emergency,Moderate,Asthama,4,Yes,4686.892787,9
+5,gynecology,F,Dr Sophia,3,63542,41-50,Female,Trauma,Moderate,Diabetes,4,No,4718.362709,8
+6,radiotherapy,E,Dr John,7,60539,51-60,Other,Trauma,Moderate,None,4,Yes,4479.989499,24
+2,gynecology,D,Dr Sarah,4,84890,20-Nov,Female,Urgent,Minor,Asthama,2,No,7632.386582,9
+2,gynecology,B,Dr Sophia,7,96689,41-50,Female,Trauma,Extreme,Diabetes,4,Yes,3207.934454,8
+3,radiotherapy,E,Dr John,2,73791,31-40,Other,Trauma,Extreme,Asthama,2,No,4079.185965,5
+4,gynecology,D,Dr Nathan,0,82263,21-30,Female,Trauma,Minor,None,2,No,3891.545022,8
+2,anesthesia,A,Dr Mark,6,17657,61-70,Male,Emergency,Extreme,None,2,Yes,5140.239551,35
+3,radiotherapy,E,Dr Sam,8,103160,71-80,Male,Trauma,Minor,Diabetes,2,No,4658.696506,22
+3,radiotherapy,E,Dr Sam,1,81333,31-40,Male,Trauma,Minor,None,3,No,4935.997962,6
+4,gynecology,B,Dr Sarah,10,3151,31-40,Female,Trauma,Minor,High Blood Pressure,3,Yes,5928.445706,8
+4,gynecology,B,Dr Sarah,6,123360,20-Nov,Female,Trauma,Extreme,Asthama,3,Yes,5365.8252,8
+3,gynecology,F,Dr Nathan,7,15765,21-30,Female,Trauma,Minor,None,4,No,7275.646177,9
+3,radiotherapy,E,Dr John,6,111130,31-40,Female,Trauma,Minor,High Blood Pressure,3,No,7110.214056,6
+4,gynecology,D,Dr Sarah,6,127602,31-40,Female,Trauma,Minor,Asthama,14,Yes,4138.555622,9
+1,radiotherapy,E,Dr John,8,41395,21-30,Other,Urgent,Minor,High Blood Pressure,6,Yes,5379.441445,25
+2,gynecology,F,Dr Nathan,2,72703,31-40,Female,Emergency,Minor,None,2,No,5846.414922,9
+1,gynecology,F,Dr Olivia,2,8447,31-40,Female,Emergency,Moderate,None,2,No,4246.709854,10
+4,radiotherapy,E,Dr John,9,128984,41-50,Female,Emergency,Extreme,Diabetes,4,Yes,3720.666237,7
+5,gynecology,F,Dr Olivia,3,61017,21-30,Female,Trauma,Moderate,None,4,No,3280.927746,9
+4,gynecology,F,Dr Olivia,0,48912,21-30,Female,Trauma,Moderate,None,4,No,4634.749041,9
+2,gynecology,D,Dr Sarah,10,82878,41-50,Female,Urgent,Moderate,High Blood Pressure,2,Yes,4846.419957,9
+3,gynecology,B,Dr Olivia,4,79809,41-50,Female,Trauma,Moderate,None,6,No,4597.523927,7
+21,gynecology,D,Dr Nathan,7,50564,31-40,Female,Trauma,Minor,None,2,No,4817.679529,10
+3,gynecology,D,Dr Sophia,10,83439,31-40,Female,Trauma,Extreme,Diabetes,4,Yes,6075.534401,9
+3,radiotherapy,E,Dr John,7,50785,61-70,Female,Trauma,Moderate,High Blood Pressure,4,No,4827.59316,26
+2,gynecology,F,Dr Olivia,0,11062,21-30,Female,Trauma,Moderate,Other,4,No,4666.850203,10
+2,gynecology,D,Dr Nathan,5,76472,31-40,Female,Trauma,Extreme,Other,2,Yes,3628.461287,9
+2,radiotherapy,E,Dr John,9,97565,71-80,Other,Trauma,Moderate,None,2,Yes,4646.963861,23
+8,TB & Chest disease,E,Dr Mark,2,129313,21-30,Male,Trauma,Extreme,Asthama,2,No,4841.541282,33
+3,gynecology,D,Dr Sarah,10,2331,41-50,Female,Emergency,Moderate,High Blood Pressure,4,Yes,3228.819375,8
+2,gynecology,F,Dr Olivia,2,15266,31-40,Female,Trauma,Moderate,None,4,Yes,3875.516635,9
+2,gynecology,B,Dr Olivia,1,4288,21-30,Female,Trauma,Moderate,Other,4,Yes,4591.735232,9
+3,radiotherapy,E,Dr Sam,4,127971,61-70,Male,Emergency,Moderate,None,1,No,4694.490568,24
+2,gynecology,D,Dr Olivia,5,28972,21-30,Female,Emergency,Moderate,None,4,No,4863.803705,8
+4,gynecology,F,Dr Olivia,6,107106,21-30,Female,Trauma,Moderate,None,4,No,4917.227799,10
+4,gynecology,B,Dr Olivia,6,125240,41-50,Female,Urgent,Moderate,Other,4,No,3807.736806,9
+2,gynecology,D,Dr Olivia,8,30348,21-30,Female,Emergency,Moderate,None,2,Yes,5133.670345,9
+2,gynecology,F,Dr Sarah,8,45155,20-Nov,Female,Trauma,Moderate,High Blood Pressure,3,No,3730.690476,9
+3,gynecology,F,Dr Sarah,8,43693,20-Nov,Female,Trauma,Moderate,Asthama,3,Yes,4974.721438,9
+4,gynecology,D,Dr Nathan,4,41319,31-40,Female,Trauma,Extreme,None,4,Yes,3909.162218,8
+3,gynecology,F,Dr Sophia,9,4495,21-30,Female,Trauma,Minor,Diabetes,6,Yes,4824.243773,8
+2,gynecology,D,Dr Sarah,7,43439,31-40,Female,Urgent,Minor,Asthama,2,Yes,4136.615279,9
+4,radiotherapy,E,Dr John,7,103849,31-40,Other,Trauma,Minor,None,4,No,4065.0283,6
+6,gynecology,D,Dr Sarah,9,42611,20-Nov,Female,Emergency,Moderate,High Blood Pressure,4,Yes,5084.354988,8
+3,gynecology,B,Dr Sarah,0,28971,31-40,Female,Trauma,Extreme,Asthama,2,No,5309.97018,7
+3,gynecology,F,Dr Sarah,4,29717,20-Nov,Female,Trauma,Minor,Asthama,2,No,6647.214251,7
+3,gynecology,D,Dr Sarah,0,87199,21-30,Female,Emergency,Minor,Asthama,2,Yes,5791.681562,9
+3,gynecology,F,Dr Nathan,0,72329,21-30,Female,Urgent,Minor,Other,3,Yes,4718.07743,8
+5,gynecology,F,Dr Nathan,6,74233,21-30,Female,Trauma,Minor,Other,4,No,3815.256755,9
+2,TB & Chest disease,E,Dr John,2,129964,61-70,Other,Trauma,Moderate,Other,2,No,4685.666847,19
+2,gynecology,B,Dr Sarah,1,27208,20-Nov,Female,Trauma,Extreme,Asthama,2,Yes,5562.346829,9
+3,anesthesia,E,Dr John,1,29577,31-40,Female,Trauma,Minor,None,3,Yes,4779.630205,19
+11,gynecology,F,Dr Nathan,2,42896,21-30,Female,Emergency,Minor,None,5,Yes,5341.803592,8
+3,gynecology,D,Dr Nathan,8,28340,21-30,Female,Emergency,Minor,Other,4,No,3800.198,9
+3,gynecology,B,Dr Sarah,8,89376,31-40,Female,Trauma,Moderate,Asthama,14,Yes,5034.689462,9
+6,gynecology,B,Dr Sarah,5,68306,20-Nov,Female,Emergency,Extreme,Asthama,6,Yes,4271.894954,9
+2,anesthesia,A,Dr Mark,0,99238,61-70,Male,Trauma,Moderate,None,2,Yes,5705.953801,38
+2,gynecology,D,Dr Sarah,0,9855,20-Nov,Female,Emergency,Moderate,Asthama,2,Yes,3893.260375,8
+2,gynecology,B,Dr Sophia,2,88164,21-30,Female,Trauma,Extreme,Diabetes,6,Yes,6939.663575,7
+2,gynecology,F,Dr Olivia,3,111724,21-30,Female,Trauma,Moderate,None,4,Yes,7064.144192,8
+2,gynecology,F,Dr Olivia,8,46429,21-30,Female,Trauma,Moderate,None,4,Yes,4713.752887,9
+21,anesthesia,E,Dr John,0,104672,31-40,Female,Emergency,Minor,Other,3,Yes,4477.801067,13
+3,gynecology,D,Dr Sarah,4,35122,20-Nov,Female,Urgent,Moderate,Asthama,2,Yes,5046.235748,9
+4,gynecology,B,Dr Sarah,9,2900,20-Nov,Female,Emergency,Moderate,High Blood Pressure,2,Yes,4742.764687,8
+2,anesthesia,E,Dr John,4,86570,51-60,Female,Trauma,Moderate,None,4,Yes,4961.9182,36
+2,gynecology,F,Dr Olivia,2,43714,21-30,Female,Trauma,Moderate,None,4,Yes,2489.557042,9
+2,anesthesia,C,Dr Mark,1,126221,71-80,Male,Emergency,Moderate,None,2,Yes,4672.975045,31
+4,gynecology,D,Dr Sarah,1,41108,41-50,Female,Trauma,Extreme,High Blood Pressure,4,Yes,4588.296314,7
+3,gynecology,B,Dr Sarah,5,74875,20-Nov,Female,Trauma,Minor,High Blood Pressure,2,Yes,4600.865182,10
+4,gynecology,D,Dr Nathan,4,127001,21-30,Female,Emergency,Extreme,None,4,Yes,3577.398237,7
+13,gynecology,F,Dr Nathan,5,79546,31-40,Female,Trauma,Minor,None,7,Yes,3850.891545,11
+4,gynecology,B,Dr Sarah,3,87976,20-Nov,Female,Urgent,Moderate,High Blood Pressure,2,Yes,6778.33401,8
+4,gynecology,F,Dr Sarah,2,105615,41-50,Female,Trauma,Minor,Asthama,4,Yes,4719.450214,9
+2,gynecology,F,Dr Olivia,6,97032,31-40,Female,Emergency,Moderate,None,2,Yes,4609.8213,8
+4,gynecology,F,Dr Olivia,2,10645,21-30,Female,Trauma,Moderate,None,3,Yes,3497.666831,10
+2,gynecology,F,Dr Sarah,4,14087,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,6765.336973,8
+2,gynecology,B,Dr Olivia,3,124227,31-40,Female,Emergency,Moderate,None,2,Yes,3544.851744,8
+10,gynecology,D,Dr Nathan,0,118588,31-40,Female,Trauma,Minor,None,4,Yes,5072.320831,10
+2,gynecology,D,Dr Olivia,9,49471,31-40,Female,Emergency,Moderate,Other,12,Yes,3744.412695,10
+4,radiotherapy,E,Dr John,4,97720,71-80,Other,Trauma,Extreme,Asthama,4,Yes,3612.183546,20
+3,gynecology,F,Dr Olivia,5,6248,21-30,Female,Urgent,Moderate,None,3,Yes,4915.654189,8
+4,gynecology,B,Dr Nathan,5,89731,31-40,Female,Trauma,Extreme,None,4,Yes,4696.810607,8
+2,gynecology,D,Dr Olivia,5,89856,21-30,Female,Trauma,Moderate,None,4,Yes,6817.120115,7
+3,gynecology,F,Dr Sarah,2,68706,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4801.029017,11
+2,gynecology,B,Dr Olivia,7,47583,21-30,Female,Trauma,Moderate,Other,2,Yes,5888.818033,8
+3,gynecology,B,Dr Nathan,10,79775,21-30,Female,Trauma,Minor,Other,6,Yes,4631.401115,8
+3,gynecology,D,Dr Sophia,4,110701,21-30,Female,Trauma,Extreme,Heart disease,2,Yes,3725.815868,7
+3,gynecology,F,Dr Sophia,7,60101,21-30,Female,Urgent,Moderate,Heart disease,2,Yes,5130.566143,9
+4,surgery,A,Dr Isaac,6,42733,61-70,Male,Trauma,Moderate,None,2,Yes,5377.743314,40
+4,gynecology,D,Dr Nathan,4,80885,21-30,Female,Trauma,Minor,None,4,Yes,6559.09036,7
+4,gynecology,F,Dr Nathan,5,34309,21-30,Female,Trauma,Extreme,None,4,Yes,4811.405804,7
+3,gynecology,D,Dr Sophia,9,14703,31-40,Female,Urgent,Minor,Heart disease,2,Yes,3996.147718,8
+7,radiotherapy,A,Dr John,2,86020,41-50,Female,Trauma,Moderate,None,4,Yes,4227.398675,5
+2,gynecology,B,Dr Nathan,2,80606,21-30,Female,Emergency,Minor,Other,2,Yes,6535.364931,9
+2,gynecology,B,Dr Sophia,3,46394,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,5288.871589,9
+3,gynecology,F,Dr Sarah,4,24815,20-Nov,Female,Emergency,Moderate,High Blood Pressure,4,Yes,3910.427698,8
+3,radiotherapy,E,Dr John,0,38286,41-50,Other,Trauma,Moderate,High Blood Pressure,4,Yes,3272.835245,7
+4,radiotherapy,E,Dr John,10,2081,41-50,Other,Urgent,Moderate,Heart disease,2,Yes,3367.021709,7
+4,gynecology,B,Dr Sophia,7,128805,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,5607.629457,10
+2,anesthesia,A,Dr Mark,7,3570,41-50,Male,Trauma,Minor,None,2,Yes,3887.056471,15
+4,gynecology,F,Dr Sophia,9,50736,31-40,Female,Trauma,Moderate,Heart disease,3,Yes,6823.28062,8
+5,gynecology,D,Dr Sarah,4,46458,41-50,Female,Emergency,Minor,High Blood Pressure,4,Yes,5674.30181,9
+3,gynecology,F,Dr Olivia,0,6504,21-30,Female,Urgent,Moderate,Other,2,Yes,4004.28696,9
+3,radiotherapy,A,Dr John,10,15970,41-50,Female,Trauma,Moderate,Other,3,Yes,5454.742374,5
+4,gynecology,B,Dr Nathan,9,93129,21-30,Female,Trauma,Minor,None,2,Yes,4099.605241,9
+2,radiotherapy,A,Dr John,7,13038,51-60,Female,Trauma,Minor,High Blood Pressure,3,Yes,6278.117867,21
+4,TB & Chest disease,A,Dr John,10,14311,41-50,Other,Trauma,Moderate,None,2,Yes,4090.374389,13
+3,gynecology,B,Dr Sarah,7,21601,31-40,Female,Trauma,Extreme,High Blood Pressure,2,Yes,4948.917023,8
+3,radiotherapy,E,Dr Sam,6,57015,71-80,Male,Trauma,Moderate,None,6,Yes,6392.877343,20
+3,gynecology,F,Dr Olivia,1,4086,21-30,Female,Trauma,Moderate,None,6,Yes,4169.393378,10
+2,radiotherapy,E,Dr John,5,22077,41-50,Other,Trauma,Moderate,None,2,Yes,6999.088479,6
+2,radiotherapy,A,Dr Sam,7,20473,21-30,Male,Trauma,Moderate,Heart disease,2,Yes,5747.780541,23
+3,gynecology,F,Dr Olivia,5,65130,21-30,Female,Urgent,Moderate,Other,2,Yes,4864.160328,8
+4,gynecology,F,Dr Sarah,2,124134,31-40,Female,Trauma,Minor,High Blood Pressure,4,Yes,3546.853687,9
+4,gynecology,B,Dr Olivia,5,3697,31-40,Female,Emergency,Moderate,None,4,Yes,3779.076088,9
+4,gynecology,D,Dr Sophia,5,120082,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,3497.252514,9
+3,gynecology,F,Dr Sarah,2,2451,31-40,Female,Trauma,Minor,High Blood Pressure,3,Yes,4103.792852,7
+3,gynecology,F,Dr Olivia,10,110765,21-30,Female,Trauma,Moderate,None,4,Yes,3938.979822,8
+3,anesthesia,A,Dr John,6,112745,41-50,Other,Trauma,Moderate,Heart disease,2,Yes,4325.049081,17
+4,gynecology,B,Dr Olivia,8,8535,21-30,Female,Trauma,Moderate,Other,2,Yes,3870.615575,10
+2,gynecology,D,Dr Nathan,5,116473,21-30,Female,Trauma,Extreme,None,2,Yes,4170.827586,9
+2,gynecology,D,Dr Sarah,0,11531,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,5049.228615,9
+2,gynecology,F,Dr Nathan,2,38494,21-30,Female,Emergency,Minor,Other,4,Yes,5165.033271,8
+5,gynecology,F,Dr Nathan,6,9185,31-40,Female,Trauma,Minor,Other,8,Yes,7518.473602,9
+4,gynecology,D,Dr Nathan,8,102231,21-30,Female,Trauma,Extreme,Other,4,Yes,3701.21047,10
+4,anesthesia,A,Dr Mark,3,13342,31-40,Male,Trauma,Minor,Other,6,Yes,5116.571712,18
+4,radiotherapy,E,Dr John,10,34305,71-80,Female,Emergency,Moderate,None,4,Yes,4100.743415,23
+3,radiotherapy,E,Dr Sam,0,9904,51-60,Male,Emergency,Moderate,None,3,Yes,6321.1479,20
+3,radiotherapy,E,Dr Sam,8,58556,61-70,Male,Emergency,Moderate,Other,4,Yes,3926.737272,22
+5,gynecology,D,Dr Olivia,10,115060,41-50,Female,Trauma,Moderate,None,6,Yes,6539.532122,9
+4,gynecology,F,Dr Nathan,0,55505,21-30,Female,Urgent,Extreme,None,2,Yes,5654.480592,9
+4,surgery,A,Dr Simon,6,75113,81-90,Female,Trauma,Moderate,None,3,Yes,5009.104811,39
+5,gynecology,B,Dr Olivia,1,38326,41-50,Female,Trauma,Moderate,Other,4,Yes,4658.602999,8
+4,radiotherapy,A,Dr John,10,86579,51-60,Other,Emergency,Minor,Other,2,Yes,3563.549831,23
+4,gynecology,F,Dr Nathan,10,102204,31-40,Female,Trauma,Minor,Other,2,Yes,4723.262741,9
+5,anesthesia,E,Dr John,4,110019,51-60,Other,Trauma,Moderate,None,4,Yes,4107.257335,28
+3,gynecology,D,Dr Nathan,1,37738,21-30,Female,Trauma,Minor,None,2,Yes,3569.914261,9
+5,gynecology,D,Dr Nathan,4,73223,21-30,Female,Trauma,Extreme,Other,4,Yes,3673.512407,9
+11,gynecology,B,Dr Olivia,4,47791,21-30,Female,Emergency,Moderate,Other,13,Yes,3250.698861,9
+3,gynecology,B,Dr Olivia,4,83370,21-30,Female,Trauma,Moderate,Other,2,Yes,4829.442337,10
+3,radiotherapy,E,Dr John,5,118928,31-40,Other,Trauma,Moderate,Other,2,Yes,6752.395533,7
+3,gynecology,B,Dr Olivia,2,6086,41-50,Female,Trauma,Moderate,None,4,Yes,3169.833743,8
+4,radiotherapy,E,Dr John,1,40921,71-80,Other,Emergency,Minor,Other,3,Yes,4182.823448,23
+3,TB & Chest disease,E,Dr John,2,9330,21-30,Female,Emergency,Moderate,Other,14,Yes,5121.367997,21
+2,gynecology,B,Dr Olivia,7,109472,21-30,Female,Trauma,Moderate,Other,2,Yes,5091.29076,11
+4,gynecology,F,Dr Olivia,0,124391,21-30,Female,Trauma,Moderate,None,2,Yes,2846.55588,8
+2,radiotherapy,A,Dr John,9,13166,71-80,Female,Trauma,Moderate,None,4,Yes,4755.762329,26
+4,radiotherapy,A,Dr John,2,116124,61-70,Female,Trauma,Moderate,Other,11,Yes,2844.99329,20
+2,radiotherapy,A,Dr Sam,5,74844,21-30,Male,Trauma,Extreme,Other,2,Yes,6304.064531,20
+4,gynecology,B,Dr Olivia,2,49900,21-30,Female,Trauma,Moderate,Other,11,Yes,4335.471167,8
+2,gynecology,F,Dr Olivia,6,96478,21-30,Female,Trauma,Moderate,Other,2,Yes,5174.878472,9
+2,gynecology,B,Dr Olivia,4,84544,21-30,Female,Trauma,Moderate,Other,4,Yes,3473.165415,9
+3,gynecology,D,Dr Nathan,0,20638,21-30,Female,Trauma,Minor,Other,8,Yes,4835.857127,9
+5,gynecology,F,Dr Olivia,6,57811,21-30,Female,Trauma,Moderate,Other,4,Yes,4148.941942,8
+4,gynecology,F,Dr Nathan,4,19849,21-30,Female,Emergency,Minor,Other,2,Yes,5068.990933,9
+2,surgery,A,Dr Isaac,6,60990,61-70,Male,Trauma,Moderate,None,4,Yes,4379.761493,33
+2,gynecology,D,Dr Nathan,10,37928,21-30,Female,Trauma,Minor,Other,4,Yes,6570.096449,7
+2,gynecology,B,Dr Olivia,8,52669,21-30,Female,Emergency,Moderate,Other,2,Yes,4822.787137,10
+5,gynecology,B,Dr Nathan,5,39806,21-30,Female,Trauma,Minor,None,2,Yes,4812.942434,8
+3,gynecology,F,Dr Olivia,0,16699,31-40,Female,Trauma,Moderate,None,2,Yes,4814.310704,12
+3,gynecology,F,Dr Olivia,2,29767,21-30,Female,Trauma,Moderate,Other,3,Yes,5876.779474,9
+3,gynecology,B,Dr Olivia,10,202,31-40,Female,Trauma,Moderate,Other,4,Yes,3524.582316,8
+3,gynecology,D,Dr Nathan,0,110592,21-30,Female,Urgent,Minor,None,2,Yes,3180.601827,8
+2,gynecology,B,Dr Olivia,9,34997,21-30,Female,Trauma,Moderate,Other,2,Yes,3287.564913,7
+4,radiotherapy,C,Dr John,9,355,71-80,Other,Emergency,Moderate,Other,4,Yes,3850.186755,21
+3,gynecology,F,Dr Olivia,2,121562,21-30,Female,Trauma,Moderate,Other,2,Yes,4531.748023,10
+4,gynecology,F,Dr Nathan,6,1460,31-40,Female,Trauma,Minor,Other,4,Yes,4556.748265,9
+6,gynecology,D,Dr Nathan,2,126151,31-40,Female,Trauma,Extreme,None,4,Yes,4978.795081,9
+3,radiotherapy,E,Dr John,10,37957,71-80,Female,Trauma,Moderate,Other,6,Yes,4325.376688,25
+3,gynecology,D,Dr Olivia,5,128287,31-40,Female,Urgent,Moderate,None,2,Yes,4465.673127,9
+3,anesthesia,E,Dr John,0,109668,31-40,Other,Trauma,Minor,Other,9,Yes,4114.217365,16
+4,gynecology,B,Dr Olivia,2,126734,21-30,Female,Emergency,Moderate,Other,6,Yes,4649.339948,8
+4,gynecology,F,Dr Olivia,10,77718,21-30,Female,Trauma,Moderate,None,4,Yes,2555.82843,8
+2,radiotherapy,E,Dr Sam,8,17571,51-60,Male,Trauma,Moderate,Other,6,Yes,3580.994974,19
+3,gynecology,F,Dr Nathan,3,105588,31-40,Female,Urgent,Minor,Other,2,Yes,6989.511523,9
+3,gynecology,F,Dr Nathan,1,44302,21-30,Female,Urgent,Minor,None,2,Yes,4271.528172,8
+3,gynecology,F,Dr Olivia,1,12896,21-30,Female,Trauma,Moderate,Other,6,Yes,2377.473804,11
+5,radiotherapy,E,Dr John,6,23128,51-60,Female,Trauma,Moderate,Other,4,Yes,4192.644092,27
+4,anesthesia,C,Dr John,4,118794,71-80,Other,Emergency,Minor,Other,2,Yes,6406.54134,34
+5,radiotherapy,C,Dr John,9,7122,41-50,Other,Emergency,Moderate,Other,5,Yes,5276.178345,6
+3,gynecology,F,Dr Olivia,2,125722,41-50,Female,Trauma,Moderate,None,4,Yes,4192.051162,7
+4,gynecology,F,Dr Nathan,7,79994,31-40,Female,Trauma,Minor,None,4,Yes,4627.28245,8
+4,gynecology,F,Dr Olivia,7,29888,41-50,Female,Trauma,Moderate,Other,4,Yes,6780.787254,9
+2,TB & Chest disease,A,Dr John,5,4501,51-60,Other,Trauma,Moderate,Other,2,Yes,4890.467586,27
+3,gynecology,D,Dr Olivia,0,14556,31-40,Female,Trauma,Moderate,None,4,Yes,4680.153644,9
+2,radiotherapy,A,Dr Sam,2,2739,31-40,Male,Trauma,Moderate,None,2,Yes,4190.846511,5
+3,gynecology,F,Dr Nathan,1,43475,21-30,Female,Urgent,Minor,Other,2,Yes,6994.664095,8
+4,gynecology,D,Dr Nathan,6,39299,21-30,Female,Trauma,Extreme,Other,4,Yes,3186.147402,9
+4,gynecology,B,Dr Olivia,4,52990,41-50,Female,Emergency,Moderate,Other,4,Yes,3985.166619,9
+2,gynecology,D,Dr Olivia,9,125468,21-30,Female,Emergency,Moderate,Other,6,Yes,4745.760423,8
+10,gynecology,D,Dr Nathan,1,79649,21-30,Female,Trauma,Minor,Other,6,Yes,7305.419679,8
+4,gynecology,F,Dr Olivia,10,52001,31-40,Female,Trauma,Moderate,None,3,Yes,3945.152024,9
+4,gynecology,F,Dr Olivia,2,37233,21-30,Female,Trauma,Moderate,None,2,Yes,4467.439516,8
+2,gynecology,B,Dr Olivia,4,38600,21-30,Female,Trauma,Moderate,Other,2,Yes,4830.422078,7
+4,gynecology,D,Dr Nathan,4,105877,21-30,Female,Trauma,Extreme,Other,3,Yes,4297.092079,8
+2,anesthesia,A,Dr John,2,5098,21-30,Female,Urgent,Minor,None,2,Yes,4319.298992,36
+3,gynecology,F,Dr Nathan,3,11460,41-50,Female,Trauma,Minor,Other,3,Yes,3924.933089,7
+2,anesthesia,E,Dr John,6,61892,71-80,Female,Trauma,Moderate,Other,2,Yes,3963.485442,30
+4,gynecology,B,Dr Nathan,3,79012,41-50,Female,Emergency,Minor,None,4,Yes,3278.301851,8
+4,gynecology,D,Dr Nathan,3,40172,41-50,Female,Trauma,Extreme,None,3,Yes,3809.334968,8
+2,gynecology,D,Dr Olivia,0,82219,21-30,Female,Trauma,Moderate,Other,4,Yes,4777.910779,9
+3,gynecology,D,Dr Olivia,7,77210,21-30,Female,Emergency,Moderate,Other,2,Yes,4337.200498,9
+6,radiotherapy,C,Dr John,7,82112,31-40,Female,Emergency,Moderate,Other,4,Yes,4102.671611,4
+2,gynecology,F,Dr Olivia,3,29034,41-50,Female,Emergency,Moderate,Other,3,Yes,3828.225907,9
+2,gynecology,B,Dr Olivia,9,3066,21-30,Female,Trauma,Moderate,None,2,Yes,4569.563833,10
+3,anesthesia,A,Dr John,6,126590,61-70,Other,Urgent,Moderate,Other,4,Yes,4340.363051,35
+3,radiotherapy,E,Dr Sam,6,107695,81-90,Male,Urgent,Moderate,Other,3,Yes,5014.224636,22
+3,anesthesia,A,Dr John,9,3874,41-50,Other,Trauma,Moderate,Other,2,Yes,4810.627233,18
+2,gynecology,D,Dr Nathan,5,59684,41-50,Female,Trauma,Extreme,None,4,Yes,5990.781433,7
+2,gynecology,F,Dr Nathan,0,108601,31-40,Female,Emergency,Minor,Other,9,Yes,3721.262999,9
+3,gynecology,D,Dr Olivia,1,108221,21-30,Female,Emergency,Moderate,Other,2,Yes,4111.7109,10
+5,gynecology,F,Dr Olivia,2,9051,41-50,Female,Emergency,Moderate,Other,9,Yes,4199.032344,9
+2,gynecology,D,Dr Olivia,10,110997,21-30,Female,Emergency,Moderate,Other,3,Yes,3603.907246,8
+2,TB & Chest disease,A,Dr Mark,8,125494,51-60,Male,Urgent,Minor,Other,2,Yes,4376.053997,29
+3,gynecology,F,Dr Nathan,1,124815,31-40,Female,Urgent,Minor,None,3,Yes,5052.309048,9
+3,radiotherapy,E,Dr John,5,21047,71-80,Female,Emergency,Moderate,Other,8,Yes,4623.940209,21
+9,gynecology,F,Dr Nathan,6,128279,21-30,Female,Trauma,Extreme,None,4,Yes,3559.230519,9
+4,gynecology,D,Dr Nathan,9,131062,41-50,Female,Urgent,Minor,Other,3,Yes,4607.663178,7
+4,gynecology,D,Dr Olivia,8,62012,21-30,Female,Trauma,Moderate,None,4,Yes,3963.286483,9
+2,radiotherapy,C,Dr Sam,1,15599,41-50,Male,Emergency,Moderate,Other,2,Yes,5101.655098,6
+3,anesthesia,E,Dr Mark,3,32457,31-40,Male,Trauma,Extreme,Other,2,Yes,5171.243817,20
+5,gynecology,F,Dr Olivia,8,49145,21-30,Female,Emergency,Moderate,None,4,Yes,4894.557166,8
+3,gynecology,F,Dr Olivia,3,97001,21-30,Female,Trauma,Moderate,None,3,Yes,4822.97768,9
+4,gynecology,F,Dr Olivia,4,15407,41-50,Female,Trauma,Moderate,None,2,Yes,5254.507123,8
+3,gynecology,F,Dr Nathan,8,129410,41-50,Female,Emergency,Minor,Other,7,Yes,7673.321034,7
+1,gynecology,F,Dr Olivia,3,49356,41-50,Female,Trauma,Moderate,Other,10,Yes,3327.183089,7
+3,gynecology,D,Dr Olivia,4,46237,21-30,Female,Emergency,Moderate,Other,2,Yes,4156.589722,9
+3,gynecology,D,Dr Olivia,4,116867,21-30,Female,Emergency,Moderate,Other,2,Yes,5759.696852,9
+2,gynecology,B,Dr Olivia,5,30579,21-30,Female,Trauma,Moderate,Other,2,Yes,6346.113126,8
+7,radiotherapy,A,Dr John,6,128444,71-80,Other,Trauma,Extreme,None,2,Yes,3365.568361,25
+13,gynecology,D,Dr Olivia,3,113520,31-40,Female,Trauma,Moderate,Other,2,Yes,4771.722126,11
+4,gynecology,B,Dr Nathan,4,19689,21-30,Female,Trauma,Minor,None,2,Yes,6295.323785,8
+5,gynecology,D,Dr Olivia,10,52223,31-40,Female,Emergency,Moderate,Other,6,Yes,7439.624906,9
+5,anesthesia,A,Dr Mark,4,33322,71-80,Male,Emergency,Moderate,Other,2,Yes,4867.741835,27
+3,gynecology,D,Dr Olivia,0,66215,21-30,Female,Emergency,Moderate,None,2,Yes,3683.165241,10
+2,radiotherapy,A,Dr John,8,84969,31-40,Female,Trauma,Minor,Other,4,Yes,4171.417473,6
+6,radiotherapy,C,Dr John,5,109905,71-80,Female,Emergency,Moderate,Other,4,Yes,4894.729966,27
+3,radiotherapy,E,Dr Sam,3,83289,71-80,Male,Emergency,Moderate,None,8,Yes,4752.68731,22
+2,radiotherapy,A,Dr Sam,4,10791,61-70,Male,Trauma,Moderate,None,3,Yes,5606.882358,23
+3,gynecology,F,Dr Olivia,0,27675,21-30,Female,Trauma,Moderate,Other,2,Yes,6045.697954,8
+2,gynecology,D,Dr Nathan,0,31951,21-30,Female,Emergency,Minor,None,2,Yes,5147.757476,9
+4,gynecology,F,Dr Olivia,8,125485,31-40,Female,Trauma,Moderate,Other,2,Yes,3171.118846,9
+3,anesthesia,E,Dr Mark,5,23211,61-70,Male,Trauma,Moderate,Other,4,Yes,6768.410647,35
+5,gynecology,B,Dr Nathan,6,42685,31-40,Female,Trauma,Extreme,Other,2,Yes,4534.795659,7
+4,gynecology,B,Dr Nathan,2,87980,21-30,Female,Trauma,Minor,Other,5,Yes,4706.214297,8
+2,gynecology,D,Dr Olivia,7,27551,21-30,Female,Emergency,Moderate,None,4,Yes,4889.143887,8
+5,anesthesia,A,Dr Mark,3,12213,31-40,Male,Emergency,Extreme,Other,6,Yes,5005.708775,19
+3,gynecology,F,Dr Nathan,10,124740,21-30,Female,Trauma,Minor,Other,2,Yes,4182.281,9
+5,gynecology,D,Dr Nathan,7,127670,41-50,Female,Trauma,Extreme,Other,4,Yes,4580.442914,8
+2,gynecology,F,Dr Olivia,7,125116,21-30,Female,Trauma,Moderate,Other,4,Yes,4329.763868,9
+2,radiotherapy,C,Dr John,7,536,61-70,Female,Emergency,Moderate,Other,2,Yes,5067.974967,22
+4,anesthesia,C,Dr John,2,39106,41-50,Other,Trauma,Extreme,Other,4,Yes,3709.355818,12
+5,gynecology,D,Dr Olivia,9,105503,21-30,Female,Trauma,Moderate,Other,2,Yes,3946.310696,9
+2,radiotherapy,E,Dr John,10,17313,61-70,Female,Trauma,Moderate,Other,2,Yes,4835.036056,22
+5,gynecology,F,Dr Nathan,7,124261,31-40,Female,Trauma,Minor,None,2,Yes,4587.134615,9
+2,gynecology,D,Dr Nathan,2,42585,21-30,Female,Trauma,Minor,Other,2,Yes,4887.972596,9
+2,radiotherapy,E,Dr Sam,7,29836,21-30,Male,Urgent,Minor,None,6,Yes,4398.691609,24
+2,anesthesia,A,Dr John,8,12523,31-40,Other,Trauma,Moderate,None,2,Yes,5063.094581,20
+3,radiotherapy,E,Dr John,5,18480,31-40,Female,Urgent,Moderate,Other,6,Yes,3513.878762,7
+5,gynecology,D,Dr Olivia,9,117061,21-30,Female,Trauma,Moderate,Other,3,Yes,4863.317915,8
+3,TB & Chest disease,E,Dr Mark,4,73031,31-40,Male,Trauma,Moderate,None,4,Yes,4722.21302,10
+5,radiotherapy,E,Dr Sam,3,97680,21-30,Male,Trauma,Moderate,Other,4,Yes,3830.371158,25
+3,gynecology,B,Dr Olivia,8,32790,21-30,Female,Urgent,Moderate,Other,2,Yes,2361.031283,8
+5,anesthesia,E,Dr Mark,2,125098,31-40,Male,Emergency,Moderate,None,4,Yes,4736.514963,21
+2,radiotherapy,C,Dr John,8,10487,41-50,Female,Urgent,Moderate,Other,2,Yes,6489.916595,6
+2,gynecology,F,Dr Olivia,5,37471,21-30,Female,Trauma,Moderate,None,2,Yes,5071.989966,10
+2,gynecology,F,Dr Olivia,7,70712,21-30,Female,Trauma,Moderate,Other,2,Yes,5486.295203,7
+2,gynecology,B,Dr Olivia,2,27411,31-40,Female,Trauma,Moderate,Other,2,Yes,5851.330878,9
+4,gynecology,F,Dr Olivia,5,42354,21-30,Female,Emergency,Moderate,Other,4,Yes,4674.268403,9
+2,gynecology,F,Dr Nathan,10,51428,31-40,Female,Trauma,Extreme,Other,4,Yes,4126.547592,8
+2,gynecology,B,Dr Nathan,3,94890,21-30,Female,Trauma,Minor,Other,6,Yes,4947.02814,8
+4,gynecology,D,Dr Nathan,10,107800,41-50,Female,Trauma,Extreme,None,4,Yes,3764.180334,10
+5,gynecology,B,Dr Olivia,7,120358,31-40,Female,Trauma,Moderate,Other,4,Yes,3939.384401,9
+3,gynecology,F,Dr Nathan,0,14023,31-40,Female,Urgent,Minor,None,2,Yes,4962.394839,7
+2,radiotherapy,A,Dr John,9,113653,51-60,Female,Trauma,Moderate,Other,2,Yes,4755.904384,26
+5,gynecology,D,Dr Olivia,9,57827,21-30,Female,Trauma,Moderate,Other,2,Yes,4293.362009,9
+4,gynecology,F,Dr Olivia,5,70897,21-30,Female,Trauma,Moderate,None,4,Yes,8717.955902,11
+4,gynecology,F,Dr Olivia,10,11383,31-40,Female,Trauma,Moderate,Other,4,Yes,4719.876574,9
+3,radiotherapy,E,Dr John,0,21868,81-90,Female,Trauma,Moderate,Other,6,Yes,2955.384376,21
+2,radiotherapy,E,Dr Sam,4,11651,61-70,Male,Emergency,Moderate,Other,4,Yes,6256.283263,24
+5,gynecology,D,Dr Nathan,0,90557,21-30,Female,Emergency,Minor,Other,4,Yes,3913.551237,8
+2,radiotherapy,E,Dr John,5,109935,21-30,Female,Trauma,Minor,None,4,Yes,5178.188778,20
+3,gynecology,B,Dr Olivia,8,79920,31-40,Female,Emergency,Moderate,Other,2,Yes,2439.399139,9
+2,gynecology,B,Dr Olivia,8,27097,21-30,Female,Trauma,Moderate,Other,3,Yes,5723.682524,9
+3,gynecology,D,Dr Nathan,0,63794,21-30,Female,Emergency,Minor,Other,3,Yes,3728.054241,9
+2,radiotherapy,E,Dr John,5,45540,41-50,Other,Trauma,Moderate,Other,2,Yes,4606.071144,6
+3,gynecology,D,Dr Olivia,7,72922,21-30,Female,Trauma,Moderate,None,4,Yes,1941.22631,8
+2,gynecology,F,Dr Nathan,7,85406,21-30,Female,Urgent,Minor,Other,4,Yes,4622.49757,9
+2,gynecology,D,Dr Nathan,7,49572,41-50,Female,Emergency,Minor,Other,12,Yes,3775.640709,9
+4,radiotherapy,A,Dr John,6,67030,81-90,Female,Emergency,Moderate,Other,2,Yes,8187.100367,15
+2,gynecology,D,Dr Olivia,10,108232,21-30,Female,Emergency,Moderate,Other,4,Yes,4755.672402,8
+4,gynecology,F,Dr Olivia,2,124527,21-30,Female,Trauma,Moderate,None,4,Yes,3633.274087,9
+4,gynecology,B,Dr Olivia,6,28926,31-40,Female,Trauma,Moderate,None,4,Yes,4032.591504,9
+4,radiotherapy,A,Dr John,9,95837,61-70,Female,Trauma,Moderate,Other,2,Yes,6754.886364,22
+2,gynecology,F,Dr Nathan,3,30938,21-30,Female,Emergency,Minor,None,2,Yes,5764.39363,10
+2,anesthesia,C,Dr John,10,10926,21-30,Female,Trauma,Extreme,None,2,Yes,4665.862917,35
+3,gynecology,B,Dr Nathan,6,39712,31-40,Female,Trauma,Minor,None,4,Yes,4800.197578,8
+2,gynecology,B,Dr Nathan,8,103706,21-30,Female,Trauma,Minor,None,2,Yes,4596.968063,12
+4,gynecology,D,Dr Nathan,6,20209,21-30,Female,Trauma,Extreme,Other,2,Yes,5184.053956,9
+2,gynecology,D,Dr Nathan,0,102632,21-30,Female,Urgent,Minor,None,4,Yes,4791.899516,8
+1,gynecology,D,Dr Nathan,6,116547,31-40,Female,Emergency,Extreme,None,4,Yes,4054.30743,9
+2,radiotherapy,A,Dr John,9,78381,21-30,Female,Trauma,Minor,Other,4,Yes,4361.120295,25
+11,gynecology,F,Dr Nathan,0,48595,21-30,Female,Trauma,Minor,None,3,Yes,3872.456992,9
+2,TB & Chest disease,A,Dr John,2,70939,21-30,Female,Trauma,Minor,Other,2,Yes,4840.610189,26
+3,gynecology,B,Dr Nathan,3,4652,21-30,Female,Trauma,Minor,None,4,Yes,4256.597415,8
+2,gynecology,B,Dr Olivia,0,124439,21-30,Female,Trauma,Moderate,None,2,Yes,6026.505782,7
+4,gynecology,D,Dr Olivia,2,29411,21-30,Female,Trauma,Moderate,None,4,Yes,5037.466118,9
+4,radiotherapy,A,Dr John,8,104080,31-40,Other,Trauma,Minor,Other,2,Yes,5222.015684,7
+2,anesthesia,A,Dr John,10,119351,31-40,Other,Trauma,Moderate,Other,2,Yes,5330.848983,17
+3,anesthesia,A,Dr John,2,109772,41-50,Other,Trauma,Minor,Other,4,Yes,4348.200728,19
+3,gynecology,B,Dr Nathan,9,47429,21-30,Female,Emergency,Minor,Other,4,Yes,3674.268851,9
+3,gynecology,B,Dr Olivia,4,118442,21-30,Female,Trauma,Moderate,Other,2,Yes,5205.82139,9
+6,gynecology,D,Dr Olivia,9,124372,41-50,Female,Emergency,Moderate,Other,4,Yes,4397.687285,10
+2,gynecology,D,Dr Olivia,10,4303,21-30,Female,Trauma,Moderate,Other,2,Yes,5420.573052,7
+3,anesthesia,C,Dr John,4,673,51-60,Female,Trauma,Extreme,Other,3,Yes,4733.413625,37
+3,radiotherapy,E,Dr Sam,5,60403,21-30,Male,Emergency,Moderate,None,6,Yes,3598.689335,20
+2,gynecology,D,Dr Olivia,4,81890,41-50,Female,Emergency,Moderate,Other,4,Yes,3277.14687,9
+4,radiotherapy,E,Dr Sam,9,118496,21-30,Male,Emergency,Extreme,None,4,Yes,3838.874404,26
+3,gynecology,B,Dr Nathan,7,119029,21-30,Female,Urgent,Minor,None,2,Yes,5028.440997,9
+2,radiotherapy,E,Dr Sam,0,61658,41-50,Male,Trauma,Minor,None,6,Yes,4354.118799,5
+2,gynecology,D,Dr Olivia,9,23326,21-30,Female,Trauma,Moderate,Other,4,Yes,7840.385901,8
+2,radiotherapy,E,Dr John,1,95361,71-80,Female,Urgent,Moderate,Other,10,Yes,4183.838323,21
+2,gynecology,B,Dr Nathan,6,113514,41-50,Female,Trauma,Minor,None,3,Yes,6525.275369,9
+5,gynecology,D,Dr Nathan,2,100567,21-30,Female,Urgent,Extreme,None,2,Yes,6176.530704,9
+3,radiotherapy,E,Dr John,3,63142,31-40,Other,Trauma,Minor,None,2,Yes,5556.595848,6
+3,radiotherapy,E,Dr John,8,5585,61-70,Female,Trauma,Moderate,Other,4,Yes,3959.589366,21
+4,gynecology,F,Dr Nathan,4,45195,41-50,Female,Trauma,Minor,Other,4,Yes,4446.610072,12
+4,gynecology,F,Dr Nathan,0,92331,21-30,Female,Urgent,Extreme,None,4,Yes,4686.971252,9
+4,gynecology,B,Dr Olivia,5,4696,41-50,Female,Emergency,Moderate,Other,4,Yes,3822.478832,9
+1,gynecology,B,Dr Olivia,3,111223,41-50,Female,Trauma,Moderate,Other,2,Yes,4980.456647,8
+3,gynecology,B,Dr Nathan,7,113581,21-30,Female,Trauma,Minor,Other,2,Yes,4741.914135,8
+2,surgery,A,Dr Simon,4,5531,71-80,Female,Trauma,Moderate,None,2,Yes,5742.232168,38
+4,gynecology,D,Dr Olivia,9,107388,21-30,Female,Emergency,Moderate,Other,4,Yes,3308.071104,10
+2,gynecology,D,Dr Nathan,8,125694,31-40,Female,Trauma,Extreme,Other,2,Yes,4596.305762,10
+2,gynecology,F,Dr Nathan,6,42695,21-30,Female,Emergency,Extreme,Other,2,Yes,7800.969837,10
+4,gynecology,D,Dr Olivia,7,24913,21-30,Female,Trauma,Moderate,None,3,Yes,4727.838105,7
+4,gynecology,F,Dr Olivia,7,2560,31-40,Female,Trauma,Moderate,Other,2,Yes,5840.223087,8
+4,gynecology,D,Dr Olivia,9,67142,31-40,Female,Emergency,Moderate,Other,2,Yes,4093.854403,7
+3,TB & Chest disease,E,Dr Mark,6,61283,31-40,Male,Trauma,Moderate,Other,6,Yes,3729.828291,8
+3,radiotherapy,E,Dr John,6,99142,31-40,Female,Emergency,Minor,None,2,Yes,7342.042365,7
+1,gynecology,F,Dr Olivia,2,112614,21-30,Female,Trauma,Moderate,None,2,Yes,3951.778382,9
+4,TB & Chest disease,A,Dr Mark,6,128998,61-70,Male,Trauma,Moderate,Other,3,Yes,3519.571037,25
+2,radiotherapy,A,Dr Sam,10,43288,61-70,Male,Trauma,Moderate,Other,2,Yes,4694.409442,23
+4,gynecology,B,Dr Olivia,0,104281,21-30,Female,Trauma,Moderate,Other,4,Yes,4747.467057,9
+4,gynecology,B,Dr Olivia,0,110977,21-30,Female,Trauma,Moderate,Other,2,Yes,4862.600709,8
+2,radiotherapy,A,Dr John,4,81337,91-100,Female,Emergency,Moderate,None,2,Yes,5616.231658,21
+2,gynecology,D,Dr Nathan,3,66929,31-40,Female,Trauma,Extreme,None,4,Yes,4092.682121,7
+1,gynecology,D,Dr Nathan,10,38655,41-50,Female,Urgent,Extreme,Other,2,Yes,4238.091835,8
+3,radiotherapy,E,Dr John,9,19093,31-40,Female,Trauma,Moderate,Other,2,Yes,3986.767575,5
+5,gynecology,F,Dr Olivia,0,99040,21-30,Female,Emergency,Moderate,Other,5,Yes,4753.706723,8
+4,gynecology,F,Dr Olivia,10,81320,31-40,Female,Trauma,Moderate,Other,14,Yes,4583.886038,8
+4,TB & Chest disease,E,Dr John,7,126659,31-40,Female,Trauma,Moderate,Other,4,Yes,4058.718313,10
+3,gynecology,D,Dr Nathan,3,15511,21-30,Female,Urgent,Extreme,Other,3,Yes,3813.451715,9
+3,anesthesia,E,Dr Mark,1,92493,51-60,Male,Trauma,Moderate,None,4,Yes,4802.193048,37
+3,surgery,A,Dr Simon,7,34343,21-30,Female,Trauma,Moderate,Other,2,Yes,5235.265235,33
+4,gynecology,F,Dr Olivia,1,48666,31-40,Female,Emergency,Moderate,Other,4,Yes,5022.541424,10
+3,radiotherapy,E,Dr John,5,6397,41-50,Female,Emergency,Minor,None,2,Yes,6369.258157,7
+3,gynecology,F,Dr Olivia,7,119698,31-40,Female,Urgent,Moderate,Other,2,Yes,3750.174104,8
+3,TB & Chest disease,E,Dr John,4,123291,91-100,Other,Trauma,Minor,Other,6,Yes,4367.333701,25
+4,gynecology,D,Dr Nathan,1,96676,21-30,Female,Emergency,Minor,Other,4,Yes,4984.632226,8
+4,gynecology,B,Dr Olivia,3,44500,41-50,Female,Trauma,Moderate,None,6,Yes,3824.904943,6
+3,radiotherapy,E,Dr Sam,9,25720,51-60,Male,Trauma,Moderate,Other,2,Yes,4758.478376,24
+6,gynecology,B,Dr Nathan,2,81925,41-50,Female,Emergency,Minor,None,3,Yes,4524.57444,8
+4,TB & Chest disease,E,Dr Mark,8,9678,61-70,Male,Trauma,Moderate,None,4,Yes,4300.919498,21
+2,gynecology,B,Dr Olivia,0,90381,21-30,Female,Trauma,Moderate,Other,4,Yes,5584.632477,8
+3,TB & Chest disease,A,Dr John,6,9971,81-90,Female,Trauma,Minor,Other,2,Yes,5076.431304,30
+3,gynecology,B,Dr Nathan,10,126627,21-30,Female,Trauma,Minor,Other,2,Yes,5896.334144,10
+3,gynecology,F,Dr Nathan,10,108174,21-30,Female,Trauma,Minor,Other,2,Yes,4766.483285,7
+11,gynecology,B,Dr Olivia,4,126773,41-50,Female,Trauma,Moderate,Other,3,Yes,4937.085286,9
+2,gynecology,B,Dr Olivia,9,80734,41-50,Female,Urgent,Moderate,None,2,Yes,5405.698503,6
+4,gynecology,B,Dr Olivia,6,83466,21-30,Female,Trauma,Moderate,Other,2,Yes,5877.61452,9
+2,surgery,A,Dr Isaac,6,125199,71-80,Male,Trauma,Moderate,Other,4,Yes,4076.314173,45
+4,radiotherapy,E,Dr John,1,119836,31-40,Female,Emergency,Minor,Other,6,Yes,3904.745071,6
+5,gynecology,F,Dr Olivia,3,58135,21-30,Female,Trauma,Moderate,Other,8,Yes,5427.918286,8
+4,surgery,A,Dr Simon,8,8594,41-50,Female,Trauma,Minor,None,2,Yes,4689.900905,13
+5,gynecology,D,Dr Olivia,1,3338,31-40,Female,Emergency,Moderate,Other,4,Yes,4543.793081,7
+5,gynecology,F,Dr Nathan,10,54083,31-40,Female,Trauma,Minor,None,4,Yes,4589.995031,9
+2,gynecology,B,Dr Nathan,5,4360,41-50,Female,Urgent,Minor,Other,2,Yes,6614.383872,8
+2,gynecology,F,Dr Olivia,2,113899,31-40,Female,Trauma,Moderate,Other,3,Yes,4057.133313,8
+3,gynecology,D,Dr Nathan,1,53931,21-30,Female,Urgent,Extreme,Other,8,Yes,6343.942277,7
+4,gynecology,B,Dr Nathan,5,27429,21-30,Female,Trauma,Minor,None,2,Yes,4463.960859,8
+4,radiotherapy,A,Dr John,1,109385,31-40,Other,Trauma,Moderate,Other,2,Yes,4427.396958,6
+2,TB & Chest disease,A,Dr John,9,20965,31-40,Female,Trauma,Moderate,None,8,Yes,4185.789503,6
+4,radiotherapy,E,Dr John,8,48133,31-40,Other,Emergency,Moderate,None,4,Yes,7119.973901,7
+3,gynecology,F,Dr Nathan,9,16039,21-30,Female,Trauma,Minor,None,2,Yes,4309.295221,10
+10,gynecology,D,Dr Nathan,9,120964,21-30,Female,Trauma,Extreme,None,4,Yes,4698.452029,7
+3,gynecology,F,Dr Olivia,10,48356,21-30,Female,Emergency,Moderate,None,2,Yes,7042.347538,9
+4,anesthesia,E,Dr Mark,0,20222,31-40,Male,Trauma,Moderate,Other,8,Yes,4556.75421,20
+4,gynecology,B,Dr Nathan,6,60805,31-40,Female,Trauma,Minor,None,4,Yes,4817.895919,7
+5,gynecology,B,Dr Olivia,9,101864,41-50,Female,Emergency,Moderate,Other,2,Yes,5558.115581,8
+4,TB & Chest disease,E,Dr Mark,10,25941,61-70,Male,Emergency,Moderate,Other,12,Yes,3960.508543,28
+3,gynecology,D,Dr Nathan,10,25672,21-30,Female,Urgent,Extreme,None,3,Yes,3692.380793,8
+4,gynecology,D,Dr Nathan,9,36990,31-40,Female,Trauma,Extreme,None,4,Yes,4691.352946,9
+10,gynecology,D,Dr Olivia,1,69840,21-30,Female,Urgent,Moderate,None,4,Yes,7012.482094,9
+2,gynecology,B,Dr Olivia,3,112393,21-30,Female,Trauma,Moderate,Other,2,Yes,4680.067785,7
+3,gynecology,B,Dr Olivia,1,111742,21-30,Female,Trauma,Moderate,Other,2,Yes,5258.864911,10
+3,TB & Chest disease,A,Dr Mark,7,84402,81-90,Male,Trauma,Minor,Other,2,Yes,4421.977053,26
+2,gynecology,B,Dr Olivia,4,120263,21-30,Female,Trauma,Moderate,Other,2,Yes,5278.188135,9
+2,TB & Chest disease,E,Dr John,1,54459,31-40,Other,Emergency,Moderate,None,2,Yes,7390.953935,10
+2,gynecology,D,Dr Olivia,4,97166,21-30,Female,Emergency,Moderate,Other,3,Yes,6867.527121,8
+3,gynecology,B,Dr Olivia,1,42483,21-30,Female,Trauma,Moderate,Other,2,Yes,4866.29051,9
+6,gynecology,D,Dr Olivia,3,2086,21-30,Female,Emergency,Moderate,Other,4,Yes,3286.955644,8
+3,gynecology,D,Dr Nathan,1,49715,21-30,Female,Trauma,Extreme,None,2,Yes,5385.362955,8
+4,TB & Chest disease,A,Dr John,7,14186,41-50,Other,Trauma,Minor,Other,13,Yes,6370.807634,13
+3,gynecology,F,Dr Olivia,5,12033,21-30,Female,Trauma,Moderate,None,3,Yes,5988.202631,9
+3,gynecology,B,Dr Nathan,4,123302,21-30,Female,Urgent,Minor,Other,8,Yes,3986.161274,10
+2,gynecology,F,Dr Nathan,9,118563,41-50,Female,Urgent,Minor,Other,6,Yes,6794.111032,7
+3,gynecology,B,Dr Olivia,2,122867,21-30,Female,Trauma,Moderate,Other,2,Yes,4836.749716,9
+3,gynecology,B,Dr Olivia,3,31429,21-30,Female,Trauma,Moderate,Other,3,Yes,5056.396236,9
+2,gynecology,B,Dr Olivia,2,2938,31-40,Female,Trauma,Moderate,Other,3,Yes,4235.283848,9
+4,gynecology,B,Dr Olivia,7,7144,21-30,Female,Trauma,Moderate,None,4,Yes,3946.25377,10
+3,gynecology,F,Dr Olivia,4,87760,31-40,Female,Trauma,Moderate,None,2,Yes,4456.381303,8
+2,anesthesia,E,Dr John,5,92353,51-60,Female,Trauma,Moderate,Other,22,Yes,4865.671381,30
+6,gynecology,B,Dr Nathan,6,30333,31-40,Female,Trauma,Minor,Other,4,Yes,4723.998782,9
+3,gynecology,F,Dr Nathan,0,12586,31-40,Female,Emergency,Minor,None,5,Yes,4645.567583,8
+5,gynecology,D,Dr Nathan,3,46969,21-30,Female,Trauma,Extreme,Other,4,Yes,7058.255581,9
+3,radiotherapy,E,Dr Sam,9,8373,71-80,Male,Urgent,Minor,Other,3,Yes,4554.88355,25
+4,gynecology,D,Dr Nathan,5,102684,41-50,Female,Trauma,Extreme,Other,4,Yes,3839.165597,10
+4,gynecology,D,Dr Olivia,9,27014,31-40,Female,Emergency,Moderate,None,4,Yes,4120.145509,6
+4,anesthesia,A,Dr John,10,25328,41-50,Other,Trauma,Moderate,Other,2,Yes,3930.79101,14
+3,gynecology,F,Dr Nathan,2,60046,21-30,Female,Trauma,Minor,Other,11,Yes,4817.567079,8
+3,gynecology,D,Dr Olivia,3,25432,21-30,Female,Trauma,Moderate,Other,2,Yes,5292.07945,9
+2,gynecology,F,Dr Olivia,6,130690,31-40,Female,Urgent,Moderate,Other,2,Yes,4180.240675,8
+2,gynecology,B,Dr Olivia,7,76987,41-50,Female,Trauma,Moderate,Other,2,Yes,5225.678055,7
+4,gynecology,D,Dr Nathan,0,16263,21-30,Female,Urgent,Minor,None,3,Yes,4291.901867,10
+6,gynecology,D,Dr Nathan,7,74014,31-40,Female,Trauma,Minor,None,3,Yes,3515.719131,8
+3,gynecology,D,Dr Nathan,8,123119,31-40,Female,Trauma,Extreme,Other,2,Yes,4293.603458,7
+4,radiotherapy,E,Dr John,8,92383,41-50,Other,Trauma,Minor,Other,4,Yes,7238.83798,6
+3,radiotherapy,E,Dr John,2,51432,21-30,Female,Trauma,Moderate,Other,2,Yes,4991.718254,15
+5,radiotherapy,C,Dr Sam,0,2665,71-80,Male,Trauma,Extreme,Other,2,Yes,6126.257119,22
+3,gynecology,B,Dr Nathan,9,111033,31-40,Female,Trauma,Minor,Other,4,Yes,3666.815064,10
+5,gynecology,B,Dr Olivia,9,39541,21-30,Female,Trauma,Moderate,None,4,Yes,3163.668896,9
+5,radiotherapy,E,Dr Sam,6,49844,31-40,Male,Trauma,Moderate,Other,4,Yes,4544.272102,5
+3,radiotherapy,E,Dr John,5,5902,21-30,Female,Trauma,Moderate,Other,4,Yes,4790.776406,25
+21,gynecology,D,Dr Nathan,1,126379,21-30,Female,Urgent,Minor,Other,7,Yes,6393.084195,10
+4,gynecology,D,Dr Olivia,0,9128,21-30,Female,Urgent,Moderate,Other,4,Yes,2651.463471,8
+2,gynecology,F,Dr Nathan,4,2872,21-30,Female,Trauma,Minor,Other,6,Yes,7100.425976,8
+2,radiotherapy,C,Dr John,4,26750,31-40,Other,Emergency,Moderate,Other,4,Yes,5256.537665,5
+4,gynecology,F,Dr Nathan,2,15316,21-30,Female,Urgent,Minor,None,8,Yes,7817.737274,10
+1,gynecology,D,Dr Nathan,10,12280,21-30,Female,Emergency,Minor,Other,4,Yes,4261.684628,9
+3,gynecology,F,Dr Nathan,2,17544,21-30,Female,Urgent,Minor,Other,1,Yes,4202.172425,9
+2,gynecology,D,Dr Nathan,7,20839,31-40,Female,Trauma,Extreme,Other,2,Yes,4785.445503,10
+7,gynecology,D,Dr Olivia,10,41618,31-40,Female,Emergency,Moderate,Other,5,Yes,4660.329283,9
+2,gynecology,D,Dr Olivia,7,8358,21-30,Female,Emergency,Moderate,Other,2,Yes,4601.927558,9
+4,gynecology,F,Dr Olivia,9,116497,21-30,Female,Trauma,Moderate,Other,4,Yes,4743.044774,8
+5,radiotherapy,E,Dr Sam,3,51718,51-60,Male,Trauma,Moderate,Other,4,Yes,4681.282089,22
+6,anesthesia,E,Dr Mark,4,42579,31-40,Male,Trauma,Moderate,Other,4,Yes,3698.772997,19
+5,gynecology,B,Dr Olivia,5,44336,21-30,Female,Trauma,Moderate,None,3,Yes,4590.705304,10
+4,gynecology,F,Dr Olivia,6,96754,21-30,Female,Trauma,Moderate,None,4,Yes,4931.801863,8
+2,radiotherapy,E,Dr John,4,35058,51-60,Female,Emergency,Moderate,None,5,Yes,7078.491233,20
+4,gynecology,F,Dr Olivia,9,77703,21-30,Female,Trauma,Moderate,None,4,Yes,7350.925643,8
+1,gynecology,B,Dr Nathan,6,125564,31-40,Female,Trauma,Minor,Other,4,Yes,4716.02917,8
+3,anesthesia,A,Dr John,1,84825,61-70,Female,Trauma,Moderate,None,3,Yes,4317.23085,30
+3,TB & Chest disease,E,Dr John,3,114437,0-10,Female,Trauma,Minor,Other,2,Yes,3863.630655,26
+2,radiotherapy,E,Dr John,0,52413,41-50,Other,Trauma,Moderate,Other,4,Yes,6785.993049,4
+3,gynecology,D,Dr Nathan,9,94332,31-40,Female,Emergency,Extreme,None,2,Yes,5171.243749,9
+6,surgery,A,Dr Simon,6,108736,41-50,Female,Trauma,Moderate,None,4,Yes,3190.037382,16
+4,radiotherapy,E,Dr John,7,126498,61-70,Other,Emergency,Minor,Other,4,Yes,3683.660641,26
+6,gynecology,D,Dr Nathan,10,109457,21-30,Female,Trauma,Extreme,None,4,Yes,4640.839629,10
+3,gynecology,F,Dr Olivia,4,20823,21-30,Female,Trauma,Moderate,Other,2,Yes,4537.289474,10
+3,gynecology,F,Dr Olivia,10,109938,21-30,Female,Trauma,Moderate,Other,4,Yes,2384.248983,9
+4,gynecology,F,Dr Olivia,0,83126,21-30,Female,Trauma,Moderate,Other,4,Yes,3975.216492,9
+2,radiotherapy,A,Dr John,1,81160,51-60,Female,Trauma,Moderate,Other,4,Yes,4487.263251,22
+3,gynecology,F,Dr Nathan,1,11383,41-50,Female,Emergency,Minor,Other,2,Yes,2661.348556,9
+3,anesthesia,E,Dr John,6,127542,61-70,Female,Trauma,Moderate,None,6,Yes,5260.633583,33
+3,radiotherapy,A,Dr Sam,10,25998,71-80,Male,Trauma,Moderate,None,2,Yes,4937.65241,25
+2,gynecology,B,Dr Nathan,5,41383,31-40,Female,Trauma,Extreme,Other,2,Yes,5221.695332,9
+2,gynecology,D,Dr Nathan,1,79893,21-30,Female,Emergency,Extreme,None,4,Yes,3421.072997,8
+4,radiotherapy,A,Dr Sam,6,26976,51-60,Male,Emergency,Moderate,None,2,Yes,4065.403125,24
+2,TB & Chest disease,E,Dr Mark,6,80229,31-40,Male,Emergency,Moderate,None,2,Yes,3932.887184,8
+2,anesthesia,C,Dr John,0,86284,31-40,Other,Trauma,Extreme,Other,4,Yes,4165.648002,16
+2,anesthesia,E,Dr Mark,6,112368,81-90,Male,Trauma,Moderate,None,2,Yes,4783.175846,43
+2,gynecology,F,Dr Olivia,2,2053,41-50,Female,Emergency,Moderate,None,2,Yes,5102.327048,9
+5,gynecology,D,Dr Olivia,7,8395,21-30,Female,Emergency,Moderate,Other,4,Yes,6720.657389,8
+5,gynecology,D,Dr Olivia,9,23786,31-40,Female,Trauma,Moderate,None,2,Yes,6415.29419,8
+4,radiotherapy,E,Dr John,4,111998,71-80,Other,Urgent,Minor,None,6,Yes,3411.143125,21
+4,radiotherapy,C,Dr John,0,14800,31-40,Female,Emergency,Moderate,Other,2,Yes,4233.550494,6
+3,anesthesia,A,Dr John,5,90128,51-60,Other,Emergency,Minor,Other,2,Yes,4467.946861,29
+4,gynecology,F,Dr Olivia,8,76874,21-30,Female,Trauma,Moderate,None,4,Yes,4664.105595,8
+2,gynecology,B,Dr Olivia,6,113643,21-30,Female,Trauma,Moderate,Other,2,Yes,4913.854305,9
+4,radiotherapy,E,Dr Sam,3,58239,61-70,Male,Trauma,Moderate,Other,2,Yes,4594.681374,22
+4,gynecology,D,Dr Nathan,9,53274,21-30,Female,Trauma,Extreme,Other,4,Yes,3185.289342,8
+4,gynecology,D,Dr Nathan,7,51251,21-30,Female,Urgent,Extreme,Other,3,Yes,4022.635147,9
+2,gynecology,B,Dr Olivia,6,102455,31-40,Female,Trauma,Moderate,None,2,Yes,3592.514883,8
+4,gynecology,D,Dr Olivia,6,12411,41-50,Female,Emergency,Moderate,Other,4,Yes,3769.390579,11
+4,gynecology,D,Dr Nathan,9,109207,31-40,Female,Trauma,Minor,None,2,Yes,4535.481003,7
+2,gynecology,D,Dr Nathan,3,128905,21-30,Female,Trauma,Extreme,None,2,Yes,5087.090602,9
+2,gynecology,D,Dr Nathan,7,52920,31-40,Female,Emergency,Minor,Other,2,Yes,3526.985631,9
+21,gynecology,D,Dr Nathan,0,114060,31-40,Female,Trauma,Minor,Other,9,Yes,4892.138445,11
+4,anesthesia,A,Dr Mark,2,115426,61-70,Male,Trauma,Extreme,Other,4,Yes,4852.973829,24
+3,TB & Chest disease,E,Dr John,2,22886,21-30,Other,Emergency,Moderate,None,6,Yes,4592.532293,29
+2,gynecology,D,Dr Olivia,3,21656,21-30,Female,Urgent,Moderate,None,2,Yes,4357.872739,9
+4,gynecology,F,Dr Nathan,1,101663,41-50,Female,Emergency,Minor,None,4,Yes,4596.933302,9
+5,anesthesia,C,Dr John,6,14284,61-70,Female,Urgent,Extreme,None,2,Yes,4480.146934,32
+1,anesthesia,E,Dr John,5,118664,41-50,Other,Trauma,Moderate,Other,4,Yes,4311.795421,18
+2,gynecology,B,Dr Olivia,6,86988,31-40,Female,Urgent,Moderate,Other,2,Yes,6775.054388,8
+4,radiotherapy,E,Dr John,8,6590,21-30,Female,Urgent,Minor,Other,4,Yes,4896.516028,24
+3,gynecology,D,Dr Olivia,7,43461,21-30,Female,Emergency,Moderate,None,4,Yes,4606.916958,9
+6,gynecology,D,Dr Nathan,7,129756,21-30,Female,Trauma,Extreme,None,4,Yes,3005.97608,8
+2,radiotherapy,E,Dr John,5,46013,51-60,Female,Trauma,Moderate,Other,2,Yes,4545.675493,30
+2,gynecology,B,Dr Olivia,3,75090,41-50,Female,Emergency,Moderate,None,4,Yes,3780.521276,8
+2,radiotherapy,A,Dr John,1,4061,61-70,Other,Emergency,Minor,None,2,Yes,4920.526745,23
+2,gynecology,F,Dr Olivia,6,126724,21-30,Female,Trauma,Moderate,None,4,Yes,4922.549558,7
+2,anesthesia,E,Dr Mark,3,90483,31-40,Male,Emergency,Moderate,Other,6,Yes,5700.56242,20
+4,gynecology,B,Dr Olivia,3,62295,21-30,Female,Trauma,Moderate,Other,3,Yes,6204.109317,8
+8,gynecology,D,Dr Nathan,0,25337,21-30,Female,Trauma,Extreme,Other,4,Yes,4159.884094,9
+2,gynecology,F,Dr Olivia,9,73723,21-30,Female,Trauma,Moderate,None,4,Yes,3119.85709,8
+4,gynecology,F,Dr Olivia,7,41765,21-30,Female,Trauma,Moderate,Other,2,Yes,3740.18212,9
+4,gynecology,F,Dr Nathan,2,43800,21-30,Female,Trauma,Minor,Other,2,Yes,3690.353859,9
+5,gynecology,B,Dr Olivia,6,79267,41-50,Female,Trauma,Moderate,None,2,Yes,5326.11248,8
+2,radiotherapy,C,Dr Sam,2,101771,41-50,Male,Trauma,Moderate,None,4,Yes,4624.623408,6
+3,TB & Chest disease,E,Dr Mark,3,32114,41-50,Male,Emergency,Minor,Other,2,Yes,3560.975059,11
+3,gynecology,B,Dr Nathan,3,12115,21-30,Female,Trauma,Minor,Other,4,Yes,3982.167796,9
+3,TB & Chest disease,E,Dr John,10,23632,21-30,Other,Trauma,Moderate,Other,5,Yes,4195.554738,23
+2,anesthesia,C,Dr John,10,123860,61-70,Female,Emergency,Extreme,None,2,Yes,4679.096214,36
+4,gynecology,D,Dr Nathan,8,38959,21-30,Female,Emergency,Extreme,None,2,Yes,6886.601844,7
+4,gynecology,B,Dr Nathan,5,13934,41-50,Female,Trauma,Minor,Other,2,Yes,3893.970276,7
+5,TB & Chest disease,E,Dr John,4,52801,61-70,Female,Trauma,Moderate,Other,4,Yes,4783.931209,26
+3,gynecology,F,Dr Olivia,7,13868,21-30,Female,Trauma,Moderate,Other,2,Yes,7105.161623,8
+2,gynecology,D,Dr Olivia,5,104820,41-50,Female,Trauma,Moderate,Other,3,Yes,3900.673689,8
+3,gynecology,B,Dr Nathan,7,111178,21-30,Female,Urgent,Minor,Other,3,Yes,4944.127658,8
+4,gynecology,F,Dr Olivia,6,81531,31-40,Female,Trauma,Moderate,Other,4,Yes,4229.282603,9
+3,radiotherapy,E,Dr John,2,97261,21-30,Female,Trauma,Moderate,Other,6,Yes,3881.958886,23
+3,gynecology,D,Dr Nathan,6,18492,21-30,Female,Urgent,Minor,Other,5,Yes,6045.359688,9
+3,gynecology,B,Dr Olivia,9,44880,31-40,Female,Trauma,Moderate,Other,4,Yes,6103.13287,8
+1,gynecology,D,Dr Nathan,8,106050,21-30,Female,Trauma,Extreme,None,4,Yes,2633.277705,9
+4,gynecology,B,Dr Nathan,4,69044,21-30,Female,Trauma,Minor,Other,4,Yes,4262.926177,8
+2,gynecology,B,Dr Nathan,0,35812,31-40,Female,Trauma,Minor,None,2,Yes,4541.958291,7
+2,radiotherapy,E,Dr Sam,8,4508,71-80,Male,Urgent,Extreme,Other,2,Yes,6532.147892,24
+4,anesthesia,A,Dr John,0,29381,51-60,Female,Trauma,Moderate,Other,4,Yes,4774.172266,35
+3,gynecology,D,Dr Olivia,8,103499,21-30,Female,Emergency,Moderate,None,2,Yes,4977.681367,8
+2,gynecology,F,Dr Olivia,9,10881,21-30,Female,Trauma,Moderate,Other,2,Yes,4180.348376,8
+3,gynecology,F,Dr Nathan,0,73710,31-40,Female,Trauma,Minor,None,9,Yes,4731.673458,7
+3,gynecology,B,Dr Nathan,0,38547,31-40,Female,Trauma,Minor,Other,4,Yes,4941.410601,9
+2,gynecology,F,Dr Olivia,7,125873,31-40,Female,Trauma,Moderate,Other,2,Yes,3114.048224,7
+3,radiotherapy,A,Dr John,6,5141,61-70,Other,Trauma,Moderate,Other,3,Yes,4583.212158,24
+2,gynecology,D,Dr Nathan,9,17732,41-50,Female,Trauma,Extreme,None,6,Yes,3702.380788,8
+2,gynecology,D,Dr Olivia,10,88343,21-30,Female,Emergency,Moderate,Other,4,Yes,2731.006698,9
+2,radiotherapy,E,Dr John,4,51488,71-80,Female,Emergency,Moderate,Other,12,Yes,4935.431176,25
+3,surgery,A,Dr Simon,5,53554,41-50,Other,Trauma,Minor,Other,2,Yes,3770.914709,19
+2,anesthesia,E,Dr John,4,128455,51-60,Female,Trauma,Moderate,Other,4,Yes,4870.141692,38
+2,radiotherapy,E,Dr John,6,62102,21-30,Female,Emergency,Minor,Other,2,Yes,5007.72654,30
+4,anesthesia,A,Dr John,10,55688,31-40,Other,Trauma,Moderate,Other,2,Yes,4501.944347,21
+14,radiotherapy,E,Dr John,6,43045,41-50,Female,Trauma,Moderate,Other,8,Yes,5012.003074,5
+4,radiotherapy,A,Dr John,10,108755,71-80,Female,Trauma,Extreme,None,2,Yes,5023.508229,22
+3,gynecology,B,Dr Olivia,10,114512,21-30,Female,Emergency,Moderate,None,4,Yes,4448.004236,9
+2,gynecology,F,Dr Olivia,8,85399,21-30,Female,Emergency,Moderate,Other,4,Yes,3665.676114,8
+24,gynecology,F,Dr Olivia,4,48911,21-30,Female,Trauma,Moderate,Other,4,Yes,4745.430453,9
+4,gynecology,B,Dr Nathan,6,85339,41-50,Female,Trauma,Minor,None,2,Yes,5258.498324,9
+9,radiotherapy,E,Dr John,6,46143,31-40,Other,Trauma,Moderate,Other,4,Yes,4771.912682,6
+3,radiotherapy,A,Dr John,1,95804,61-70,Other,Trauma,Moderate,Other,2,Yes,5483.59652,20
+4,TB & Chest disease,A,Dr John,3,89494,21-30,Female,Trauma,Moderate,None,2,Yes,4457.343232,30
+1,gynecology,D,Dr Nathan,8,126337,41-50,Female,Trauma,Extreme,Other,4,Yes,3764.905934,9
+10,gynecology,D,Dr Olivia,7,101262,31-40,Female,Trauma,Moderate,None,4,Yes,7058.112994,9
+6,gynecology,D,Dr Olivia,9,92674,21-30,Female,Emergency,Moderate,None,4,Yes,3519.205912,9
+3,TB & Chest disease,E,Dr John,7,78255,31-40,Female,Trauma,Moderate,Other,2,Yes,4277.102715,8
+2,gynecology,B,Dr Olivia,7,6967,21-30,Female,Emergency,Moderate,Other,2,Yes,5078.01146,8
+3,gynecology,B,Dr Olivia,8,33958,21-30,Female,Trauma,Moderate,Other,2,Yes,4921.989372,8
+3,radiotherapy,C,Dr John,10,100583,61-70,Female,Trauma,Moderate,Other,2,Yes,4773.972299,22
+3,gynecology,B,Dr Olivia,2,6203,31-40,Female,Emergency,Moderate,Other,3,Yes,3922.045644,9
+5,gynecology,D,Dr Olivia,4,31794,31-40,Female,Trauma,Moderate,None,4,Yes,3841.668703,8
+3,gynecology,F,Dr Olivia,10,47399,21-30,Female,Trauma,Moderate,None,4,Yes,4391.856679,9
+4,gynecology,B,Dr Nathan,7,2426,31-40,Female,Trauma,Minor,Other,4,Yes,4001.262576,7
+3,anesthesia,E,Dr John,10,18985,0-10,Female,Urgent,Moderate,Other,18,Yes,6896.526835,33
+5,radiotherapy,E,Dr Sam,1,56991,41-50,Male,Trauma,Moderate,None,2,Yes,2859.640377,7
+2,radiotherapy,A,Dr John,0,52025,31-40,Other,Trauma,Minor,None,6,Yes,4664.777345,6
+3,radiotherapy,E,Dr John,8,17136,61-70,Female,Emergency,Extreme,Other,4,Yes,3811.203236,21
+3,gynecology,B,Dr Olivia,1,15462,21-30,Female,Trauma,Moderate,Other,2,Yes,3255.786939,9
+21,gynecology,D,Dr Olivia,4,128767,31-40,Female,Urgent,Moderate,Other,3,Yes,6101.999009,11
+3,gynecology,F,Dr Nathan,0,16698,21-30,Female,Emergency,Minor,Other,2,Yes,4708.681153,8
+2,radiotherapy,A,Dr Sam,6,113420,71-80,Male,Trauma,Moderate,Other,2,Yes,5935.706996,26
+2,radiotherapy,E,Dr John,3,126403,81-90,Female,Trauma,Moderate,Other,2,Yes,4782.345043,26
+4,gynecology,B,Dr Olivia,5,32702,41-50,Female,Trauma,Moderate,Other,2,Yes,2287.042448,8
+1,gynecology,B,Dr Nathan,1,84672,21-30,Female,Trauma,Extreme,None,2,Yes,4591.749822,10
+3,radiotherapy,E,Dr Sam,10,42172,51-60,Male,Trauma,Extreme,Other,4,Yes,2841.003851,26
+4,gynecology,F,Dr Nathan,6,129188,31-40,Female,Emergency,Minor,Other,4,Yes,6799.522041,6
+4,gynecology,F,Dr Nathan,2,61413,31-40,Female,Emergency,Minor,None,2,Yes,3988.914417,7
+2,gynecology,F,Dr Nathan,2,46227,21-30,Female,Urgent,Minor,None,2,Yes,4216.986281,9
+4,gynecology,F,Dr Nathan,5,4214,21-30,Female,Trauma,Minor,Other,2,Yes,5653.44896,8
+3,gynecology,F,Dr Olivia,8,123503,21-30,Female,Trauma,Moderate,None,2,Yes,6524.999173,8
+5,gynecology,F,Dr Nathan,5,92340,21-30,Female,Trauma,Minor,None,2,Yes,4769.141159,9
+3,gynecology,F,Dr Olivia,6,20095,21-30,Female,Trauma,Moderate,None,3,Yes,4882.137407,8
+3,gynecology,F,Dr Nathan,6,27949,21-30,Female,Trauma,Minor,Other,4,Yes,4705.174933,9
+4,gynecology,F,Dr Olivia,9,117735,21-30,Female,Urgent,Moderate,Other,2,Yes,5273.188053,7
+5,gynecology,D,Dr Nathan,0,52935,41-50,Female,Trauma,Minor,Other,4,Yes,3544.68756,9
+4,gynecology,B,Dr Olivia,7,111983,21-30,Female,Trauma,Moderate,Other,4,Yes,4996.079953,9
+3,gynecology,D,Dr Nathan,10,115415,21-30,Female,Trauma,Extreme,Other,4,Yes,4440.449105,9
+4,TB & Chest disease,A,Dr Mark,0,36589,41-50,Male,Trauma,Minor,None,4,Yes,4772.644738,13
+10,gynecology,D,Dr Nathan,6,126890,21-30,Female,Emergency,Minor,Other,5,Yes,3267.880413,8
+1,anesthesia,A,Dr John,3,116217,51-60,Female,Trauma,Moderate,Other,3,Yes,5818.589186,37
+3,gynecology,B,Dr Olivia,5,127425,31-40,Female,Trauma,Moderate,Other,4,Yes,3694.844836,9
+2,anesthesia,C,Dr Mark,2,128261,71-80,Male,Emergency,Moderate,Other,4,Yes,3651.629308,28
+2,gynecology,B,Dr Nathan,2,59868,31-40,Female,Trauma,Minor,Other,2,Yes,5090.580262,10
+4,radiotherapy,E,Dr Sam,7,84482,41-50,Male,Emergency,Moderate,None,14,Yes,2640.226191,5
+4,gynecology,B,Dr Nathan,7,15104,21-30,Female,Emergency,Minor,Other,2,Yes,3908.788193,9
+2,gynecology,F,Dr Nathan,3,126368,31-40,Female,Urgent,Minor,None,2,Yes,6121.475158,7
+6,gynecology,B,Dr Olivia,8,87772,21-30,Female,Trauma,Moderate,Other,3,Yes,4750.318661,7
+4,gynecology,F,Dr Nathan,9,109966,41-50,Female,Trauma,Extreme,Other,2,Yes,4278.591213,9
+2,gynecology,D,Dr Olivia,10,5178,21-30,Female,Emergency,Moderate,Other,4,Yes,3859.144529,9
+3,radiotherapy,E,Dr Sam,2,9512,71-80,Male,Urgent,Moderate,Other,6,Yes,4325.982534,25
+2,gynecology,D,Dr Olivia,0,29618,21-30,Female,Emergency,Moderate,Other,2,Yes,4328.800482,9
+5,gynecology,D,Dr Olivia,2,59356,31-40,Female,Trauma,Moderate,None,4,Yes,6771.285386,9
+3,gynecology,F,Dr Olivia,4,110458,21-30,Female,Trauma,Moderate,None,2,Yes,4426.61007,11
+4,gynecology,B,Dr Nathan,0,19391,41-50,Female,Trauma,Minor,Other,2,Yes,4485.876724,9
+5,gynecology,D,Dr Olivia,1,25617,21-30,Female,Emergency,Moderate,None,4,Yes,5126.106696,8
+4,anesthesia,E,Dr Mark,7,52070,41-50,Male,Trauma,Minor,None,4,Yes,7032.4382,19
+2,gynecology,F,Dr Olivia,8,92716,41-50,Female,Urgent,Moderate,Other,2,Yes,3751.677088,6
+3,radiotherapy,E,Dr John,9,13190,51-60,Female,Urgent,Moderate,Other,5,Yes,3963.591464,20
+3,anesthesia,E,Dr Mark,1,95321,51-60,Male,Trauma,Minor,Other,2,Yes,2226.447262,33
+2,anesthesia,E,Dr Mark,9,47147,41-50,Male,Emergency,Moderate,Other,2,Yes,5121.572743,21
+2,radiotherapy,E,Dr Sam,1,130681,51-60,Male,Trauma,Moderate,Other,4,Yes,4834.064291,24
+4,gynecology,F,Dr Olivia,4,14423,41-50,Female,Trauma,Moderate,None,2,Yes,3777.0757,8
+5,radiotherapy,C,Dr John,5,15572,61-70,Female,Emergency,Moderate,Other,2,Yes,3629.667588,21
+3,gynecology,F,Dr Olivia,10,117762,21-30,Female,Emergency,Moderate,Other,2,Yes,5505.545452,8
+2,anesthesia,E,Dr Mark,3,129390,51-60,Male,Trauma,Moderate,Other,2,Yes,5020.902853,34
+3,gynecology,F,Dr Nathan,7,5449,21-30,Female,Trauma,Minor,Other,3,Yes,4507.92975,8
+3,gynecology,F,Dr Olivia,1,93769,21-30,Female,Emergency,Moderate,Other,2,Yes,5042.331376,10
+4,gynecology,F,Dr Olivia,1,113982,31-40,Female,Trauma,Moderate,None,4,Yes,5442.506019,9
+7,surgery,A,Dr Simon,10,8412,71-80,Female,Trauma,Extreme,None,2,Yes,7750.207821,34
+2,gynecology,F,Dr Olivia,8,79235,31-40,Female,Trauma,Moderate,Other,5,Yes,4283.918731,8
+3,anesthesia,E,Dr John,5,3887,31-40,Female,Trauma,Moderate,None,2,Yes,4941.377062,18
+3,gynecology,F,Dr Olivia,9,73297,41-50,Female,Trauma,Moderate,Other,3,Yes,4906.333522,8
+4,gynecology,D,Dr Nathan,4,67027,21-30,Female,Trauma,Minor,Other,6,Yes,4793.744305,8
+2,gynecology,D,Dr Nathan,0,35462,21-30,Female,Trauma,Extreme,Other,2,Yes,4407.998896,10
+4,TB & Chest disease,E,Dr Mark,2,41494,51-60,Male,Trauma,Moderate,None,4,Yes,5625.239154,24
+3,anesthesia,E,Dr John,6,30400,31-40,Female,Trauma,Minor,None,3,Yes,4051.739832,18
+3,radiotherapy,A,Dr Sam,2,63056,51-60,Male,Trauma,Moderate,Other,2,Yes,5096.564756,22
+3,gynecology,F,Dr Olivia,8,117137,21-30,Female,Trauma,Moderate,None,2,Yes,2144.013112,9
+4,radiotherapy,E,Dr Sam,6,36130,51-60,Male,Trauma,Moderate,Other,4,Yes,6696.761597,26
+4,gynecology,D,Dr Olivia,4,122863,21-30,Female,Trauma,Moderate,Other,2,Yes,4047.027932,9
+4,gynecology,F,Dr Nathan,4,125786,21-30,Female,Emergency,Minor,Other,6,Yes,6845.88826,8
+3,gynecology,F,Dr Olivia,1,44526,21-30,Female,Trauma,Moderate,Other,4,Yes,4143.37647,9
+5,gynecology,D,Dr Nathan,1,42843,41-50,Female,Emergency,Extreme,None,4,Yes,4390.819415,9
+3,gynecology,D,Dr Nathan,0,99372,41-50,Female,Trauma,Extreme,Other,2,Yes,3405.905275,9
+3,radiotherapy,A,Dr Sam,0,115294,51-60,Male,Emergency,Moderate,None,2,Yes,4825.3909,23
+4,radiotherapy,C,Dr John,4,11664,71-80,Female,Emergency,Moderate,None,4,Yes,5791.628111,23
+5,gynecology,D,Dr Olivia,4,19331,21-30,Female,Trauma,Moderate,Other,4,Yes,4002.755214,9
+2,gynecology,F,Dr Olivia,5,6814,21-30,Female,Emergency,Moderate,Other,2,Yes,4999.30833,9
+4,gynecology,F,Dr Nathan,2,115247,21-30,Female,Trauma,Minor,Other,4,Yes,4838.844833,9
+4,gynecology,D,Dr Olivia,6,78548,21-30,Female,Emergency,Moderate,Other,5,Yes,4371.467152,9
+4,gynecology,D,Dr Olivia,2,126362,21-30,Female,Trauma,Moderate,None,2,Yes,8285.92773,8
+3,radiotherapy,A,Dr Sam,5,26775,41-50,Male,Trauma,Moderate,Other,2,Yes,4777.350016,7
+3,gynecology,B,Dr Olivia,6,110012,21-30,Female,Emergency,Moderate,Other,2,Yes,5361.952318,7
+2,radiotherapy,A,Dr Sam,9,19311,61-70,Male,Trauma,Moderate,None,2,Yes,5876.177083,24
+2,gynecology,B,Dr Olivia,9,102861,31-40,Female,Trauma,Moderate,None,4,Yes,4874.062083,7
+3,anesthesia,E,Dr Mark,0,79056,21-30,Male,Emergency,Extreme,None,2,Yes,7297.135455,45
+3,gynecology,D,Dr Nathan,0,16781,21-30,Female,Urgent,Extreme,Other,2,Yes,4707.613546,8
+4,gynecology,B,Dr Olivia,7,96417,31-40,Female,Urgent,Moderate,Other,2,Yes,4895.241608,9
+5,gynecology,B,Dr Nathan,0,4839,21-30,Female,Urgent,Minor,Other,0,Yes,4711.983779,9
+3,gynecology,F,Dr Nathan,5,18328,21-30,Female,Trauma,Minor,Other,6,Yes,7179.507318,9
+4,gynecology,F,Dr Olivia,10,81803,41-50,Female,Trauma,Moderate,Other,4,Yes,4912.815365,9
+2,gynecology,F,Dr Olivia,4,112469,21-30,Female,Trauma,Moderate,Other,2,Yes,8130.158588,9
+4,gynecology,D,Dr Nathan,8,35426,31-40,Female,Trauma,Minor,None,2,Yes,4020.655308,7
+2,gynecology,B,Dr Nathan,5,82165,31-40,Female,Trauma,Minor,Other,2,Yes,4919.652377,8
+3,gynecology,F,Dr Olivia,2,27033,41-50,Female,Urgent,Moderate,Other,3,Yes,4693.960419,8
+2,radiotherapy,A,Dr John,4,72179,71-80,Female,Trauma,Moderate,None,2,Yes,4874.857631,25
+3,anesthesia,E,Dr John,1,44698,31-40,Female,Trauma,Moderate,Other,4,Yes,4083.17335,21
+2,anesthesia,A,Dr Mark,6,77282,51-60,Male,Trauma,Minor,Other,2,Yes,5713.160522,31
+4,TB & Chest disease,E,Dr Mark,8,5474,21-30,Male,Trauma,Moderate,None,4,Yes,4123.250151,23
+3,gynecology,F,Dr Olivia,4,84445,21-30,Female,Emergency,Moderate,Other,2,Yes,3830.617049,10
+2,gynecology,F,Dr Nathan,10,30664,21-30,Female,Trauma,Minor,Other,2,Yes,4825.268247,9
+4,gynecology,D,Dr Nathan,3,124106,41-50,Female,Trauma,Extreme,None,4,Yes,4015.349954,11
+2,gynecology,F,Dr Olivia,6,128344,21-30,Female,Trauma,Moderate,Other,2,Yes,4849.299515,7
+2,gynecology,B,Dr Olivia,9,46506,21-30,Female,Trauma,Moderate,Other,2,Yes,4718.235607,8
+3,gynecology,F,Dr Nathan,5,114087,21-30,Female,Urgent,Minor,Other,3,Yes,5040.467948,9
+4,gynecology,F,Dr Nathan,7,108180,41-50,Female,Trauma,Minor,Other,3,Yes,4762.247904,9
+2,gynecology,D,Dr Nathan,8,50158,31-40,Female,Trauma,Extreme,None,2,Yes,4267.927652,8
+4,gynecology,B,Dr Olivia,5,89574,21-30,Female,Emergency,Moderate,Other,4,Yes,5483.545285,9
+3,gynecology,F,Dr Nathan,7,38846,21-30,Female,Emergency,Minor,Other,2,Yes,4780.82398,8
+2,gynecology,B,Dr Olivia,5,24954,21-30,Female,Emergency,Moderate,Other,2,Yes,6409.75119,7
+2,gynecology,B,Dr Nathan,3,29381,21-30,Female,Urgent,Minor,Other,2,Yes,3731.8669,9
+3,gynecology,F,Dr Nathan,9,20792,21-30,Female,Urgent,Extreme,Other,3,Yes,4634.54302,11
+2,gynecology,B,Dr Olivia,4,52728,21-30,Female,Trauma,Moderate,None,2,Yes,4542.506096,10
+5,gynecology,F,Dr Nathan,0,17775,31-40,Female,Trauma,Minor,Other,4,Yes,3983.038409,9
+5,gynecology,D,Dr Olivia,6,15072,21-30,Female,Emergency,Moderate,Other,6,Yes,4915.151388,8
+4,gynecology,F,Dr Nathan,8,33054,21-30,Female,Emergency,Minor,Other,2,Yes,4256.399683,9
+3,radiotherapy,A,Dr Sam,1,38892,31-40,Male,Trauma,Moderate,Other,2,Yes,4837.093309,6
+8,gynecology,D,Dr Olivia,0,90130,21-30,Female,Trauma,Moderate,None,4,Yes,3295.973646,9
+4,gynecology,F,Dr Nathan,10,12968,31-40,Female,Trauma,Minor,Other,4,Yes,4948.192137,9
+2,radiotherapy,A,Dr John,6,45641,61-70,Female,Trauma,Moderate,Other,3,Yes,5296.067738,21
+3,gynecology,F,Dr Nathan,2,93169,21-30,Female,Trauma,Extreme,Other,2,Yes,3163.303404,6
+2,gynecology,B,Dr Nathan,2,70234,21-30,Female,Trauma,Minor,Other,2,Yes,5862.173978,8
+3,radiotherapy,E,Dr Sam,0,82148,81-90,Male,Trauma,Moderate,None,6,Yes,5442.528697,22
+3,anesthesia,E,Dr Mark,1,83667,41-50,Male,Emergency,Moderate,None,4,Yes,6614.590955,21
+5,gynecology,F,Dr Olivia,3,53601,21-30,Female,Trauma,Moderate,None,4,Yes,3771.032248,9
+2,anesthesia,A,Dr Mark,7,30766,71-80,Male,Trauma,Moderate,None,4,Yes,4438.911981,31
+2,radiotherapy,E,Dr John,2,70941,21-30,Female,Trauma,Minor,Other,6,Yes,4353.857442,24
+3,radiotherapy,A,Dr John,1,27499,21-30,Female,Trauma,Moderate,Other,2,Yes,2748.254806,19
+2,gynecology,B,Dr Nathan,5,34718,21-30,Female,Trauma,Minor,Other,2,Yes,4764.177187,8
+5,gynecology,D,Dr Olivia,6,29970,21-30,Female,Emergency,Moderate,Other,4,Yes,3297.29347,9
+5,gynecology,F,Dr Nathan,7,81557,31-40,Female,Trauma,Minor,None,4,Yes,3996.770264,10
+5,anesthesia,E,Dr Mark,2,27215,51-60,Male,Trauma,Moderate,None,4,Yes,4072.807514,27
+3,radiotherapy,E,Dr Sam,2,128732,31-40,Male,Urgent,Extreme,Other,3,Yes,4559.875751,6
+3,anesthesia,E,Dr Mark,0,58410,31-40,Male,Trauma,Moderate,Other,4,Yes,7250.860309,19
+3,gynecology,B,Dr Olivia,4,3349,31-40,Female,Trauma,Moderate,Other,4,Yes,5193.30596,9
+3,gynecology,F,Dr Olivia,1,115358,41-50,Female,Urgent,Moderate,None,3,Yes,4323.144563,9
+4,TB & Chest disease,E,Dr Mark,6,28254,51-60,Male,Trauma,Moderate,None,2,Yes,4665.543708,32
+4,gynecology,D,Dr Nathan,4,30329,41-50,Female,Trauma,Extreme,Other,2,Yes,4664.103622,8
+5,anesthesia,C,Dr Mark,9,108678,71-80,Male,Emergency,Moderate,None,3,Yes,4759.870881,29
+2,gynecology,D,Dr Nathan,1,120706,31-40,Female,Trauma,Extreme,Other,2,Yes,5382.961328,10
+4,gynecology,D,Dr Olivia,4,42885,31-40,Female,Trauma,Moderate,Other,2,Yes,3899.355757,8
+4,gynecology,F,Dr Olivia,7,25671,21-30,Female,Emergency,Moderate,None,4,Yes,4148.846688,8
+3,radiotherapy,E,Dr John,3,30807,21-30,Female,Trauma,Moderate,Other,16,Yes,4126.483599,27
+3,gynecology,F,Dr Nathan,2,44618,41-50,Female,Trauma,Extreme,Other,6,Yes,4592.257346,6
+2,gynecology,D,Dr Nathan,1,43845,21-30,Female,Trauma,Extreme,None,2,Yes,6876.32689,8
+4,gynecology,F,Dr Olivia,7,124401,21-30,Female,Trauma,Moderate,None,4,Yes,4700.859373,8
+4,radiotherapy,E,Dr Sam,0,107828,81-90,Male,Trauma,Moderate,Other,2,Yes,5115.809771,22
+3,gynecology,F,Dr Nathan,2,77012,21-30,Female,Trauma,Minor,None,2,Yes,3939.831007,9
+2,gynecology,D,Dr Olivia,5,75462,21-30,Female,Emergency,Moderate,Other,4,Yes,4265.998406,9
+4,radiotherapy,C,Dr John,1,112767,31-40,Female,Trauma,Moderate,Other,4,Yes,4991.633455,6
+3,gynecology,D,Dr Nathan,9,81925,21-30,Female,Trauma,Minor,Other,12,Yes,4607.364645,9
+3,gynecology,F,Dr Olivia,9,30568,21-30,Female,Emergency,Moderate,None,3,Yes,3000.241855,9
+3,gynecology,D,Dr Nathan,10,115806,31-40,Female,Trauma,Minor,None,2,Yes,4713.710105,7
+3,gynecology,F,Dr Olivia,1,76759,31-40,Female,Emergency,Moderate,Other,2,Yes,6975.801446,7
+2,gynecology,D,Dr Nathan,3,124796,21-30,Female,Trauma,Extreme,Other,4,Yes,4105.954625,9
+4,gynecology,D,Dr Olivia,1,11055,41-50,Female,Trauma,Moderate,Other,4,Yes,4011.271203,11
+4,gynecology,F,Dr Olivia,1,77621,21-30,Female,Trauma,Moderate,Other,4,Yes,8716.998449,11
+5,gynecology,D,Dr Olivia,5,66097,31-40,Female,Emergency,Moderate,None,2,Yes,4946.823435,9
+5,anesthesia,E,Dr John,4,93302,41-50,Female,Trauma,Moderate,Other,2,Yes,4473.881153,16
+4,gynecology,F,Dr Nathan,6,18312,21-30,Female,Trauma,Extreme,Other,3,Yes,4565.513678,11
+2,TB & Chest disease,C,Dr Mark,6,18734,61-70,Male,Trauma,Moderate,Other,2,Yes,4704.552988,31
+3,gynecology,D,Dr Nathan,9,54701,21-30,Female,Emergency,Minor,None,2,Yes,6260.350044,9
+2,radiotherapy,A,Dr Sam,10,54374,61-70,Male,Trauma,Moderate,Other,2,Yes,5458.938469,22
+3,gynecology,B,Dr Olivia,9,72559,21-30,Female,Trauma,Moderate,Other,2,Yes,4530.033827,10
+5,gynecology,D,Dr Olivia,2,51885,21-30,Female,Trauma,Moderate,None,4,Yes,5546.155301,9
+3,gynecology,B,Dr Nathan,2,19584,21-30,Female,Trauma,Minor,Other,2,Yes,7576.190649,9
+2,gynecology,D,Dr Olivia,2,65873,21-30,Female,Emergency,Moderate,None,4,Yes,3658.185034,10
+2,gynecology,F,Dr Nathan,10,127971,31-40,Female,Emergency,Minor,None,4,Yes,3156.686745,7
+5,gynecology,F,Dr Nathan,2,109583,21-30,Female,Trauma,Extreme,Other,2,Yes,3810.355129,8
+1,gynecology,D,Dr Olivia,8,124913,21-30,Female,Emergency,Moderate,Other,4,Yes,4619.933201,9
+3,radiotherapy,A,Dr John,9,100051,51-60,Female,Trauma,Moderate,Other,2,Yes,4501.512353,27
+2,gynecology,F,Dr Olivia,0,49928,21-30,Female,Trauma,Moderate,Other,2,Yes,4325.419671,9
+6,gynecology,D,Dr Sarah,9,61666,31-40,Female,Trauma,Moderate,High Blood Pressure,4,Yes,4852.443403,8
+4,gynecology,F,Dr Sophia,8,5800,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,3982.833629,8
+3,radiotherapy,E,Dr John,10,64105,31-40,Female,Trauma,Moderate,Heart disease,8,Yes,4114.08075,5
+5,gynecology,F,Dr Sophia,8,6993,31-40,Female,Trauma,Moderate,Heart disease,8,Yes,5181.071825,10
+3,gynecology,F,Dr Sophia,7,80233,31-40,Female,Emergency,Moderate,Heart disease,12,Yes,4227.389163,8
+2,radiotherapy,A,Dr John,4,74623,51-60,Female,Emergency,Moderate,None,2,Yes,4660.614847,26
+4,gynecology,D,Dr Olivia,3,56689,31-40,Female,Emergency,Moderate,None,3,Yes,4522.682661,7
+7,anesthesia,E,Dr John,0,12845,31-40,Female,Trauma,Extreme,None,2,Yes,5500.682295,21
+4,gynecology,D,Dr Nathan,7,125490,31-40,Female,Trauma,Extreme,None,4,Yes,4165.841058,9
+2,gynecology,F,Dr Nathan,5,116145,21-30,Female,Trauma,Minor,None,2,Yes,4539.538125,11
+6,gynecology,D,Dr Sophia,9,2587,41-50,Female,Urgent,Moderate,Heart disease,4,Yes,3773.826373,10
+0,gynecology,D,Dr Nathan,8,2640,21-30,Female,Trauma,Minor,None,4,Yes,4802.993516,9
+2,TB & Chest disease,E,Dr Mark,2,44553,61-70,Male,Trauma,Moderate,Heart disease,2,Yes,8247.983615,32
+2,gynecology,B,Dr Sophia,5,49377,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4760.3049,9
+2,gynecology,B,Dr Olivia,7,120840,21-30,Female,Trauma,Moderate,None,4,Yes,3967.281102,9
+1,gynecology,D,Dr Sophia,8,43537,21-30,Female,Trauma,Extreme,Heart disease,3,Yes,4404.600828,9
+3,gynecology,D,Dr Sophia,5,83834,41-50,Female,Emergency,Moderate,Heart disease,4,Yes,4936.365389,10
+3,anesthesia,E,Dr Mark,0,127738,61-70,Male,Trauma,Moderate,Heart disease,4,Yes,4853.82076,30
+3,gynecology,D,Dr Sophia,2,99915,41-50,Female,Emergency,Moderate,Heart disease,4,Yes,4084.76132,7
+4,surgery,A,Dr Isaac,6,31976,31-40,Male,Trauma,Moderate,Heart disease,6,Yes,3570.358572,16
+2,gynecology,D,Dr Sophia,2,125651,31-40,Female,Emergency,Minor,Heart disease,2,Yes,4488.732898,10
+2,anesthesia,E,Dr Mark,8,58669,51-60,Male,Urgent,Moderate,None,4,Yes,5396.117239,24
+5,gynecology,D,Dr Sophia,0,89621,31-40,Female,Emergency,Minor,Heart disease,4,Yes,5052.146568,9
+4,gynecology,F,Dr Sophia,2,125982,21-30,Female,Trauma,Moderate,Heart disease,3,Yes,3600.274881,9
+2,gynecology,D,Dr Olivia,10,71118,31-40,Female,Emergency,Moderate,None,5,Yes,4518.064541,8
+4,gynecology,F,Dr Nathan,0,12060,31-40,Female,Trauma,Minor,None,2,Yes,3036.642355,9
+2,radiotherapy,A,Dr John,3,112937,31-40,Female,Trauma,Extreme,None,14,Yes,4431.403093,7
+2,gynecology,F,Dr Olivia,8,47846,21-30,Female,Trauma,Moderate,Other,2,Yes,4870.445108,8
+4,gynecology,F,Dr Sophia,3,43612,31-40,Female,Trauma,Minor,Heart disease,2,Yes,4843.236119,8
+5,gynecology,F,Dr Nathan,6,54596,21-30,Female,Emergency,Minor,Other,3,Yes,4871.534373,9
+2,gynecology,B,Dr Sophia,9,126043,31-40,Female,Emergency,Moderate,Heart disease,2,Yes,4728.066291,9
+4,gynecology,D,Dr Olivia,9,64031,21-30,Female,Trauma,Moderate,Other,2,Yes,3705.81707,10
+5,gynecology,D,Dr Sophia,0,916,41-50,Female,Emergency,Moderate,Heart disease,4,Yes,3738.300272,10
+2,gynecology,D,Dr Olivia,1,110647,41-50,Female,Emergency,Moderate,Other,2,Yes,5275.840903,8
+2,gynecology,D,Dr Sophia,7,5128,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,3347.7775,9
+3,gynecology,F,Dr Olivia,5,34273,21-30,Female,Trauma,Moderate,None,2,Yes,7011.241198,7
+3,gynecology,D,Dr Olivia,7,109415,21-30,Female,Emergency,Moderate,None,4,Yes,5184.90249,8
+5,gynecology,D,Dr Nathan,8,114615,31-40,Female,Trauma,Minor,Other,4,Yes,3897.740634,9
+2,anesthesia,A,Dr John,1,100179,41-50,Female,Trauma,Moderate,None,2,Yes,4809.693134,23
+3,gynecology,F,Dr Sophia,2,98167,21-30,Female,Trauma,Extreme,Heart disease,3,Yes,4974.79045,7
+2,anesthesia,E,Dr Mark,1,10705,51-60,Male,Trauma,Moderate,Heart disease,4,Yes,6076.330338,34
+6,radiotherapy,A,Dr Sam,3,16376,31-40,Male,Trauma,Moderate,Other,6,Yes,5088.730984,5
+3,gynecology,D,Dr Sarah,6,58356,31-40,Female,Trauma,Moderate,High Blood Pressure,4,Yes,5171.364583,7
+4,gynecology,B,Dr Sarah,7,10655,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,3686.809621,6
+4,gynecology,B,Dr Olivia,1,85259,31-40,Female,Trauma,Moderate,Other,4,Yes,4393.681327,9
+2,TB & Chest disease,E,Dr Mark,9,30510,31-40,Male,Trauma,Moderate,None,4,Yes,4802.602728,9
+2,anesthesia,E,Dr John,8,87017,51-60,Female,Trauma,Minor,High Blood Pressure,5,Yes,4652.157232,33
+3,anesthesia,A,Dr Mark,8,111462,61-70,Male,Emergency,Moderate,Heart disease,2,Yes,5199.700694,43
+2,gynecology,D,Dr Olivia,7,4216,21-30,Female,Trauma,Moderate,None,2,Yes,5010.602006,9
+3,gynecology,F,Dr Sarah,5,124807,21-30,Female,Trauma,Minor,High Blood Pressure,2,Yes,4439.919192,11
+2,gynecology,F,Dr Nathan,4,7585,31-40,Female,Urgent,Minor,Other,4,Yes,4407.73807,6
+4,TB & Chest disease,E,Dr Mark,4,12362,51-60,Male,Trauma,Moderate,Heart disease,4,Yes,3985.396464,29
+3,gynecology,B,Dr Sophia,10,31353,21-30,Female,Emergency,Minor,Heart disease,3,Yes,4901.58565,8
+3,gynecology,D,Dr Nathan,4,15994,21-30,Female,Emergency,Minor,Other,2,Yes,3235.117689,7
+3,gynecology,D,Dr Sarah,6,5036,41-50,Female,Emergency,Moderate,High Blood Pressure,2,Yes,3903.535472,9
+4,gynecology,D,Dr Sarah,8,52962,31-40,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4798.186578,10
+5,TB & Chest disease,E,Dr John,3,46403,51-60,Female,Trauma,Moderate,Heart disease,4,Yes,7197.707379,31
+3,TB & Chest disease,E,Dr Mark,0,106597,41-50,Male,Emergency,Moderate,Heart disease,12,Yes,5354.975712,10
+2,anesthesia,A,Dr Mark,10,109816,71-80,Male,Trauma,Moderate,Heart disease,2,Yes,5089.148412,30
+5,gynecology,D,Dr Olivia,6,70594,21-30,Female,Emergency,Moderate,Other,2,Yes,3037.332688,8
+4,gynecology,F,Dr Sarah,7,110191,20-Nov,Female,Trauma,Extreme,High Blood Pressure,9,Yes,3667.423792,10
+2,anesthesia,A,Dr Mark,10,117137,41-50,Male,Trauma,Moderate,None,2,Yes,4733.271098,16
+1,gynecology,F,Dr Olivia,4,91679,31-40,Female,Trauma,Moderate,None,9,Yes,5022.765121,9
+4,gynecology,D,Dr Sophia,4,38086,21-30,Female,Emergency,Minor,Heart disease,3,Yes,3499.122869,8
+3,gynecology,B,Dr Olivia,0,80012,31-40,Female,Trauma,Moderate,None,4,Yes,3909.673112,10
+3,gynecology,B,Dr Nathan,8,60774,21-30,Female,Urgent,Minor,None,2,Yes,3685.017536,9
+2,radiotherapy,E,Dr Sam,10,19170,51-60,Male,Trauma,Moderate,High Blood Pressure,4,Yes,5079.765843,21
+4,gynecology,B,Dr Nathan,2,124058,31-40,Female,Trauma,Minor,None,8,Yes,2881.575332,9
+2,gynecology,F,Dr Sophia,7,15627,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4501.18343,8
+2,gynecology,B,Dr Olivia,5,32112,31-40,Female,Trauma,Moderate,None,2,Yes,4973.551676,7
+4,TB & Chest disease,E,Dr Mark,7,5541,31-40,Male,Trauma,Moderate,High Blood Pressure,4,Yes,3579.226236,14
+1,gynecology,D,Dr Olivia,0,108641,41-50,Female,Emergency,Moderate,Other,4,Yes,4315.035055,9
+2,radiotherapy,E,Dr Sam,8,90965,21-30,Male,Trauma,Moderate,None,8,Yes,3309.832731,27
+4,gynecology,F,Dr Nathan,3,73561,31-40,Female,Trauma,Minor,None,4,Yes,3895.242988,9
+3,gynecology,D,Dr Nathan,9,44150,21-30,Female,Trauma,Extreme,Other,2,Yes,6806.982285,8
+5,gynecology,D,Dr Olivia,9,90070,21-30,Female,Emergency,Moderate,Other,4,Yes,3853.769795,9
+3,radiotherapy,E,Dr John,9,85439,81-90,Female,Emergency,Minor,None,2,Yes,3955.366819,24
+2,TB & Chest disease,E,Dr John,4,27828,91-100,Female,Trauma,Moderate,Heart disease,6,Yes,5198.36636,22
+5,radiotherapy,E,Dr John,6,18697,31-40,Female,Urgent,Moderate,Heart disease,6,Yes,4767.891986,5
+4,gynecology,B,Dr Sophia,7,97268,21-30,Female,Trauma,Moderate,Heart disease,4,Yes,4665.674899,8
+3,gynecology,D,Dr Sarah,5,85884,31-40,Female,Emergency,Extreme,High Blood Pressure,2,Yes,4925.975625,8
+2,gynecology,F,Dr Olivia,1,84877,31-40,Female,Trauma,Moderate,None,2,Yes,4776.745217,9
+3,gynecology,F,Dr Olivia,0,23153,21-30,Female,Urgent,Moderate,Other,3,Yes,4502.21135,9
+2,TB & Chest disease,E,Dr John,0,51433,61-70,Female,Trauma,Moderate,Heart disease,4,Yes,4695.206957,33
+2,gynecology,B,Dr Sarah,2,31892,20-Nov,Female,Emergency,Minor,High Blood Pressure,2,Yes,7175.849925,6
+5,anesthesia,E,Dr John,9,74953,31-40,Female,Trauma,Moderate,High Blood Pressure,4,Yes,3015.02666,19
+3,radiotherapy,E,Dr Sam,6,48407,31-40,Male,Trauma,Moderate,None,2,Yes,4962.494801,6
+2,anesthesia,A,Dr John,5,112636,71-80,Female,Trauma,Moderate,Heart disease,4,Yes,3671.280918,36
+4,gynecology,B,Dr Olivia,7,64490,41-50,Female,Trauma,Moderate,None,4,Yes,3862.361763,10
+2,anesthesia,A,Dr Mark,1,108259,41-50,Male,Trauma,Moderate,Heart disease,2,Yes,4053.12685,19
+4,gynecology,F,Dr Sophia,7,85991,31-40,Female,Trauma,Minor,Heart disease,3,Yes,2477.867936,7
+13,gynecology,F,Dr Nathan,9,9483,31-40,Female,Trauma,Minor,None,5,Yes,4926.959315,10
+12,TB & Chest disease,A,Dr John,1,55023,31-40,Female,Trauma,Minor,Heart disease,2,Yes,5064.533048,14
+3,gynecology,D,Dr Sophia,0,124280,21-30,Female,Urgent,Extreme,Heart disease,8,Yes,3960.468666,10
+2,gynecology,B,Dr Sophia,3,20377,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,2469.019755,10
+14,gynecology,D,Dr Olivia,8,20068,31-40,Female,Trauma,Moderate,None,4,Yes,4328.109631,10
+4,gynecology,F,Dr Sarah,2,110858,20-Nov,Female,Emergency,Minor,High Blood Pressure,4,Yes,3943.127268,8
+2,radiotherapy,A,Dr Sam,1,117282,71-80,Male,Trauma,Moderate,None,2,Yes,5133.629066,19
+4,radiotherapy,E,Dr Sam,2,88935,21-30,Male,Trauma,Minor,Other,6,Yes,4835.663865,24
+2,gynecology,B,Dr Sophia,9,112797,41-50,Female,Trauma,Minor,Heart disease,3,Yes,3568.375872,7
+4,TB & Chest disease,E,Dr John,3,26714,61-70,Female,Trauma,Moderate,None,2,Yes,4424.063757,33
+4,gynecology,B,Dr Sarah,8,125285,31-40,Female,Emergency,Moderate,High Blood Pressure,4,Yes,3549.264099,7
+4,gynecology,D,Dr Sophia,8,112142,31-40,Female,Emergency,Minor,Heart disease,4,Yes,4223.225878,9
+3,gynecology,F,Dr Sophia,5,109103,31-40,Female,Trauma,Minor,Heart disease,2,Yes,4665.011923,8
+6,gynecology,F,Dr Sophia,10,37786,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,6631.626567,9
+2,gynecology,B,Dr Olivia,8,43481,21-30,Female,Trauma,Moderate,None,2,Yes,5872.436776,9
+4,gynecology,B,Dr Nathan,9,43398,41-50,Female,Trauma,Minor,None,2,Yes,4391.952765,10
+6,gynecology,D,Dr Sophia,4,78325,31-40,Female,Urgent,Moderate,Heart disease,2,Yes,4303.352012,9
+6,gynecology,D,Dr Sophia,3,86095,21-30,Female,Emergency,Minor,Heart disease,4,Yes,4061.763678,9
+2,gynecology,D,Dr Sophia,8,125237,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,6997.188815,8
+2,gynecology,B,Dr Olivia,9,125692,21-30,Female,Emergency,Moderate,None,2,Yes,2381.077523,7
+3,gynecology,F,Dr Sophia,3,126175,31-40,Female,Emergency,Minor,Heart disease,2,Yes,4576.457479,8
+5,gynecology,D,Dr Nathan,9,40781,21-30,Female,Emergency,Minor,Other,3,Yes,4983.149667,8
+3,gynecology,F,Dr Sophia,10,16974,41-50,Female,Urgent,Moderate,Heart disease,2,Yes,4312.104773,11
+2,gynecology,F,Dr Sophia,3,5769,31-40,Female,Urgent,Moderate,Heart disease,9,Yes,6563.04622,8
+2,gynecology,D,Dr Sarah,1,15067,31-40,Female,Trauma,Extreme,High Blood Pressure,8,Yes,3776.138952,7
+12,gynecology,B,Dr Sophia,4,129868,21-30,Female,Trauma,Extreme,Heart disease,2,Yes,4695.331762,8
+2,gynecology,D,Dr Sophia,4,49385,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,6516.577204,7
+2,gynecology,B,Dr Sophia,3,33061,21-30,Female,Emergency,Moderate,Heart disease,2,Yes,4892.5105,9
+4,gynecology,D,Dr Nathan,1,101144,41-50,Female,Trauma,Minor,None,6,Yes,4052.442734,7
+2,gynecology,F,Dr Nathan,4,29645,31-40,Female,Trauma,Minor,None,2,Yes,4372.805768,8
+4,radiotherapy,E,Dr John,0,3739,71-80,Female,Trauma,Minor,None,4,Yes,4798.988812,23
+4,gynecology,D,Dr Olivia,7,63174,21-30,Female,Trauma,Moderate,Other,2,Yes,4377.67409,9
+2,gynecology,F,Dr Sophia,4,7114,31-40,Female,Emergency,Moderate,Heart disease,3,Yes,4412.412207,8
+4,gynecology,B,Dr Sophia,4,124676,31-40,Female,Trauma,Minor,Heart disease,2,Yes,4526.692118,6
+5,radiotherapy,A,Dr John,2,41005,71-80,Female,Trauma,Extreme,Other,6,Yes,5600.408232,23
+3,gynecology,F,Dr Sarah,9,6937,31-40,Female,Trauma,Minor,High Blood Pressure,6,Yes,3834.651966,11
+3,gynecology,F,Dr Nathan,5,50594,21-30,Female,Urgent,Minor,None,2,Yes,4142.720335,10
+3,gynecology,F,Dr Nathan,3,15336,41-50,Female,Urgent,Minor,Other,2,Yes,4911.185225,9
+2,gynecology,F,Dr Sophia,6,99042,31-40,Female,Emergency,Minor,Heart disease,2,Yes,4738.389626,9
+2,radiotherapy,E,Dr Sam,7,76291,61-70,Male,Urgent,Minor,High Blood Pressure,2,Yes,4742.34496,22
+3,anesthesia,A,Dr Mark,6,33426,51-60,Male,Trauma,Moderate,None,20,Yes,5442.323561,32
+2,gynecology,F,Dr Nathan,8,22872,21-30,Female,Trauma,Minor,None,5,Yes,7613.455836,8
+4,gynecology,F,Dr Sarah,5,60585,20-Nov,Female,Emergency,Minor,High Blood Pressure,12,Yes,4619.93798,6
+3,gynecology,B,Dr Sophia,5,69486,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,5382.297183,9
+5,gynecology,D,Dr Olivia,4,3234,21-30,Female,Emergency,Moderate,Other,4,Yes,2425.554268,9
+3,gynecology,D,Dr Olivia,8,54733,21-30,Female,Emergency,Moderate,None,2,Yes,4431.97485,10
+2,radiotherapy,A,Dr Sam,7,111250,61-70,Male,Trauma,Extreme,Other,2,Yes,5577.911534,21
+4,gynecology,B,Dr Olivia,0,47587,21-30,Female,Trauma,Moderate,None,3,Yes,4239.226078,8
+4,gynecology,B,Dr Sarah,4,130419,21-30,Female,Emergency,Minor,High Blood Pressure,2,Yes,4752.457263,10
+4,gynecology,D,Dr Sophia,8,28686,31-40,Female,Emergency,Extreme,Heart disease,2,Yes,3934.495453,9
+4,gynecology,F,Dr Sophia,9,125756,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,3827.281462,8
+2,gynecology,B,Dr Sophia,7,4962,41-50,Female,Trauma,Extreme,Heart disease,2,Yes,6557.093575,10
+2,radiotherapy,E,Dr Sam,4,102563,41-50,Male,Trauma,Moderate,Heart disease,4,Yes,7593.252646,6
+3,gynecology,B,Dr Sarah,1,114440,20-Nov,Female,Trauma,Minor,High Blood Pressure,2,Yes,4737.112168,7
+4,gynecology,F,Dr Olivia,8,40454,21-30,Female,Trauma,Moderate,None,4,Yes,3795.159063,8
+4,radiotherapy,A,Dr Sam,7,14455,51-60,Male,Trauma,Moderate,Heart disease,2,Yes,3760.246998,22
+4,gynecology,B,Dr Sophia,10,102910,21-30,Female,Trauma,Moderate,Heart disease,2,Yes,4738.821243,7
+4,gynecology,B,Dr Nathan,1,82628,31-40,Female,Trauma,Extreme,None,4,Yes,3579.851405,7
+6,gynecology,F,Dr Sophia,2,113341,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,5236.411578,10
+4,gynecology,D,Dr Sophia,5,124230,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,4817.548118,9
+2,radiotherapy,E,Dr John,5,78486,31-40,Female,Trauma,Moderate,None,4,Yes,4672.226023,4
+2,radiotherapy,E,Dr John,3,93522,41-50,Female,Urgent,Moderate,None,3,Yes,4872.651116,6
+3,anesthesia,C,Dr Mark,10,46480,21-30,Male,Emergency,Moderate,None,5,Yes,7326.224741,36
+2,gynecology,B,Dr Sophia,5,34248,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4391.599398,9
+1,gynecology,D,Dr Sarah,4,35074,20-Nov,Female,Trauma,Extreme,High Blood Pressure,6,Yes,4724.142096,9
+11,gynecology,F,Dr Nathan,3,100711,41-50,Female,Urgent,Minor,None,8,Yes,4392.296543,10
+4,radiotherapy,E,Dr John,10,23239,31-40,Female,Emergency,Moderate,High Blood Pressure,12,Yes,3813.124421,6
+3,gynecology,B,Dr Nathan,0,6312,21-30,Female,Trauma,Minor,None,1,Yes,4466.210039,8
+5,gynecology,D,Dr Sophia,8,57936,31-40,Female,Emergency,Minor,Heart disease,4,Yes,3998.213934,9
+4,gynecology,F,Dr Olivia,4,23097,31-40,Female,Trauma,Moderate,None,2,Yes,2636.823357,8
+5,gynecology,D,Dr Sophia,2,77669,31-40,Female,Emergency,Moderate,Heart disease,2,Yes,5099.222666,10
+4,gynecology,F,Dr Sophia,10,50587,41-50,Female,Trauma,Moderate,Heart disease,3,Yes,4629.334514,8
+3,gynecology,D,Dr Sarah,2,64560,31-40,Female,Trauma,Moderate,High Blood Pressure,4,Yes,4559.879103,9
+5,gynecology,D,Dr Sarah,2,128717,41-50,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4798.228942,8
+1,gynecology,B,Dr Sophia,3,18229,31-40,Female,Trauma,Moderate,Heart disease,3,Yes,4810.461502,9
+3,gynecology,F,Dr Sophia,4,47855,41-50,Female,Trauma,Moderate,Heart disease,4,Yes,4490.779775,8
+3,radiotherapy,E,Dr Sam,10,100550,0-10,Male,Trauma,Minor,Heart disease,2,Yes,6776.353498,23
+3,gynecology,D,Dr Nathan,7,34275,31-40,Female,Urgent,Minor,Other,6,Yes,3151.117641,8
+3,anesthesia,A,Dr Mark,1,23919,61-70,Male,Trauma,Moderate,High Blood Pressure,2,Yes,6211.234016,32
+2,radiotherapy,C,Dr Sam,10,20392,51-60,Male,Emergency,Moderate,Heart disease,4,Yes,5327.021331,27
+2,gynecology,F,Dr Sarah,4,39750,31-40,Female,Trauma,Moderate,High Blood Pressure,4,Yes,6096.897204,9
+2,gynecology,D,Dr Olivia,10,118791,21-30,Female,Emergency,Moderate,None,4,Yes,2914.404655,9
+2,gynecology,D,Dr Olivia,2,8661,31-40,Female,Emergency,Moderate,None,2,Yes,4224.12789,10
+2,gynecology,F,Dr Olivia,7,91030,21-30,Female,Urgent,Moderate,None,2,Yes,3445.138502,10
+4,gynecology,D,Dr Nathan,10,42364,21-30,Female,Trauma,Extreme,Other,2,Yes,4346.906415,10
+4,gynecology,D,Dr Nathan,1,125235,21-30,Female,Urgent,Extreme,None,6,Yes,7122.036142,9
+4,gynecology,F,Dr Sarah,5,6369,20-Nov,Female,Trauma,Minor,High Blood Pressure,4,Yes,4554.986647,10
+6,gynecology,D,Dr Sophia,2,77374,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,4793.264726,8
+3,radiotherapy,E,Dr Sam,10,16591,31-40,Male,Emergency,Moderate,Other,8,Yes,3746.424764,7
+2,radiotherapy,E,Dr Sam,6,113234,21-30,Male,Emergency,Moderate,None,4,Yes,6440.830513,20
+2,gynecology,B,Dr Sophia,0,85639,31-40,Female,Trauma,Minor,Heart disease,2,Yes,6839.43635,9
+4,radiotherapy,E,Dr Sam,5,71168,21-30,Male,Trauma,Minor,None,2,Yes,4087.791448,19
+3,gynecology,D,Dr Sophia,7,128965,41-50,Female,Trauma,Moderate,Heart disease,3,Yes,4055.886865,9
+3,radiotherapy,E,Dr Sam,5,71989,31-40,Male,Trauma,Moderate,None,2,Yes,4775.645438,6
+3,TB & Chest disease,E,Dr Mark,8,116056,21-30,Male,Emergency,Minor,Other,2,Yes,4861.985083,25
+4,gynecology,F,Dr Olivia,2,111151,41-50,Female,Trauma,Moderate,None,4,Yes,4810.2315,7
+2,gynecology,B,Dr Sarah,8,30432,31-40,Female,Trauma,Moderate,High Blood Pressure,2,Yes,3859.584353,8
+3,gynecology,B,Dr Sophia,9,3003,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,3482.478177,7
+3,gynecology,F,Dr Olivia,9,82598,41-50,Female,Urgent,Moderate,Other,2,Yes,4736.021962,9
+2,radiotherapy,E,Dr John,1,88447,31-40,Female,Trauma,Moderate,None,4,Yes,4913.115191,4
+5,gynecology,D,Dr Olivia,9,126753,21-30,Female,Emergency,Moderate,None,4,Yes,3922.845613,9
+2,gynecology,F,Dr Sarah,0,117959,41-50,Female,Trauma,Minor,High Blood Pressure,3,Yes,4693.769065,11
+2,gynecology,F,Dr Sophia,1,106472,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,3348.82565,8
+24,gynecology,D,Dr Nathan,6,67034,21-30,Female,Urgent,Minor,None,2,Yes,4013.235872,11
+3,gynecology,D,Dr Nathan,10,102416,21-30,Female,Emergency,Minor,None,2,Yes,4778.846527,9
+20,gynecology,D,Dr Sophia,2,83266,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,4231.238757,10
+5,gynecology,F,Dr Olivia,8,10655,41-50,Female,Urgent,Moderate,None,4,Yes,5071.823904,7
+3,gynecology,B,Dr Sophia,3,129370,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4851.251782,12
+2,radiotherapy,A,Dr Sam,2,111528,61-70,Male,Trauma,Moderate,Heart disease,2,Yes,4589.020323,21
+4,radiotherapy,E,Dr Sam,1,28945,31-40,Male,Trauma,Minor,Heart disease,4,Yes,4762.892921,6
+2,radiotherapy,E,Dr Sam,7,51233,31-40,Male,Trauma,Moderate,High Blood Pressure,4,Yes,3025.830232,7
+3,gynecology,F,Dr Sarah,7,108349,31-40,Female,Urgent,Moderate,High Blood Pressure,2,Yes,4634.078978,9
+3,gynecology,F,Dr Nathan,10,113567,21-30,Female,Emergency,Minor,Other,14,Yes,3898.334027,8
+1,gynecology,F,Dr Nathan,4,111320,41-50,Female,Trauma,Minor,None,4,Yes,6405.137168,8
+5,gynecology,F,Dr Olivia,7,44499,21-30,Female,Trauma,Moderate,None,4,Yes,5297.263878,8
+4,gynecology,D,Dr Olivia,5,59830,21-30,Female,Trauma,Moderate,None,4,Yes,5345.113222,9
+2,anesthesia,A,Dr Mark,9,71368,61-70,Male,Trauma,Minor,High Blood Pressure,2,Yes,4665.604352,28
+4,gynecology,B,Dr Olivia,1,14519,31-40,Female,Trauma,Moderate,None,4,Yes,4885.816804,7
+3,gynecology,D,Dr Olivia,3,22500,31-40,Female,Trauma,Moderate,Other,6,Yes,4434.4013,8
+2,gynecology,D,Dr Olivia,10,22855,31-40,Female,Trauma,Moderate,None,4,Yes,5219.289244,8
+3,radiotherapy,E,Dr Sam,6,127684,51-60,Male,Trauma,Moderate,Heart disease,3,Yes,5043.647681,23
+7,radiotherapy,C,Dr Sam,8,78137,71-80,Male,Emergency,Minor,None,2,Yes,3812.663933,21
+3,gynecology,F,Dr Sophia,8,62328,31-40,Female,Emergency,Extreme,Heart disease,2,Yes,4761.184774,10
+4,gynecology,B,Dr Sophia,0,52473,31-40,Female,Trauma,Minor,Heart disease,4,Yes,3576.230695,7
+4,gynecology,F,Dr Olivia,6,18121,21-30,Female,Trauma,Moderate,Other,4,Yes,7509.671854,9
+3,radiotherapy,E,Dr Sam,0,90527,21-30,Male,Emergency,Minor,None,2,Yes,4712.196421,24
+2,anesthesia,A,Dr Mark,8,40580,21-30,Male,Trauma,Minor,None,2,Yes,5078.826304,30
+5,gynecology,B,Dr Olivia,5,97183,41-50,Female,Trauma,Moderate,None,2,Yes,5777.085056,9
+5,gynecology,F,Dr Olivia,9,13862,21-30,Female,Emergency,Moderate,Other,7,Yes,5641.158346,8
+3,gynecology,F,Dr Sarah,5,109253,20-Nov,Female,Urgent,Minor,High Blood Pressure,2,Yes,4750.725805,9
+4,radiotherapy,C,Dr Sam,4,80795,31-40,Male,Trauma,Extreme,High Blood Pressure,4,Yes,3314.263586,5
+2,gynecology,D,Dr Sophia,5,53775,31-40,Female,Emergency,Moderate,Heart disease,5,Yes,4606.452917,9
+3,anesthesia,E,Dr Mark,2,87947,41-50,Male,Urgent,Moderate,None,2,Yes,4114.238697,15
+6,gynecology,D,Dr Olivia,10,122934,21-30,Female,Emergency,Moderate,None,4,Yes,3818.354823,9
+3,gynecology,B,Dr Sarah,10,54297,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,Yes,5099.852942,9
+3,anesthesia,A,Dr Mark,1,90100,31-40,Male,Trauma,Moderate,None,3,Yes,3699.469094,18
+2,anesthesia,E,Dr Mark,1,103392,51-60,Male,Trauma,Moderate,None,4,Yes,3172.064412,31
+2,TB & Chest disease,E,Dr Mark,6,49924,61-70,Male,Trauma,Extreme,Heart disease,4,Yes,3641.437422,26
+4,gynecology,D,Dr Nathan,5,80996,21-30,Female,Trauma,Minor,Other,2,Yes,3760.238401,8
+2,gynecology,B,Dr Olivia,0,39318,31-40,Female,Trauma,Moderate,Other,2,Yes,4762.593079,8
+2,radiotherapy,A,Dr Sam,9,19310,81-90,Male,Trauma,Moderate,Heart disease,2,Yes,8786.770607,20
+3,radiotherapy,E,Dr Sam,6,129840,51-60,Male,Emergency,Moderate,None,3,Yes,4084.687373,20
+2,gynecology,B,Dr Olivia,5,30003,31-40,Female,Trauma,Moderate,None,4,Yes,4321.272618,10
+21,gynecology,D,Dr Sarah,1,47642,41-50,Female,Trauma,Moderate,High Blood Pressure,2,Yes,3925.782386,11
+3,gynecology,F,Dr Sophia,8,27254,31-40,Female,Emergency,Minor,Heart disease,3,Yes,4060.666441,8
+5,gynecology,B,Dr Olivia,3,17080,31-40,Female,Emergency,Moderate,Other,2,Yes,4863.925135,8
+3,gynecology,B,Dr Sarah,6,55063,41-50,Female,Trauma,Minor,High Blood Pressure,3,Yes,4543.153028,8
+2,radiotherapy,E,Dr Sam,8,94743,31-40,Male,Emergency,Moderate,High Blood Pressure,6,Yes,4620.973796,4
+3,gynecology,B,Dr Sophia,8,27824,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4744.341169,9
+4,anesthesia,A,Dr Mark,10,42844,51-60,Male,Trauma,Moderate,High Blood Pressure,11,Yes,5927.618987,32
+3,gynecology,B,Dr Olivia,7,98809,21-30,Female,Trauma,Moderate,Other,4,Yes,4418.237756,8
+4,gynecology,B,Dr Sarah,4,103108,21-30,Female,Trauma,Moderate,High Blood Pressure,3,Yes,5503.018183,9
+2,gynecology,F,Dr Nathan,6,17049,41-50,Female,Emergency,Minor,None,2,Yes,3792.726068,8
+3,gynecology,B,Dr Sophia,1,112177,41-50,Female,Trauma,Minor,Heart disease,3,Yes,3993.704892,10
+2,gynecology,D,Dr Sophia,9,5738,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,4168.419454,7
+2,anesthesia,A,Dr Mark,6,44120,71-80,Male,Urgent,Minor,Heart disease,2,Yes,4927.297966,24
+4,gynecology,F,Dr Sarah,8,56415,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,Yes,4327.029783,9
+3,radiotherapy,E,Dr Sam,0,49221,41-50,Male,Trauma,Moderate,High Blood Pressure,4,Yes,3975.584513,6
+3,gynecology,F,Dr Sophia,6,5041,31-40,Female,Trauma,Moderate,Heart disease,3,Yes,5562.892498,6
+2,gynecology,D,Dr Nathan,7,39519,21-30,Female,Trauma,Extreme,None,2,Yes,5389.975643,6
+2,surgery,A,Dr Isaac,6,109671,21-30,Male,Emergency,Moderate,Other,4,Yes,5242.573431,34
+5,radiotherapy,E,Dr Sam,4,104024,71-80,Male,Emergency,Minor,Other,2,Yes,4273.796487,21
+3,gynecology,D,Dr Sophia,8,113881,31-40,Female,Emergency,Extreme,Heart disease,5,Yes,5872.881225,9
+2,anesthesia,E,Dr Mark,9,126257,51-60,Male,Trauma,Minor,None,4,Yes,3600.378465,33
+3,radiotherapy,A,Dr Sam,4,74368,31-40,Male,Trauma,Minor,None,2,Yes,4693.043122,6
+2,radiotherapy,A,Dr Sam,2,39493,21-30,Male,Emergency,Minor,Other,2,Yes,6894.835244,20
+3,gynecology,B,Dr Nathan,3,41103,21-30,Female,Emergency,Minor,Other,4,Yes,4426.186676,9
+3,radiotherapy,E,Dr Sam,10,30029,31-40,Male,Emergency,Moderate,Heart disease,5,Yes,3940.230562,5
+2,anesthesia,E,Dr Mark,1,91214,31-40,Male,Trauma,Moderate,Heart disease,4,Yes,3899.408079,22
+3,gynecology,D,Dr Sophia,3,80380,31-40,Female,Emergency,Extreme,Heart disease,4,Yes,3725.573614,9
+5,gynecology,D,Dr Sophia,5,98957,31-40,Female,Emergency,Moderate,Heart disease,2,Yes,4198.696995,9
+2,gynecology,D,Dr Sarah,6,81723,31-40,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4619.198574,6
+2,gynecology,D,Dr Olivia,5,3001,41-50,Female,Emergency,Moderate,Other,6,Yes,5147.207068,8
+5,anesthesia,A,Dr Mark,4,127074,41-50,Male,Trauma,Minor,None,3,Yes,4891.093883,13
+4,gynecology,B,Dr Sarah,4,117793,31-40,Female,Urgent,Moderate,High Blood Pressure,4,Yes,6428.049441,8
+3,gynecology,B,Dr Sophia,2,125119,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4881.502108,9
+4,gynecology,F,Dr Sophia,5,125823,41-50,Female,Emergency,Minor,Heart disease,14,Yes,5086.427615,8
+4,radiotherapy,E,Dr Sam,6,91487,71-80,Male,Trauma,Moderate,None,4,Yes,3832.313407,20
+7,gynecology,D,Dr Olivia,9,63612,31-40,Female,Emergency,Moderate,None,5,Yes,4525.673654,9
+5,gynecology,F,Dr Nathan,4,1909,21-30,Female,Trauma,Minor,None,4,Yes,4019.507651,8
+4,gynecology,D,Dr Sophia,9,123409,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,4631.220586,8
+5,gynecology,F,Dr Sophia,3,17595,31-40,Female,Trauma,Minor,Heart disease,4,Yes,4218.818319,6
+3,gynecology,F,Dr Sarah,9,20771,20-Nov,Female,Trauma,Minor,High Blood Pressure,3,Yes,5059.25198,10
+2,gynecology,B,Dr Olivia,6,57187,31-40,Female,Trauma,Moderate,None,2,Yes,3647.041407,9
+2,radiotherapy,E,Dr Sam,0,16922,21-30,Male,Emergency,Moderate,Heart disease,2,Yes,4263.28905,24
+2,gynecology,D,Dr Olivia,2,86692,21-30,Female,Emergency,Moderate,Other,4,Yes,3871.338822,9
+2,gynecology,D,Dr Sophia,2,35950,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,3205.958553,8
+3,gynecology,B,Dr Nathan,6,34004,31-40,Female,Trauma,Minor,None,3,Yes,4729.983828,7
+4,radiotherapy,E,Dr Sam,9,40921,31-40,Male,Trauma,Moderate,None,2,Yes,4037.719798,6
+2,gynecology,B,Dr Olivia,7,84603,41-50,Female,Trauma,Moderate,None,2,Yes,4358.317436,10
+2,anesthesia,A,Dr Mark,0,124093,31-40,Male,Trauma,Moderate,High Blood Pressure,2,Yes,4690.547915,20
+2,TB & Chest disease,E,Dr Mark,3,57693,21-30,Male,Emergency,Extreme,High Blood Pressure,21,Yes,2948.896534,29
+3,gynecology,D,Dr Sophia,7,38023,31-40,Female,Trauma,Extreme,Heart disease,1,No,2136.204775,8
+5,gynecology,F,Dr Sophia,7,50566,21-30,Female,Emergency,Minor,Heart disease,6,Yes,5013.442771,8
+3,radiotherapy,A,Dr Sam,9,88425,31-40,Male,Trauma,Moderate,Other,2,No,5204.51205,7
+6,gynecology,F,Dr Olivia,8,121190,21-30,Female,Trauma,Moderate,None,4,No,3181.634041,9
+2,gynecology,D,Dr Olivia,5,123607,31-40,Female,Emergency,Moderate,Other,2,No,4686.543023,9
+5,gynecology,B,Dr Olivia,2,83813,21-30,Female,Trauma,Moderate,None,2,Yes,3979.263927,9
+3,anesthesia,E,Dr Mark,2,127547,71-80,Male,Trauma,Extreme,High Blood Pressure,4,No,3608.666462,32
+5,gynecology,F,Dr Sophia,7,91701,31-40,Female,Trauma,Minor,Heart disease,4,No,3946.662401,10
+4,anesthesia,E,Dr Mark,4,11565,41-50,Male,Trauma,Minor,Heart disease,2,No,5201.318572,17
+2,radiotherapy,E,Dr Sam,7,37931,71-80,Male,Trauma,Minor,Heart disease,2,Yes,4188.518448,24
+4,anesthesia,A,Dr Mark,9,79345,31-40,Male,Trauma,Moderate,None,2,Yes,4774.092918,18
+4,gynecology,F,Dr Olivia,7,15758,31-40,Female,Emergency,Moderate,None,3,Yes,4633.114421,9
+4,gynecology,B,Dr Sophia,10,129010,31-40,Female,Urgent,Moderate,Heart disease,2,No,4223.771778,8
+4,gynecology,D,Dr Sophia,2,121925,31-40,Female,Trauma,Extreme,Heart disease,2,Yes,4468.068172,7
+4,gynecology,B,Dr Sarah,8,16075,41-50,Female,Trauma,Extreme,High Blood Pressure,4,No,3518.938522,11
+3,radiotherapy,E,Dr Sam,7,116639,51-60,Male,Emergency,Minor,None,5,Yes,3501.345998,25
+2,anesthesia,A,Dr Mark,9,125816,81-90,Male,Trauma,Moderate,High Blood Pressure,2,No,5312.966741,24
+4,gynecology,D,Dr Nathan,3,76681,31-40,Female,Urgent,Extreme,None,2,No,4660.397336,9
+6,gynecology,F,Dr Sophia,5,101169,41-50,Female,Trauma,Extreme,Heart disease,3,No,5244.949547,8
+12,gynecology,B,Dr Sophia,7,65867,21-30,Female,Trauma,Minor,Heart disease,2,Yes,4801.817499,8
+2,radiotherapy,A,Dr Sam,6,88308,31-40,Male,Urgent,Minor,High Blood Pressure,6,Yes,4835.96911,5
+8,radiotherapy,E,Dr Sam,9,26347,31-40,Male,Emergency,Extreme,None,2,No,4183.323249,6
+3,gynecology,F,Dr Olivia,2,89511,21-30,Female,Emergency,Moderate,Other,2,No,4539.796486,8
+4,gynecology,F,Dr Sophia,1,4326,31-40,Female,Trauma,Moderate,Heart disease,2,No,4784.729879,10
+6,radiotherapy,E,Dr Sam,8,43083,0-10,Male,Trauma,Moderate,None,4,Yes,4780.257732,28
+10,gynecology,D,Dr Nathan,3,89487,41-50,Female,Trauma,Minor,None,4,Yes,5298.347134,8
+4,gynecology,F,Dr Olivia,6,118731,21-30,Female,Trauma,Moderate,Other,2,Yes,7470.673012,8
+3,anesthesia,E,Dr Mark,6,123818,31-40,Male,Urgent,Moderate,None,2,No,4715.916996,17
+4,anesthesia,A,Dr Mark,1,17294,41-50,Male,Trauma,Minor,High Blood Pressure,4,No,4372.645086,21
+4,gynecology,D,Dr Sarah,0,24275,31-40,Female,Trauma,Extreme,High Blood Pressure,4,Yes,4115.231677,8
+3,gynecology,F,Dr Sarah,4,51237,20-Nov,Female,Trauma,Minor,High Blood Pressure,4,No,7911.4784,9
+4,gynecology,F,Dr Olivia,5,126006,21-30,Female,Trauma,Moderate,Other,4,Yes,3957.141472,10
+4,TB & Chest disease,A,Dr Mark,9,128944,61-70,Male,Trauma,Minor,Other,2,Yes,5973.485379,22
+2,gynecology,F,Dr Olivia,2,117048,21-30,Female,Trauma,Moderate,Other,6,Yes,5168.435795,8
+2,radiotherapy,E,Dr Sam,1,116893,31-40,Male,Emergency,Moderate,High Blood Pressure,6,Yes,5717.090826,6
+1,gynecology,D,Dr Nathan,9,113516,21-30,Female,Trauma,Extreme,Other,3,No,4651.535131,9
+3,gynecology,F,Dr Sophia,1,81855,31-40,Female,Trauma,Minor,Heart disease,2,No,5114.053709,6
+2,anesthesia,E,Dr Mark,9,77069,51-60,Male,Trauma,Moderate,Other,4,No,4229.232226,31
+3,gynecology,F,Dr Nathan,0,111351,21-30,Female,Emergency,Extreme,Other,8,Yes,6864.925056,8
+3,gynecology,D,Dr Olivia,7,55233,21-30,Female,Emergency,Moderate,Other,8,Yes,3860.726586,10
+2,TB & Chest disease,E,Dr Mark,1,14677,0-10,Male,Emergency,Moderate,Heart disease,4,Yes,4283.129173,33
+2,gynecology,D,Dr Sophia,0,117083,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,4699.430138,9
+3,gynecology,F,Dr Sophia,3,72934,21-30,Female,Emergency,Minor,Heart disease,2,No,5218.848278,9
+2,TB & Chest disease,E,Dr Mark,2,65485,31-40,Male,Urgent,Moderate,None,2,Yes,3788.813498,11
+9,radiotherapy,E,Dr Sam,5,18102,21-30,Male,Emergency,Moderate,Heart disease,4,Yes,4789.555853,24
+5,gynecology,D,Dr Olivia,10,35580,21-30,Female,Emergency,Moderate,Other,4,Yes,4717.780859,7
+5,radiotherapy,C,Dr Sam,1,111254,51-60,Male,Emergency,Extreme,None,4,Yes,3338.574832,25
+3,gynecology,B,Dr Olivia,6,40886,21-30,Female,Trauma,Moderate,None,2,Yes,4598.447889,11
+4,gynecology,F,Dr Sophia,10,6356,31-40,Female,Trauma,Moderate,Heart disease,4,No,4020.179633,11
+2,radiotherapy,E,Dr Sam,8,100991,41-50,Male,Trauma,Moderate,High Blood Pressure,2,No,4939.752233,7
+3,gynecology,D,Dr Sarah,9,45066,20-Nov,Female,Emergency,Moderate,High Blood Pressure,3,Yes,5961.163985,8
+4,surgery,A,Dr Isaac,9,4867,31-40,Male,Trauma,Moderate,None,19,Yes,4661.483338,14
+4,gynecology,F,Dr Sarah,0,54915,20-Nov,Female,Emergency,Moderate,High Blood Pressure,4,No,5500.19316,8
+3,gynecology,B,Dr Sophia,6,60592,41-50,Female,Trauma,Moderate,Heart disease,2,No,5190.31968,10
+3,gynecology,D,Dr Sophia,4,125394,31-40,Female,Emergency,Extreme,Heart disease,10,Yes,4154.370852,8
+2,TB & Chest disease,E,Dr Mark,4,80915,61-70,Male,Trauma,Moderate,Other,2,Yes,6912.737999,30
+2,gynecology,B,Dr Sarah,3,84908,21-30,Female,Trauma,Minor,High Blood Pressure,2,Yes,7489.40494,9
+2,gynecology,B,Dr Sarah,8,115961,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,Yes,6303.551032,9
+2,gynecology,B,Dr Sophia,7,27277,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,6831.704506,8
+3,radiotherapy,E,Dr Sam,1,53714,51-60,Male,Trauma,Moderate,None,2,Yes,4103.344112,23
+2,gynecology,F,Dr Sarah,4,60472,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,No,5090.429666,8
+3,gynecology,F,Dr Nathan,4,40063,21-30,Female,Urgent,Minor,Other,10,Yes,4938.781608,8
+2,gynecology,B,Dr Olivia,5,125373,21-30,Female,Trauma,Moderate,None,2,No,5164.136554,8
+2,radiotherapy,C,Dr Sam,6,77212,71-80,Male,Emergency,Moderate,None,2,Yes,4500.384581,30
+4,gynecology,F,Dr Sophia,3,38703,31-40,Female,Trauma,Minor,Heart disease,4,No,4655.591932,5
+2,anesthesia,C,Dr Mark,8,112843,41-50,Male,Emergency,Moderate,Other,5,No,5224.359934,20
+4,gynecology,D,Dr Sophia,8,122346,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,4438.62645,8
+3,gynecology,D,Dr Nathan,5,41144,21-30,Female,Urgent,Extreme,Other,6,No,4363.095806,8
+3,gynecology,D,Dr Nathan,4,42822,21-30,Female,Trauma,Extreme,Other,2,Yes,4663.800781,8
+3,radiotherapy,A,Dr Sam,8,123016,51-60,Male,Trauma,Moderate,None,6,No,5393.10666,23
+3,radiotherapy,E,Dr Sam,0,14047,21-30,Male,Emergency,Moderate,None,6,Yes,3990.250966,22
+2,gynecology,F,Dr Olivia,7,34536,21-30,Female,Trauma,Moderate,Other,4,No,4871.587632,8
+4,anesthesia,E,Dr Mark,3,74903,31-40,Male,Trauma,Moderate,Other,4,Yes,5322.249677,17
+2,gynecology,F,Dr Nathan,8,42458,31-40,Female,Urgent,Extreme,None,6,No,5407.407807,7
+3,gynecology,B,Dr Olivia,8,55495,31-40,Female,Trauma,Moderate,None,4,No,2100.508202,9
+2,anesthesia,E,Dr Mark,8,57142,51-60,Male,Trauma,Moderate,None,2,No,5129.810862,38
+4,gynecology,D,Dr Sophia,5,42447,41-50,Female,Urgent,Extreme,Heart disease,2,No,4477.982851,11
+3,gynecology,F,Dr Sophia,2,126007,31-40,Female,Trauma,Minor,Heart disease,2,Yes,4712.785448,7
+2,gynecology,B,Dr Olivia,2,94355,21-30,Female,Trauma,Moderate,Other,2,Yes,5544.100897,10
+2,gynecology,D,Dr Nathan,5,35349,21-30,Female,Emergency,Extreme,Other,4,Yes,5161.381129,7
+5,gynecology,D,Dr Olivia,3,28365,21-30,Female,Emergency,Moderate,None,4,No,5091.892852,8
+4,radiotherapy,E,Dr Sam,3,38159,21-30,Male,Emergency,Moderate,None,4,Yes,3815.29852,25
+2,radiotherapy,E,Dr Sam,5,109278,21-30,Male,Urgent,Minor,Other,3,No,5101.75729,23
+3,gynecology,D,Dr Sarah,0,124152,20-Nov,Female,Trauma,Extreme,High Blood Pressure,2,Yes,4496.132419,6
+4,gynecology,B,Dr Sophia,10,28899,31-40,Female,Trauma,Minor,Heart disease,4,No,4280.921584,10
+3,gynecology,B,Dr Nathan,1,5063,21-30,Female,Trauma,Minor,None,8,No,4560.786478,8
+3,gynecology,B,Dr Nathan,9,41395,41-50,Female,Trauma,Minor,None,4,No,3998.443852,10
+14,TB & Chest disease,E,Dr Mark,8,127399,31-40,Male,Emergency,Moderate,Heart disease,4,Yes,4689.083504,12
+3,gynecology,D,Dr Nathan,5,116417,41-50,Female,Trauma,Extreme,Other,4,Yes,5243.932709,10
+5,radiotherapy,E,Dr Sam,1,85890,41-50,Male,Trauma,Moderate,Heart disease,2,Yes,4891.452248,5
+2,radiotherapy,A,Dr Sam,9,60167,71-80,Male,Trauma,Moderate,None,2,No,5231.812505,19
+3,anesthesia,A,Dr Mark,5,80827,21-30,Male,Trauma,Minor,Other,3,No,2171.81138,36
+4,gynecology,D,Dr Sophia,8,3760,31-40,Female,Emergency,Moderate,Heart disease,4,No,2806.327699,8
+3,anesthesia,A,Dr Mark,5,71192,81-90,Male,Trauma,Minor,High Blood Pressure,2,No,4675.29925,32
+4,TB & Chest disease,E,Dr Mark,10,51753,21-30,Male,Trauma,Moderate,Other,4,No,4344.993783,23
+4,TB & Chest disease,A,Dr Mark,0,88060,61-70,Male,Emergency,Minor,None,10,Yes,4470.860417,31
+3,anesthesia,E,Dr Mark,7,58930,71-80,Male,Trauma,Moderate,None,4,No,3644.369117,24
+2,radiotherapy,A,Dr Sam,6,12048,61-70,Male,Trauma,Moderate,High Blood Pressure,2,No,4208.120442,22
+6,gynecology,F,Dr Sophia,1,79846,31-40,Female,Emergency,Moderate,Heart disease,2,No,6306.839225,8
+3,gynecology,F,Dr Olivia,9,76677,41-50,Female,Emergency,Moderate,None,4,No,4980.331817,8
+4,gynecology,D,Dr Sarah,9,8357,20-Nov,Female,Emergency,Extreme,High Blood Pressure,6,Yes,3343.587976,8
+2,radiotherapy,A,Dr Sam,8,126131,31-40,Male,Trauma,Moderate,None,2,Yes,5643.736602,5
+4,gynecology,D,Dr Olivia,8,108963,31-40,Female,Trauma,Moderate,Other,2,No,4071.60337,8
+4,gynecology,F,Dr Sarah,8,29841,20-Nov,Female,Emergency,Moderate,High Blood Pressure,2,Yes,4016.578753,10
+3,anesthesia,E,Dr Mark,8,83089,41-50,Male,Trauma,Minor,High Blood Pressure,4,Yes,3557.962533,17
+4,gynecology,D,Dr Olivia,10,3600,21-30,Female,Trauma,Moderate,Other,4,No,4086.633885,8
+5,gynecology,F,Dr Nathan,2,44082,31-40,Female,Trauma,Minor,Other,3,No,4615.557633,8
+3,gynecology,F,Dr Sophia,0,17909,31-40,Female,Urgent,Moderate,Heart disease,7,Yes,4540.803979,9
+5,gynecology,B,Dr Sophia,6,8064,31-40,Female,Emergency,Minor,Heart disease,3,No,4700.509674,9
+24,gynecology,B,Dr Nathan,8,18198,21-30,Female,Trauma,Minor,None,4,Yes,4092.255883,11
+2,gynecology,B,Dr Sarah,8,114250,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,Yes,4380.259165,10
+13,gynecology,F,Dr Nathan,7,25852,31-40,Female,Trauma,Minor,None,6,Yes,4401.143704,10
+24,radiotherapy,E,Dr Sam,4,114101,31-40,Male,Urgent,Extreme,Heart disease,9,Yes,6142.958451,6
+4,gynecology,F,Dr Olivia,10,82228,21-30,Female,Trauma,Moderate,None,4,Yes,7857.862239,8
+3,gynecology,F,Dr Sophia,6,102519,21-30,Female,Emergency,Minor,Heart disease,2,No,3272.214152,8
+2,gynecology,D,Dr Sarah,4,85398,20-Nov,Female,Trauma,Extreme,High Blood Pressure,2,No,4013.690436,7
+4,gynecology,D,Dr Sophia,5,60758,21-30,Female,Urgent,Extreme,Heart disease,4,Yes,6863.595832,7
+4,radiotherapy,E,Dr Sam,0,119458,51-60,Male,Emergency,Moderate,None,2,Yes,4592.668378,25
+3,gynecology,B,Dr Sophia,1,113984,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4057.310377,7
+2,gynecology,F,Dr Sophia,10,70595,31-40,Female,Trauma,Moderate,Heart disease,6,Yes,4964.048215,9
+2,gynecology,F,Dr Sarah,0,35129,20-Nov,Female,Emergency,Extreme,High Blood Pressure,6,Yes,5680.248819,10
+4,gynecology,B,Dr Nathan,8,68094,41-50,Female,Trauma,Minor,None,4,No,4613.939341,8
+3,gynecology,B,Dr Sophia,9,41398,31-40,Female,Trauma,Moderate,Heart disease,2,No,4514.049983,10
+3,TB & Chest disease,C,Dr Mark,8,44313,61-70,Male,Trauma,Extreme,Other,4,Yes,5004.570375,26
+3,gynecology,D,Dr Sophia,3,118297,21-30,Female,Urgent,Moderate,Heart disease,3,Yes,5447.687961,9
+24,gynecology,F,Dr Sophia,10,4591,31-40,Female,Emergency,Moderate,Heart disease,4,No,6855.568905,10
+4,gynecology,D,Dr Olivia,10,14174,21-30,Female,Emergency,Moderate,None,4,Yes,3890.399827,9
+4,gynecology,F,Dr Sophia,0,108001,41-50,Female,Trauma,Minor,Heart disease,4,Yes,4926.061236,8
+1,gynecology,B,Dr Nathan,10,15341,21-30,Female,Emergency,Minor,Other,4,No,5436.317907,9
+2,gynecology,F,Dr Nathan,0,51714,21-30,Female,Urgent,Minor,None,4,Yes,5603.538061,9
+5,gynecology,D,Dr Olivia,0,125095,21-30,Female,Emergency,Moderate,None,4,No,4582.350741,8
+5,gynecology,B,Dr Sophia,2,33672,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,5067.016115,11
+5,gynecology,B,Dr Olivia,7,49923,31-40,Female,Trauma,Moderate,None,2,Yes,5472.809939,9
+6,gynecology,D,Dr Sophia,7,33619,31-40,Female,Emergency,Moderate,Heart disease,4,No,5622.53477,9
+4,gynecology,D,Dr Nathan,5,59975,31-40,Female,Emergency,Minor,Other,2,Yes,3954.62539,9
+3,gynecology,F,Dr Sophia,2,42603,31-40,Female,Emergency,Moderate,Heart disease,2,Yes,4677.189736,9
+2,gynecology,B,Dr Sarah,8,71874,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,5631.856707,9
+2,radiotherapy,E,Dr Sam,7,66096,81-90,Male,Trauma,Moderate,Heart disease,4,No,3811.908883,22
+2,gynecology,B,Dr Olivia,9,36981,41-50,Female,Trauma,Moderate,None,3,Yes,4526.731678,9
+3,gynecology,D,Dr Sophia,5,11050,31-40,Female,Trauma,Extreme,Heart disease,4,No,4688.092,9
+3,gynecology,F,Dr Nathan,0,5147,21-30,Female,Emergency,Minor,None,6,Yes,5126.760368,8
+3,gynecology,F,Dr Sophia,10,110615,31-40,Female,Trauma,Moderate,Heart disease,6,Yes,4396.193749,10
+5,gynecology,D,Dr Nathan,3,112988,41-50,Female,Emergency,Minor,None,5,Yes,4999.325621,9
+3,gynecology,D,Dr Sophia,5,109380,31-40,Female,Emergency,Moderate,Heart disease,8,Yes,5054.642326,8
+2,gynecology,F,Dr Olivia,2,120948,41-50,Female,Trauma,Moderate,None,2,No,6010.312418,9
+4,radiotherapy,E,Dr Sam,0,125874,81-90,Male,Trauma,Moderate,Heart disease,2,Yes,4653.430043,25
+4,radiotherapy,E,Dr Sam,1,12556,31-40,Male,Emergency,Moderate,High Blood Pressure,18,Yes,3243.314743,7
+3,gynecology,F,Dr Sophia,7,79088,31-40,Female,Emergency,Moderate,Heart disease,5,No,4262.120403,10
+2,gynecology,D,Dr Sophia,4,126774,31-40,Female,Trauma,Extreme,Heart disease,4,No,3768.972872,8
+2,anesthesia,E,Dr Mark,9,49539,51-60,Male,Trauma,Moderate,Other,4,Yes,5168.98007,29
+4,gynecology,F,Dr Sarah,7,50707,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,Yes,4012.873714,8
+1,gynecology,B,Dr Nathan,2,104279,31-40,Female,Trauma,Minor,None,2,Yes,4713.357148,9
+3,gynecology,F,Dr Olivia,9,71766,31-40,Female,Urgent,Moderate,None,2,No,4671.490722,8
+4,TB & Chest disease,A,Dr Mark,6,92422,31-40,Male,Trauma,Moderate,Heart disease,23,Yes,5202.3079,7
+3,gynecology,F,Dr Sophia,8,17266,41-50,Female,Emergency,Extreme,Heart disease,3,No,7948.967147,9
+5,gynecology,F,Dr Nathan,8,32083,21-30,Female,Urgent,Extreme,Other,2,Yes,4179.556418,8
+12,gynecology,B,Dr Sophia,1,45551,31-40,Female,Emergency,Extreme,Heart disease,2,Yes,4341.992944,9
+7,gynecology,D,Dr Olivia,10,106174,21-30,Female,Emergency,Moderate,Other,4,Yes,4215.423368,8
+2,gynecology,F,Dr Sarah,6,29633,20-Nov,Female,Trauma,Minor,High Blood Pressure,14,Yes,7624.317939,8
+11,gynecology,F,Dr Nathan,5,102692,31-40,Female,Emergency,Minor,Other,2,Yes,4023.98762,9
+2,gynecology,F,Dr Sarah,3,124707,31-40,Female,Emergency,Moderate,High Blood Pressure,4,No,6766.61291,8
+4,gynecology,F,Dr Sarah,8,120024,20-Nov,Female,Trauma,Extreme,High Blood Pressure,2,No,3977.286324,8
+3,TB & Chest disease,E,Dr Mark,9,85855,91-100,Male,Trauma,Moderate,Heart disease,3,Yes,4612.030943,27
+2,gynecology,B,Dr Sophia,4,50616,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,5303.431279,7
+14,anesthesia,E,Dr Mark,3,95435,71-80,Male,Trauma,Moderate,Other,20,No,4951.724161,43
+4,radiotherapy,E,Dr Sam,8,11011,31-40,Male,Trauma,Minor,None,4,Yes,4843.643253,7
+3,gynecology,B,Dr Nathan,2,114754,31-40,Female,Emergency,Minor,None,2,Yes,4449.909753,9
+3,radiotherapy,E,Dr Sam,5,46021,71-80,Male,Trauma,Moderate,Heart disease,2,Yes,4457.178828,20
+4,gynecology,D,Dr Sophia,2,1741,31-40,Female,Trauma,Moderate,Heart disease,2,No,4730.753514,9
+2,gynecology,F,Dr Olivia,6,108525,21-30,Female,Emergency,Moderate,None,6,Yes,7579.465456,7
+3,gynecology,B,Dr Olivia,4,78923,21-30,Female,Trauma,Moderate,None,3,Yes,7192.603114,8
+2,gynecology,D,Dr Nathan,0,36038,21-30,Female,Trauma,Extreme,Other,4,Yes,4897.634129,8
+6,gynecology,B,Dr Sophia,5,88706,31-40,Female,Trauma,Minor,Heart disease,4,No,4388.360366,8
+2,radiotherapy,A,Dr Sam,1,80073,31-40,Male,Trauma,Moderate,High Blood Pressure,2,No,5324.576018,6
+7,gynecology,F,Dr Olivia,10,69872,31-40,Female,Trauma,Moderate,None,11,Yes,4713.99158,9
+3,gynecology,B,Dr Sarah,2,117313,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,5134.38581,8
+2,gynecology,B,Dr Nathan,3,6223,31-40,Female,Trauma,Minor,None,2,No,4559.273455,10
+4,gynecology,F,Dr Olivia,4,86787,21-30,Female,Emergency,Moderate,None,4,No,4761.67581,8
+2,gynecology,F,Dr Nathan,9,17018,21-30,Female,Urgent,Minor,None,2,Yes,7468.178356,10
+3,gynecology,F,Dr Olivia,3,114680,21-30,Female,Trauma,Moderate,None,2,No,5032.413437,9
+2,radiotherapy,E,Dr Sam,8,115772,81-90,Male,Emergency,Moderate,High Blood Pressure,4,No,4423.560973,23
+3,anesthesia,A,Dr Mark,0,127199,61-70,Male,Trauma,Moderate,High Blood Pressure,3,Yes,4124.578613,33
+2,radiotherapy,E,Dr Sam,8,121252,41-50,Male,Trauma,Minor,Other,4,No,5341.651552,7
+3,gynecology,D,Dr Sophia,0,11226,31-40,Female,Emergency,Moderate,Heart disease,6,Yes,3840.870116,9
+3,gynecology,F,Dr Olivia,7,29877,21-30,Female,Trauma,Moderate,None,4,No,3782.928092,8
+2,anesthesia,A,Dr Mark,1,120285,51-60,Male,Trauma,Moderate,Other,5,Yes,4523.927562,34
+4,gynecology,F,Dr Olivia,4,6206,21-30,Female,Trauma,Moderate,None,2,Yes,4981.998706,9
+2,gynecology,F,Dr Nathan,8,75623,21-30,Female,Emergency,Minor,Other,2,No,6464.559808,9
+3,gynecology,D,Dr Olivia,1,107276,21-30,Female,Emergency,Moderate,None,2,Yes,4894.029122,8
+1,gynecology,D,Dr Nathan,2,129091,41-50,Female,Trauma,Extreme,None,4,Yes,4652.87627,10
+2,anesthesia,A,Dr Mark,4,34089,91-100,Male,Trauma,Moderate,None,7,No,4320.717728,32
+3,TB & Chest disease,E,Dr Mark,2,108044,91-100,Male,Trauma,Moderate,Heart disease,2,Yes,3342.963377,31
+3,gynecology,F,Dr Sophia,5,32374,31-40,Female,Trauma,Minor,Heart disease,3,No,4717.99524,8
+3,anesthesia,E,Dr Mark,1,28088,41-50,Male,Trauma,Minor,Heart disease,6,Yes,5210.460341,18
+5,TB & Chest disease,E,Dr Mark,10,110429,61-70,Male,Urgent,Moderate,None,7,No,3573.604542,30
+4,gynecology,B,Dr Sophia,8,112637,21-30,Female,Urgent,Minor,Heart disease,4,No,4466.275221,8
+2,TB & Chest disease,E,Dr Mark,3,52947,51-60,Male,Emergency,Moderate,Heart disease,2,Yes,3796.337822,25
+4,gynecology,B,Dr Sophia,2,75271,31-40,Female,Trauma,Minor,Heart disease,2,No,3848.967615,8
+6,gynecology,B,Dr Nathan,2,10817,21-30,Female,Trauma,Minor,None,3,Yes,7045.429426,9
+4,TB & Chest disease,E,Dr Mark,8,16061,61-70,Male,Urgent,Minor,Heart disease,4,No,3947.712608,24
+4,gynecology,F,Dr Sophia,0,23709,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,3320.084053,11
+3,radiotherapy,E,Dr Sam,8,95893,31-40,Male,Urgent,Moderate,None,2,Yes,4231.244912,5
+4,gynecology,F,Dr Sarah,1,101098,20-Nov,Female,Trauma,Minor,High Blood Pressure,4,No,4927.087728,8
+3,gynecology,D,Dr Sophia,3,20560,31-40,Female,Trauma,Moderate,Heart disease,8,Yes,4570.636152,9
+3,gynecology,B,Dr Olivia,2,16536,31-40,Female,Trauma,Moderate,None,2,Yes,4860.558777,10
+3,gynecology,F,Dr Sophia,2,34303,31-40,Female,Trauma,Minor,Heart disease,2,No,4362.043109,10
+21,gynecology,D,Dr Sarah,6,5858,41-50,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4478.050413,11
+2,radiotherapy,A,Dr Sam,9,3034,61-70,Male,Trauma,Moderate,High Blood Pressure,2,Yes,4958.401882,21
+5,gynecology,B,Dr Sarah,3,14366,41-50,Female,Trauma,Moderate,High Blood Pressure,4,Yes,5739.316686,9
+3,gynecology,D,Dr Olivia,5,2903,41-50,Female,Emergency,Moderate,None,3,No,3480.956383,8
+3,gynecology,F,Dr Sophia,5,3133,31-40,Female,Emergency,Minor,Heart disease,4,Yes,5375.610184,8
+3,gynecology,D,Dr Sarah,6,77746,20-Nov,Female,Trauma,Moderate,High Blood Pressure,6,Yes,4493.526166,10
+3,gynecology,D,Dr Sophia,8,129265,31-40,Female,Urgent,Moderate,Heart disease,4,Yes,4605.79817,8
+2,gynecology,B,Dr Olivia,8,95464,21-30,Female,Trauma,Moderate,None,2,No,6412.892327,7
+4,gynecology,B,Dr Olivia,2,81766,31-40,Female,Trauma,Moderate,None,4,No,4833.233585,9
+2,gynecology,F,Dr Sarah,2,70360,31-40,Female,Trauma,Minor,High Blood Pressure,2,No,4729.750171,7
+2,gynecology,F,Dr Sophia,1,74662,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,5374.870775,7
+3,radiotherapy,E,Dr Sam,0,77230,41-50,Male,Trauma,Moderate,None,2,No,7914.495677,6
+3,radiotherapy,E,Dr Sam,4,18862,71-80,Male,Urgent,Moderate,Other,3,No,4867.667277,21
+4,gynecology,D,Dr Olivia,9,100713,21-30,Female,Trauma,Moderate,Other,4,Yes,3550.050314,8
+3,surgery,A,Dr Isaac,6,49540,31-40,Male,Trauma,Moderate,None,2,Yes,4082.735704,16
+2,radiotherapy,E,Dr Sam,8,127413,21-30,Male,Trauma,Moderate,Heart disease,3,No,5722.498722,24
+2,anesthesia,A,Dr Mark,7,50673,51-60,Male,Trauma,Moderate,Heart disease,2,No,4860.001685,38
+7,radiotherapy,C,Dr Sam,10,13104,41-50,Male,Emergency,Minor,Other,4,No,3915.045575,5
+2,TB & Chest disease,E,Dr Mark,5,34274,61-70,Male,Urgent,Moderate,Heart disease,2,No,6951.178081,34
+2,gynecology,F,Dr Olivia,7,99482,21-30,Female,Trauma,Moderate,Other,2,No,4862.763653,8
+3,gynecology,B,Dr Olivia,3,48090,31-40,Female,Emergency,Moderate,None,2,Yes,4016.994398,10
+4,gynecology,B,Dr Olivia,4,111598,21-30,Female,Trauma,Moderate,None,4,No,4422.414168,8
+4,gynecology,D,Dr Sophia,2,11706,41-50,Female,Trauma,Moderate,Heart disease,2,Yes,4251.990296,8
+5,gynecology,F,Dr Sophia,6,126269,31-40,Female,Trauma,Moderate,Heart disease,4,No,4255.040936,8
+3,gynecology,B,Dr Sophia,6,51360,31-40,Female,Trauma,Moderate,Heart disease,2,No,4152.811528,9
+4,gynecology,B,Dr Sarah,7,70500,21-30,Female,Trauma,Minor,High Blood Pressure,5,No,3711.215954,10
+5,gynecology,B,Dr Sarah,0,4049,31-40,Female,Emergency,Moderate,High Blood Pressure,2,Yes,4138.037888,8
+4,gynecology,F,Dr Sarah,0,15613,20-Nov,Female,Emergency,Minor,High Blood Pressure,3,Yes,2837.196422,6
+4,gynecology,D,Dr Olivia,8,78142,21-30,Female,Emergency,Moderate,Other,2,No,5495.160348,8
+3,gynecology,D,Dr Olivia,1,91251,31-40,Female,Trauma,Moderate,None,2,No,4355.600605,8
+4,gynecology,F,Dr Sophia,1,127135,31-40,Female,Emergency,Moderate,Heart disease,4,No,3102.189018,9
+2,gynecology,B,Dr Sarah,9,22352,31-40,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4572.753425,7
+3,radiotherapy,A,Dr Sam,2,127088,71-80,Male,Trauma,Minor,None,2,Yes,4682.468148,21
+1,radiotherapy,A,Dr Sam,0,42216,51-60,Male,Trauma,Extreme,None,4,No,4366.009109,24
+5,radiotherapy,C,Dr Sam,3,85754,71-80,Male,Emergency,Moderate,High Blood Pressure,4,Yes,5158.341806,26
+6,gynecology,F,Dr Sarah,7,125982,20-Nov,Female,Trauma,Moderate,High Blood Pressure,4,No,3331.794701,7
+4,gynecology,D,Dr Sophia,1,34047,21-30,Female,Trauma,Extreme,Heart disease,2,No,3107.19324,9
+3,gynecology,D,Dr Olivia,4,127020,21-30,Female,Emergency,Moderate,None,3,Yes,4158.797054,8
+2,gynecology,D,Dr Sophia,10,54359,41-50,Female,Emergency,Moderate,Heart disease,2,No,4612.958714,9
+2,radiotherapy,A,Dr Sam,1,109225,61-70,Male,Trauma,Moderate,Heart disease,2,No,4920.36731,20
+4,gynecology,D,Dr Olivia,10,1879,21-30,Female,Trauma,Moderate,None,2,No,3640.191707,9
+2,anesthesia,E,Dr Mark,7,78128,31-40,Male,Trauma,Moderate,Heart disease,4,No,4853.250311,18
+2,gynecology,D,Dr Sophia,5,127433,31-40,Female,Trauma,Moderate,Heart disease,4,No,4669.584348,8
+4,gynecology,F,Dr Sophia,1,1486,31-40,Female,Emergency,Minor,Heart disease,4,Yes,4096.360628,8
+3,gynecology,F,Dr Sophia,1,17866,41-50,Female,Trauma,Moderate,Heart disease,2,No,3786.287476,9
+3,gynecology,F,Dr Olivia,6,4971,21-30,Female,Trauma,Moderate,None,2,Yes,4918.561792,7
+3,gynecology,F,Dr Nathan,9,65168,31-40,Female,Trauma,Minor,None,3,Yes,4015.741607,7
+2,gynecology,D,Dr Sophia,5,121548,21-30,Female,Emergency,Moderate,Heart disease,4,No,4721.961257,8
+3,radiotherapy,E,Dr Sam,8,115387,71-80,Male,Emergency,Minor,None,6,Yes,4307.598156,25
+5,gynecology,F,Dr Sophia,3,116406,31-40,Female,Emergency,Minor,Heart disease,2,No,4064.867142,7
+2,radiotherapy,E,Dr Sam,10,118060,81-90,Male,Trauma,Moderate,None,2,No,3298.207491,23
+4,gynecology,F,Dr Sophia,2,77866,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,3777.955983,7
+1,gynecology,B,Dr Sophia,0,71003,31-40,Female,Emergency,Minor,Heart disease,8,Yes,5408.233309,9
+21,anesthesia,E,Dr Mark,0,127282,21-30,Male,Trauma,Moderate,Heart disease,1,No,6710.124623,38
+24,gynecology,F,Dr Sarah,2,98244,20-Nov,Female,Urgent,Extreme,High Blood Pressure,4,Yes,3693.351464,12
+3,TB & Chest disease,C,Dr Mark,3,48661,41-50,Male,Trauma,Minor,Other,4,No,3222.231409,10
+2,gynecology,F,Dr Olivia,10,1604,31-40,Female,Trauma,Moderate,None,2,Yes,4033.144939,8
+3,gynecology,B,Dr Sarah,8,17037,31-40,Female,Trauma,Moderate,High Blood Pressure,3,No,3749.693342,7
+2,gynecology,D,Dr Sophia,3,25617,31-40,Female,Emergency,Moderate,Heart disease,3,Yes,5986.285124,8
+4,gynecology,F,Dr Sophia,0,16131,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,4134.704429,8
+3,gynecology,F,Dr Sophia,6,106484,31-40,Female,Trauma,Minor,Heart disease,2,Yes,4040.375424,8
+3,radiotherapy,E,Dr Sam,3,87156,71-80,Male,Emergency,Moderate,None,4,Yes,4836.91275,24
+3,gynecology,F,Dr Olivia,7,69844,41-50,Female,Trauma,Moderate,None,4,No,2832.429464,9
+4,gynecology,F,Dr Sophia,6,51589,31-40,Female,Trauma,Moderate,Heart disease,4,No,6535.683967,9
+4,gynecology,F,Dr Sarah,2,23077,31-40,Female,Emergency,Minor,High Blood Pressure,4,Yes,4572.542578,10
+3,gynecology,F,Dr Nathan,2,125530,31-40,Female,Emergency,Minor,None,3,No,4851.818458,9
+12,gynecology,F,Dr Olivia,10,36441,21-30,Female,Urgent,Moderate,Other,2,No,5710.027351,8
+6,gynecology,B,Dr Olivia,5,71116,31-40,Female,Trauma,Moderate,None,3,No,4616.606094,10
+4,anesthesia,E,Dr Mark,9,110607,51-60,Male,Trauma,Moderate,Other,4,No,5562.044896,36
+3,gynecology,F,Dr Sophia,5,33919,41-50,Female,Emergency,Extreme,Heart disease,3,No,7682.852385,8
+2,gynecology,B,Dr Olivia,3,80880,21-30,Female,Trauma,Moderate,Other,2,No,5414.196545,6
+3,gynecology,B,Dr Sarah,6,107567,20-Nov,Female,Trauma,Moderate,High Blood Pressure,11,Yes,4583.246919,9
+2,anesthesia,E,Dr Mark,3,3842,31-40,Male,Trauma,Minor,None,2,No,4929.155095,14
+2,radiotherapy,A,Dr Sam,9,44165,61-70,Male,Trauma,Moderate,High Blood Pressure,2,Yes,4084.35421,18
+2,gynecology,B,Dr Olivia,0,40556,31-40,Female,Trauma,Moderate,Other,2,No,4935.337042,8
+3,radiotherapy,E,Dr Sam,4,63795,0-10,Male,Urgent,Minor,Other,2,No,5061.949055,28
+4,anesthesia,A,Dr Mark,0,13647,21-30,Male,Trauma,Extreme,High Blood Pressure,4,No,4203.769719,36
+3,gynecology,F,Dr Sarah,1,17508,31-40,Female,Emergency,Minor,High Blood Pressure,4,Yes,5779.756228,8
+5,radiotherapy,C,Dr Sam,0,45684,31-40,Male,Emergency,Moderate,Heart disease,4,Yes,4709.797229,4
+4,gynecology,B,Dr Sophia,4,12081,31-40,Female,Trauma,Moderate,Heart disease,2,Yes,4524.433917,9
+3,gynecology,F,Dr Olivia,2,95504,31-40,Female,Trauma,Moderate,None,4,Yes,5527.871582,9
+3,gynecology,F,Dr Nathan,8,20018,21-30,Female,Trauma,Minor,None,2,Yes,3946.995213,8
+3,gynecology,F,Dr Sophia,10,5014,31-40,Female,Trauma,Minor,Heart disease,9,Yes,5921.838855,8
+3,gynecology,F,Dr Sophia,3,127648,31-40,Female,Emergency,Moderate,Heart disease,5,Yes,4455.985848,9
+5,radiotherapy,A,Dr Sam,1,112862,61-70,Male,Trauma,Minor,Heart disease,3,Yes,3711.095306,22
+2,anesthesia,E,Dr Mark,1,90920,51-60,Male,Trauma,Moderate,None,4,Yes,4658.283087,32
+6,gynecology,B,Dr Sophia,7,100195,31-40,Female,Trauma,Moderate,Heart disease,7,Yes,3918.538905,9
+3,gynecology,F,Dr Sarah,8,108505,31-40,Female,Trauma,Minor,High Blood Pressure,2,No,4405.929298,7
+4,anesthesia,E,Dr Mark,9,40796,31-40,Male,Trauma,Extreme,None,2,No,4142.394878,19
+4,gynecology,B,Dr Sophia,9,21896,21-30,Female,Trauma,Moderate,Heart disease,4,Yes,4135.638869,10
+3,radiotherapy,E,Dr Sam,1,63567,41-50,Male,Trauma,Moderate,None,3,Yes,4735.46497,6
+4,gynecology,F,Dr Sophia,9,32364,21-30,Female,Trauma,Minor,Heart disease,12,Yes,4679.996844,8
+4,gynecology,B,Dr Nathan,5,26377,31-40,Female,Emergency,Minor,Other,4,No,4488.313654,10
+2,anesthesia,E,Dr Mark,3,32183,71-80,Male,Urgent,Moderate,Heart disease,2,No,4761.019822,31
+3,gynecology,F,Dr Sarah,4,25369,21-30,Female,Urgent,Minor,High Blood Pressure,2,No,4309.935795,9
+3,anesthesia,E,Dr Mark,4,126908,61-70,Male,Trauma,Moderate,None,2,No,4865.264102,35
+2,gynecology,B,Dr Olivia,3,84435,21-30,Female,Trauma,Moderate,None,2,No,3297.597063,9
+1,gynecology,D,Dr Sarah,5,49358,20-Nov,Female,Trauma,Extreme,High Blood Pressure,2,No,2952.399264,7
+4,gynecology,D,Dr Olivia,8,7845,31-40,Female,Urgent,Moderate,None,4,Yes,3861.5163,8
+3,gynecology,D,Dr Sarah,5,98737,31-40,Female,Urgent,Minor,High Blood Pressure,2,Yes,5232.045062,8
+3,gynecology,B,Dr Sarah,2,24607,31-40,Female,Urgent,Moderate,High Blood Pressure,2,No,4179.552505,9
+6,radiotherapy,A,Dr Sam,9,41509,51-60,Male,Emergency,Moderate,Other,2,Yes,5697.807179,19
+5,gynecology,D,Dr Sophia,8,116379,31-40,Female,Trauma,Extreme,Heart disease,4,No,4749.391681,10
+4,gynecology,F,Dr Olivia,1,23761,21-30,Female,Emergency,Moderate,None,4,No,3936.824572,8
+21,gynecology,D,Dr Olivia,10,71485,31-40,Female,Trauma,Moderate,None,5,No,4776.916555,11
+2,radiotherapy,E,Dr Sam,6,95807,61-70,Male,Urgent,Moderate,Other,6,Yes,4723.427745,22
+4,gynecology,B,Dr Sophia,8,83454,31-40,Female,Trauma,Moderate,Heart disease,2,No,4295.624156,10
+4,gynecology,F,Dr Olivia,8,93384,21-30,Female,Trauma,Moderate,Other,4,No,3012.412693,10
+2,gynecology,B,Dr Sophia,0,122058,41-50,Female,Trauma,Minor,Heart disease,4,Yes,5079.460686,7
+2,anesthesia,A,Dr Mark,8,27412,71-80,Male,Trauma,Moderate,None,2,Yes,5371.609551,27
+3,gynecology,F,Dr Olivia,7,122889,21-30,Female,Emergency,Moderate,None,4,Yes,3826.723169,9
+4,radiotherapy,E,Dr Sam,7,108722,51-60,Male,Trauma,Moderate,None,4,No,4221.622025,26
+2,gynecology,F,Dr Olivia,0,129608,21-30,Female,Trauma,Moderate,None,8,Yes,4612.550024,9
+3,anesthesia,E,Dr Mark,6,125499,31-40,Male,Trauma,Moderate,Other,6,No,6892.921427,19
+2,radiotherapy,C,Dr Sam,6,40095,41-50,Male,Trauma,Extreme,Heart disease,4,Yes,5042.448356,7
+2,gynecology,F,Dr Sophia,6,48020,31-40,Female,Trauma,Minor,Heart disease,4,No,4701.437627,10
+2,radiotherapy,E,Dr Sam,4,86892,41-50,Male,Trauma,Moderate,None,2,No,4252.464532,6
+3,gynecology,F,Dr Sophia,5,18927,31-40,Female,Emergency,Moderate,Heart disease,2,Yes,7268.907756,8
+2,gynecology,B,Dr Nathan,0,72088,21-30,Female,Trauma,Minor,None,2,Yes,4732.608693,10
+3,gynecology,D,Dr Olivia,10,26713,41-50,Female,Emergency,Moderate,None,2,Yes,4363.786464,10
+3,gynecology,B,Dr Sophia,10,38842,31-40,Female,Trauma,Moderate,Heart disease,4,No,4718.560695,10
+3,radiotherapy,A,Dr Sam,2,118903,31-40,Male,Trauma,Moderate,None,2,No,4863.711322,5
+2,gynecology,B,Dr Olivia,0,122001,41-50,Female,Trauma,Moderate,None,6,No,5186.529979,9
+2,radiotherapy,A,Dr Sam,2,123428,71-80,Male,Trauma,Moderate,High Blood Pressure,2,Yes,4792.381081,24
+3,gynecology,F,Dr Nathan,10,32058,21-30,Female,Emergency,Minor,Other,3,No,6972.513499,8
+4,gynecology,D,Dr Nathan,0,124508,21-30,Female,Trauma,Extreme,None,2,No,4733.810931,9
+4,gynecology,B,Dr Nathan,0,36823,31-40,Female,Trauma,Extreme,None,4,Yes,3792.456194,9
+2,radiotherapy,A,Dr Sam,1,69709,31-40,Male,Emergency,Moderate,Heart disease,15,Yes,6955.854586,7
+4,TB & Chest disease,A,Dr Mark,0,60523,31-40,Male,Trauma,Minor,None,6,Yes,7722.631633,8
+3,gynecology,F,Dr Olivia,10,125259,21-30,Female,Trauma,Moderate,None,2,Yes,3654.696009,10
+4,gynecology,D,Dr Sophia,7,40177,31-40,Female,Emergency,Moderate,Heart disease,4,Yes,4312.456838,9
+5,gynecology,F,Dr Olivia,0,88494,41-50,Female,Trauma,Moderate,None,4,Yes,4188.757978,7
+2,TB & Chest disease,E,Dr Mark,3,27155,61-70,Male,Trauma,Minor,None,3,Yes,4338.509412,23
+3,radiotherapy,E,Dr Sam,10,79094,61-70,Male,Urgent,Moderate,Other,2,Yes,4938.648593,19
+2,gynecology,B,Dr Olivia,9,37119,21-30,Female,Trauma,Moderate,Other,4,No,5721.625619,9
+2,gynecology,B,Dr Olivia,2,110992,21-30,Female,Trauma,Moderate,Other,3,No,4799.183871,10
+4,gynecology,F,Dr Sarah,8,88257,21-30,Female,Emergency,Minor,High Blood Pressure,4,No,5740.065731,10
+4,gynecology,B,Dr Olivia,3,108815,31-40,Female,Trauma,Moderate,None,4,No,6164.22522,7
+2,radiotherapy,A,Dr Sam,3,118441,51-60,Male,Trauma,Moderate,High Blood Pressure,2,Yes,6032.796764,27
+3,gynecology,F,Dr Sophia,6,72256,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,6640.025954,8
+2,gynecology,D,Dr Sarah,2,32091,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,No,5114.174414,9
+5,gynecology,B,Dr Sophia,8,9904,41-50,Female,Trauma,Extreme,Heart disease,2,Yes,6889.862104,8
+1,radiotherapy,C,Dr Sam,7,9356,31-40,Male,Emergency,Moderate,High Blood Pressure,4,Yes,2230.850431,6
+2,gynecology,D,Dr Sophia,3,10737,21-30,Female,Trauma,Extreme,Heart disease,2,No,4796.74531,10
+2,gynecology,F,Dr Olivia,8,72382,21-30,Female,Trauma,Moderate,None,2,No,4681.407374,9
+2,gynecology,D,Dr Sarah,4,15789,20-Nov,Female,Urgent,Moderate,High Blood Pressure,4,No,8312.94049,9
+2,gynecology,F,Dr Nathan,1,29691,21-30,Female,Urgent,Minor,None,2,No,3861.580864,9
+3,radiotherapy,E,Dr Sam,7,72401,61-70,Male,Emergency,Moderate,Heart disease,4,Yes,3712.046518,24
+0,anesthesia,E,Dr Mark,2,2044,31-40,Male,Trauma,Minor,High Blood Pressure,3,No,6618.735982,19
+2,gynecology,B,Dr Sophia,7,72546,31-40,Female,Trauma,Moderate,Heart disease,2,No,4572.254759,8
+3,gynecology,F,Dr Sarah,3,8622,31-40,Female,Urgent,Minor,High Blood Pressure,2,No,4307.194698,8
+5,radiotherapy,C,Dr Sam,9,127997,51-60,Male,Emergency,Moderate,Other,4,No,4701.886728,26
+2,radiotherapy,A,Dr Sam,10,26884,21-30,Male,Trauma,Moderate,Other,2,Yes,5368.527346,21
+5,radiotherapy,E,Dr Sam,6,5596,41-50,Male,Trauma,Minor,Other,4,No,4661.359416,5
+3,radiotherapy,E,Dr Sam,3,49891,51-60,Male,Trauma,Moderate,High Blood Pressure,4,No,7067.700403,20
+7,gynecology,D,Dr Olivia,5,17881,21-30,Female,Trauma,Moderate,None,4,Yes,4809.746839,8
+2,anesthesia,E,Dr Mark,4,125182,31-40,Male,Trauma,Minor,Heart disease,2,Yes,3863.912714,14
+6,gynecology,F,Dr Sophia,7,88214,31-40,Female,Emergency,Moderate,Heart disease,3,No,6232.777987,7
+5,gynecology,D,Dr Sophia,0,4154,31-40,Female,Trauma,Minor,Heart disease,2,No,4537.133452,9
+2,gynecology,F,Dr Sophia,9,37755,31-40,Female,Trauma,Minor,Heart disease,2,No,6799.003637,8
+3,gynecology,B,Dr Nathan,4,53787,21-30,Female,Trauma,Extreme,Other,3,Yes,5643.298623,9
+1,gynecology,B,Dr Olivia,7,30969,31-40,Female,Trauma,Moderate,None,2,No,4345.150753,8
+1,gynecology,D,Dr Sophia,6,46501,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,4127.016159,8
+3,anesthesia,E,Dr Mark,7,13754,21-30,Male,Emergency,Moderate,Other,2,Yes,2545.293457,36
+5,gynecology,B,Dr Sophia,5,111550,31-40,Female,Trauma,Moderate,Heart disease,4,Yes,4433.65693,7
+3,gynecology,B,Dr Sarah,3,115431,21-30,Female,Emergency,Minor,High Blood Pressure,2,No,5242.151725,9
+4,radiotherapy,E,Dr Sam,2,26689,51-60,Male,Emergency,Moderate,Heart disease,4,Yes,6906.634561,21
+2,radiotherapy,E,Dr Sam,6,48205,81-90,Male,Trauma,Moderate,High Blood Pressure,2,Yes,5026.019297,23
+2,gynecology,D,Dr Sarah,10,73829,20-Nov,Female,Emergency,Moderate,High Blood Pressure,2,No,5249.565553,8
+2,surgery,A,Dr Isaac,9,70839,81-90,Male,Trauma,Moderate,Other,4,Yes,5827.848427,34
+4,gynecology,B,Dr Olivia,2,37251,21-30,Female,Emergency,Moderate,None,4,No,4684.024997,7
+2,gynecology,F,Dr Sophia,6,34631,31-40,Female,Trauma,Moderate,Heart disease,3,Yes,4915.995243,10
+2,gynecology,D,Dr Sarah,8,11717,20-Nov,Female,Trauma,Extreme,High Blood Pressure,2,No,3432.848417,10
+3,gynecology,F,Dr Sophia,4,3871,41-50,Female,Emergency,Moderate,Heart disease,3,Yes,6920.625626,6
+2,anesthesia,A,Dr Mark,5,123874,61-70,Male,Trauma,Moderate,High Blood Pressure,4,Yes,4566.598562,30
+4,gynecology,D,Dr Sophia,2,30357,31-40,Female,Emergency,Minor,Heart disease,4,No,4160.26615,8
+2,radiotherapy,C,Dr Sam,4,26186,71-80,Male,Emergency,Moderate,Heart disease,2,No,7888.584434,10
+2,gynecology,D,Dr Olivia,2,120012,31-40,Female,Trauma,Moderate,None,4,Yes,4607.529538,9
+2,gynecology,D,Dr Sophia,1,125998,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,3373.087749,8
+4,gynecology,D,Dr Sarah,3,18382,41-50,Female,Trauma,Extreme,High Blood Pressure,4,Yes,4123.310342,7
+2,radiotherapy,E,Dr Sam,9,63835,61-70,Male,Trauma,Moderate,None,2,No,4646.265865,22
+5,gynecology,F,Dr Olivia,6,102715,41-50,Female,Trauma,Moderate,None,4,Yes,4343.482672,8
+5,gynecology,D,Dr Olivia,4,38842,31-40,Female,Emergency,Moderate,Other,2,No,4045.965254,9
+3,gynecology,F,Dr Sarah,7,129736,20-Nov,Female,Trauma,Moderate,High Blood Pressure,2,Yes,4161.696698,8
+10,gynecology,D,Dr Sophia,10,126216,31-40,Female,Urgent,Moderate,Heart disease,6,Yes,4919.541838,10
+4,gynecology,F,Dr Nathan,3,81755,21-30,Female,Urgent,Minor,None,6,Yes,4146.281672,10
+2,gynecology,B,Dr Olivia,7,98956,21-30,Female,Trauma,Moderate,None,4,No,4770.402937,9
+24,gynecology,D,Dr Sophia,4,95380,21-30,Female,Trauma,Moderate,Heart disease,2,Yes,4017.896815,10
+2,gynecology,F,Dr Nathan,3,56107,21-30,Female,Trauma,Minor,Other,2,No,3271.329081,8
+4,gynecology,F,Dr Sophia,0,26272,31-40,Female,Trauma,Moderate,Heart disease,7,Yes,3021.717512,9
+3,anesthesia,A,Dr Mark,9,60076,21-30,Male,Trauma,Moderate,High Blood Pressure,4,No,3577.735452,33
+2,surgery,A,Dr Isaac,3,105500,81-90,Male,Trauma,Moderate,None,5,No,4871.735198,36
+3,gynecology,B,Dr Olivia,3,96631,21-30,Female,Trauma,Moderate,None,2,Yes,4527.174144,9
+4,gynecology,D,Dr Sarah,4,79671,41-50,Female,Emergency,Moderate,High Blood Pressure,4,Yes,3888.031702,10
+3,gynecology,D,Dr Sophia,1,124362,31-40,Female,Trauma,Extreme,Heart disease,4,Yes,4828.849665,7
+4,anesthesia,C,Dr Mark,7,44915,41-50,Male,Emergency,Extreme,Other,4,Yes,3124.181846,17
+12,gynecology,B,Dr Sophia,8,72663,41-50,Female,Trauma,Minor,Heart disease,4,No,4409.373134,7
