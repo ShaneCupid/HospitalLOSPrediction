@@ -4,13 +4,15 @@
 This repository contains parts 1 and 2 of the Hospital Length of Stay (LOS) Prediction project. The goal is to use machine learning to predict the length of stay for patients in a hospital setting. The project leverages historical patient data to train predictive models, aiming to assist in resource allocation and operational planning.
 
 ## Technologies Used
-- Python 3
-- Jupyter Notebook
-- Pandas
-- Scikit-Learn
-- TensorFlow/Keras
-- Matplotlib
-- Seaborn
+- [Python 3](https://www.python.org/doc/) - A powerful programming language used for data science and machine learning tasks.
+- [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) - An open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+- [Pandas](https://pandas.pydata.org/docs/) - A fast, powerful, flexible and easy to use open-source data analysis and manipulation tool, built on top of the Python programming language.
+- [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html) - A free software machine learning library for Python that features various classification, regression and clustering algorithms.
+- [TensorFlow](https://www.tensorflow.org/learn) - An end-to-end open-source platform for machine learning that has a comprehensive, flexible ecosystem of tools, libraries, and community resources.
+- [Keras](https://keras.io/) - A deep learning API written in Python, running on top of the machine learning platform TensorFlow.
+- [Matplotlib](https://matplotlib.org/stable/contents.html) - A plotting library for the Python programming language and its numerical mathematics extension NumPy.
+- [Seaborn](https://seaborn.pydata.org/) - A Python data visualization library based on matplotlib that provides a high-level interface for drawing attractive and informative statistical graphics.
+
 
 ## Description
 The project is divided into two main parts, each encapsulated in its respective Jupyter notebook:
